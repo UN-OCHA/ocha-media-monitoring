@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-15",
+  "printed_time": "1:31 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An escalating regional Ebola outbreak originating in the Democratic Republic of the Congo has killed more than 5,400 people among over 11,000 cases amid severe healthcare security disruptions.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "Flash flooding across remote mountain valleys in Nepal and Tibet has killed at least 157 people and left hundreds more missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "An armed gang attack in Kenscoff, Haiti, left at least 47 people dead, including five children, and resulted in the mass abduction of over 50 civilians.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "A magnitude 7.8 earthquake in the southern Philippines killed at least 32 people, injured 200 others, and left 12 people missing.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "Severe winter weather and ongoing bombardment in Gaza have worsened conditions for displaced families, with reports of children dying from cold exposure.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An escalating Ebola outbreak centered in the Democratic Republic of the Congo has killed over 5,400 people and expanded regionally, severely compounded by armed attacks on healthcare facilities and high mortality among young children.",
+    "label": "GLOBAL / CROSS-CUTTING — Escalating Regional Ebola Epidemic"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT/Gaza — Military Strikes and Winter Flooding Deepen Humanitarian Crisis",
+        "score": 8.0,
+        "body": "Severe winter weather and flooding in Gaza are worsening conditions for displaced Palestinians, with reports of children dying from cold exposure. International appeals, including from the European Union and over 50 countries, are demanding that Israel lift its blockade and reopen border crossings to permit immediate humanitarian aid and large-scale recovery. Concurrently, Israeli air strikes and artillery bombardment continue, including a drone strike near northern Gaza's Jabalia refugee camp that killed at least two Palestinians. Separately, the Israeli military reported striking a senior Hamas commander.",
+        "verified_figures": [
+          "at least 2 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/israeli-military-says-it-struck-senior-commander-hamas-military-wing-2026-11-14/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Frontline Fighting and Siege Heighten Famine and Explosive Hazards",
+        "score": 7.0,
+        "body": "A tightened siege by Houthi forces surrounding Yemen's third-largest city, Taiz, is raising fears of famine. Concurrently, renewed frontline hostilities in the area threaten communities already experiencing mass displacement, chronic food insecurity, and worsening child malnutrition. The HALO Trust warned that escalated fighting around Taiz poses a sharp risk of increased casualties from landmines and unexploded ordnance among civilians fleeing conflict zones.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/world/yemen/iran-backed-houthis-tighten-siege-strategic-yemen-city-sparking-famine-rcna605173"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass Gang Attack and Kidnapping in Kenscoff",
+        "score": 9.0,
+        "body": "The United Nations confirmed that armed men killed at least 47 people, including at least five children, and kidnapped over 50 others in Kenscoff, on the outskirts of Port-au-Prince. The incident is considered one of the largest mass kidnappings in Haiti in recent years. In a social media video, a gang leader threatened to kill all hostages if the Haitian National Police harm any gang members during rescue attempts.",
+        "verified_figures": [
+          "at least 47 killed",
+          "at least 5 children killed",
+          "more than 50 kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Joint Anti-Gang Operations Near Port-au-Prince",
+        "score": 6.5,
+        "body": "Haitian authorities and El Salvador conducted joint operations against major criminal organizations near Port-au-Prince. Salvadoran President Nayib Bukele published footage of attack helicopters targeting a compound belonging to Wilson Joseph, leader of the 400 Mawozo gang. As many as 20 people were killed in the strike, though Joseph was reportedly absent. The operation follows a separate drone strike on November 6 that killed Mathias Saintil, head of the Boston gang in Cité Soleil.",
+        "verified_figures": [
+          "as many as 20 killed"
+        ],
+        "sources": [
+          {
+            "name": "Asociación Almendrón",
+            "url": "https://www.almendron.com/tribuna/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquake Rescue Operations",
+        "score": 7.5,
+        "body": "Emergency efforts continue in Venezuela following earthquakes, with reports indicating that the window to locate survivors is closing. Venezuela sits near fault lines along the South American and Caribbean tectonic plates. The country faces critical challenges in building long-term resilience and emergency response infrastructure to protect lives during major seismic events.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/read-how-countries-live-with-earthquakes-and-build-resilience/liveblog-post-77705974"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Uncontrolled Ebola Outbreak Exceeds 11,000 Cases Amid Attacks on Healthcare",
+        "score": 9.0,
+        "body": "An escalating Ebola outbreak in the Democratic Republic of the Congo has surpassed 11,000 cases and 5,400 deaths, making it the deadliest in the country's history. Containment efforts remain severely hindered by ongoing insecurity in eastern areas like Ituri. The World Health Organization verified 81 attacks on health facilities, which cut off response teams from more than 1,000 exposed individuals. The United Nations reported the epidemic is expanding rapidly across vast areas. The health emergency compounds a broader humanitarian crisis in DRC, where an estimated 28.8 million people face acute food insecurity.",
+        "verified_figures": [
+          "More than 11,000 cases",
+          "5,437 deaths",
+          "81 attacks on health facilities",
+          "More than 1,000 exposed people cut off from health responders",
+          "28.8 million people lacking adequate food"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-six-months-0bbf5ac7d0d5262a146f68f8143ffe7b"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Inter-Tribal Violence Kills 50 and Drives Mass Displacement in Darfur",
+        "score": 7.0,
+        "body": "Severe armed clashes between the Rizeigat and Habbaniya tribes near the border of South and East Darfur have left more than 50 civilians dead and dozens wounded. The violence erupted near Al-Sunta and Al-Firdaws localities following long-standing disputes over livestock looting. The fighting triggered large-scale mass displacement as residents fled affected villages seeking safe havens.",
+        "verified_figures": [
+          "More than 50 civilians killed",
+          "Dozens wounded"
+        ],
+        "sources": [
+          {
+            "name": "صوت الإمارات",
+            "url": "https://www.voiceofemirates.com/en/politics/2026/11/15/tragedy-in-western-sudan-50-dead-and-dozens-wounded-in-clashes-between-rizeigat-and-habbaniya-tribes/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — Border Conflict Spillover Displaces Over 10,000 in Marsabit County",
+        "score": 5.5,
+        "body": "Spillover violence from armed conflict in Moyale, Ethiopia, has displaced more than 10,000 people across the border into Marsabit County, Kenya, according to local government officials. The displacement and continuous influx of refugees are placing severe pressure on local healthcare services in the host communities.",
+        "verified_figures": [
+          "More than 10,000 people displaced"
+        ],
+        "sources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/AddisstandardEng/posts/daily_brief-more-than-10000-kenyans-displaced-by-spillover-from-ethiopias-moyale/1575071921324705/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strike targets cargo vessel and infrastructure at Chornomorsk port",
+        "score": 5.0,
+        "body": "Russian forces reportedly struck a cargo vessel and infrastructure in Ukraine's Black Sea port of Chornomorsk, according to Russian state media cited by Reuters. The strike targets key maritime transport infrastructure critical to regional logistics and trade. No immediate details were provided in the available reporting regarding casualties, the extent of damage, or the specific cargo aboard the targeted vessel.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/inspired-wales-beat-new-zealand-first-time-73-years-2026-11-14/"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — US-mediated peace talks stall over territorial proposals and energy truce rejection",
+        "score": 6.0,
+        "body": "Ukrainian President Volodymyr Zelensky stated that recent US-mediated negotiations included proposals for Ukraine to cede the Donbas region in exchange for NATO membership, though discussions yielded no tangible progress. Zelensky also claimed Russia rejected a proposed energy truce. Meanwhile, French President Emmanuel Macron warned that limiting international aid to Ukraine would force Kyiv into an unjust peace and risk renewed war. European leaders have expressed concern over potential major US concessions to Moscow ahead of a planned summit involving US, Chinese, and Russian leadership.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Philippines — Magnitude 7.8 Earthquake Kills 32 and Injures 200 in South",
+        "score": 9.0,
+        "body": "A magnitude 7.8 earthquake struck the southern Philippines, leaving at least 32 people dead, 200 injured, and 12 others missing, according to the Philippine civil defense agency. Search and rescue operations are ongoing amid reports that individuals may be trapped inside a damaged school. Tsunami warnings issued following the morning tremor have mostly been lifted while officials assess regional structural damage.",
+        "verified_figures": [
+          "32 people killed",
+          "200 people injured",
+          "12 people missing",
+          "Magnitude 7.8 earthquake"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/powerful-earthquake-shakes-the-philippines/g-77459824"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military Airstrike Kills 12 at Rakhine Displacement Camp",
+        "score": 7.5,
+        "body": "A Myanmar military airstrike targeted a displacement camp in Rakhine state, killing at least 12 people, including a five-year-old child, and wounding 18 others, according to local rescuers. The attack highlights severe protection risks facing internally displaced civilians in the state.",
+        "verified_figures": [
+          "12 people killed",
+          "18 people wounded"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Magnitude 7.4 Offshore Earthquake Kills One and Damages Infrastructure",
+        "score": 5.0,
+        "body": "A magnitude 7.4 earthquake struck off eastern Indonesia in the Molucca Sea between Sulawesi and Maluku, killing one person and damaging buildings. The early-morning tremor produced tsunami waves reaching up to 75 centimeters high and prompted regional tsunami warnings that were subsequently lifted. Structural damage and panic were reported in North Sulawesi province.",
+        "verified_figures": [
+          "1 person killed",
+          "Magnitude 7.4 earthquake",
+          "Tsunami waves up to 75 centimetres high"
+        ],
+        "sources": [
+          {
+            "name": "weekendargus.co.za",
+            "url": "https://weekendargus.co.za/news/world/2026-04-02-74-earthquake-hits-indonesia-kills-one-and-triggers-tsunami-warning/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Regional Ebola Outbreak Escalates Past 5,400 Deaths",
+        "score": 9.0,
+        "body": "Six months after being declared, an Ebola outbreak caused by the Bundibugyo virus continues to expand across the Democratic Republic of the Congo, with cases also reported in Kenya and Nigeria. Health agencies report over 11,000 cases and 5,437 deaths. Children account for more than a quarter of confirmed cases, and seven in ten infected children under five have died. Doctors Without Borders warned the outbreak remains out of control due to response dysfunctions and ineffective contact tracing. Meanwhile, Uganda has initiated a national Ebola preparedness workplan under IGAD, while the UAE partially eased travel restrictions on Ugandan nationals.",
+        "verified_figures": [
+          "11,145 cases",
+          "5,437 deaths",
+          "Children account for more than a quarter of confirmed cases and one third of deaths",
+          "7 in 10 children under five with confirmed Ebola have died"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal / Tibet — Flash Floods Kill Over 150 People and Leave Hundreds Missing",
+        "score": 9.0,
+        "body": "A severe flash flood swept through remote valleys across Nepal and Tibet, destroying villages and causing extensive destruction. Nepali police confirmed that authorities have recovered 157 bodies, while dozens more are confirmed dead and hundreds remain missing. Emergency teams are working to relocate families from high-risk flood areas to safer locations, with the government promising full assistance for emergency rescue, shelter, food, and medical treatment.",
+        "verified_figures": [
+          "157 bodies recovered",
+          "hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "India — Successive Cyclones Threaten Coastal Andhra Pradesh",
+        "score": 4.0,
+        "body": "Coastal areas in Andhra Pradesh, India, face additional storm risks as a new weather system brews over the Bay of Bengal. According to the India Meteorological Department, the system could intensify into a cyclonic storm. The development follows a month of severe weather caused by two successive cyclones, Arnab and Murasu, which battered the state.",
+        "verified_figures": [
+          "Two successive cyclones"
+        ],
+        "sources": [
+          {
+            "name": "The Times of India",
+            "url": "https://timesofindia.indiatimes.com/city/vijayawada/a-port-destroyed-a-word-born-how-a-deadly-andhra-storm-gave-the-world-the-word-cyclone/articleshow/135839526.cms"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Taiz, Yemen",
+      "score": 7.5,
+      "trigger": "Continued tightening of the siege surrounding Taiz by Houthi forces alongside escalated frontline combat could completely sever vital supply lines.",
+      "potential_impact": "Accelerated risk of city-wide famine and increased civilian casualties from unexploded ordnance and landmines among fleeing populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "NBC News",
+          "url": "https://www.nbcnews.com/world/yemen/iran-backed-houthis-tighten-siege-strategic-yemen-city-sparking-famine-rcna605173"
+        }
+      ]
+    },
+    {
+      "location": "South and East Darfur, Sudan",
+      "score": 7.0,
+      "trigger": "Retaliatory mobilization following clashes over livestock looting between the Rizeigat and Habbaniya tribes could ignite broader inter-communal warfare.",
+      "potential_impact": "Further civilian casualties, destruction of rural settlements, and mass displacement across South and East Darfur border areas.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "صوت الإمارات",
+          "url": "https://www.voiceofemirates.com/en/politics/2026/11/15/tragedy-in-western-sudan-50-dead-and-dozens-wounded-in-clashes-between-rizeigat-and-habbaniya-tribes/"
+        }
+      ]
+    },
+    {
+      "location": "Andhra Pradesh, India",
+      "score": 4.0,
+      "trigger": "A developing low-pressure system over the Bay of Bengal could intensify into a cyclonic storm making landfall within 72 hours.",
+      "potential_impact": "Renewed coastal flooding and infrastructure damage in areas recently affected by two successive tropical cyclones.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/city/vijayawada/a-port-destroyed-a-word-born-how-a-deadly-andhra-storm-gave-the-world-the-word-cyclone/articleshow/135839526.cms"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "DW.com",
+        "count": 4
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "NBC News",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "The Times of India",
+        "count": 2
+      },
+      {
+        "name": "صوت الإمارات",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Asociación Almendrón",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "weekendargus.co.za",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "4 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 808,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
