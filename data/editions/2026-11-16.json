@@ -1,0 +1,439 @@
+{
+  "date": "2026-11-16",
+  "printed_time": "3:03 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Humanitarian crisis in Gaza grows after flooding and Israeli airstrikes Dr.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Congo Ebola Outbreak Defies Control as Conflict, Hunger Fuel Crisis Six Months In.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "The World Health Organization has verified 81 attacks on health facilities since the Ebola outbreak in the Democratic Republic of Congo was declared six months ago, with violence cutting responders off from more than 1,000 exposed people.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "WHO: Ebola outbreak in DR Congo largest, deadliest in country’s history.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "The Ebola outbreak in Congo has almost spiraled out of control – more than 5,500 dead in six months Kyiv • UNN In Congo, 11,376 Ebola cases and 5,568 deaths have been recorded.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Humanitarian crisis in Gaza grows after flooding and Israeli airstrikes Dr.",
+    "label": "MIDDLE EAST — Video Humanitarian crisis in Gaza grows after flooding and Israeli airstrikes - "
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Video Humanitarian crisis in Gaza grows after flooding and Israeli airstrikes - ABC News",
+        "score": 10.0,
+        "body": "Humanitarian crisis in Gaza grows after flooding and Israeli airstrikes Dr. Ahmed Al-Farra, head of Nasser Hospital in Gaza, discusses the multiple times his facility has been targeted by Israeli missiles and the flooding that he says is escalating respiratory illnesses. November 15, 2026",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/video/138158828/"
+          }
+        ]
+      },
+      {
+        "headline": "Iran launches drone attacks against US military base in Bahrain",
+        "score": 9.0,
+        "body": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+          }
+        ]
+      },
+      {
+        "headline": "3 Palestinians killed in Israeli attacks across Gaza: Medical sources",
+        "score": 8.5,
+        "body": "3 Palestinians killed in Israeli attacks across Gaza: Medical sources Drone strike kills 2 near mosque northwest of Rafah, while third Palestinian dies of wounds from earlier strike on displacement tent By Hosni Nedim and Tarek Chouiref GAZA CITY, Palestine/ISTANBUL (AA) – Three Palestinians were killed in Gaza on Sunday, including two in an Israeli drone strike near Rafah and another who died from injuries sustained in an earlier attack, according to medical sources. The drone strike targeted an area near Muawiya Mosque in Al-Mawasi northwest of Rafah, killing Ahmed Saeed Fathi Abdeen and Moataz Hajji and wounding several others. A source at Gaza’s crossings authority said the attack target",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "US Muslims",
+            "url": "https://www.usmuslims.com/3-palestinians-killed-in-israeli-attacks-across-gaza-medical-sources-381813h.htm"
+          }
+        ]
+      },
+      {
+        "headline": "Today’s Headlines: Journalist Detained in West Bank | Iran Hits US Site in Bahrain | Of...",
+        "score": 8.5,
+        "body": "Today’s Headlines: Journalist Detained in West Bank | Iran Hits US Site in Bahrain | Ofer Prison Torture.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Palestine Chronicle",
+            "url": "https://www.palestinechronicle.com/todays-headlines-journalist-detained-in-west-bank-iran-hits-us-site-in-bahrain-ofer-prison-torture/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Venezuela — Consecutive Earthquakes Cause Mass Casualties and Crisis",
+        "score": 9.5,
+        "body": "One week after consecutive magnitude 7.2 and 7.5 earthquakes struck Venezuela, authorities report nearly 3,000 fatalities, with tens of thousands of people still missing. Rescue operations continue under grueling conditions, though officials warn the likelihood of finding additional survivors under the rubble has grown slim. Aerial footage demonstrates catastrophic damage in the hardest-hit urban areas. The disaster has triggered a widening crisis and highlighted systemwide infrastructure failures, severely increasing emergency relief needs across affected communities.",
+        "verified_figures": [
+          "Nearly 3,000 reported dead",
+          "Tens of thousands missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuela-earthquakes-trigger-widening-crisis/g-77802771"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Gang Violence Kills 47 and Displaces Thousands in Capital",
+        "score": 8.5,
+        "body": "Escalating gang violence in the Port-au-Prince metropolitan area continues to inflict severe civilian casualties and drive displacement. The United Nations confirmed an attack in Kenscoff that killed at least 47 people, including five children, and resulted in more than 50 kidnappings. An armed group leader threatened to murder hostages if security forces attempt rescues. Separately, intensified clashes in Croix-des-Bouquets have displaced approximately 2,000 people since mid-October, further restricting access to essential services and deepening the humanitarian crisis.",
+        "verified_figures": [
+          "At least 47 killed",
+          "At least 5 children killed",
+          "More than 50 kidnapped",
+          "Approximately 2,000 displaced since mid-October"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Escalates Amid Insecurity and Food Crisis",
+        "score": 9.0,
+        "body": "Six months into the Democratic Republic of the Congo's Ebola outbreak, response efforts remain severely hampered by armed conflict, widespread hunger, and targeted violence. The World Health Organization has verified 81 attacks on health facilities, isolating responders from over 1,000 exposed individuals. Armed groups, including the Allied Democratic Forces, continue attacking civilians across Ituri and North Kivu provinces. Approximately two-thirds of recent deaths have occurred within communities outside treatment centers. Furthermore, an estimated 28.8 million people face severe food insecurity across the country. The outbreak, caused by the Bundibugyo virus, spans 68 health zones across eight provinces.",
+        "verified_figures": [
+          "11,376 confirmed Ebola cases",
+          "5,568 Ebola deaths",
+          "81 verified attacks on health facilities",
+          "28.8 million people lacking sufficient food",
+          "Over 1,000 exposed people cut off from responders",
+          "70% mortality rate for children under five with confirmed Ebola"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW856315112026RP1/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Energy grid attacks and civilian casualties heighten winter humanitarian risks",
+        "score": 7.0,
+        "body": "Intensified Russian strikes across Ukraine targeting energy and railway infrastructure killed at least three people and threatened essential services ahead of winter. UN Resident and Humanitarian Coordinator Matthias Schmale warned that targeting power grids severely imperils water supplies, heating, and frontline aid operations, deepening the humanitarian crisis. Ukrainian President Volodymyr Zelensky noted that recent Russian attacks were enabled partly by restrictions placed on Ukraine's access to SpaceX's Starshield service.",
+        "verified_figures": [
+          "3 killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Ukrainian forces target Kerch Strait bridge in major strike escalation",
+        "score": 5.0,
+        "body": "Ukrainian forces struck the Kerch Strait bridge connecting Russia to occupied Crimea, restricting traffic across the passage according to local Russian-backed officials. The attack coincided with what Russian defense ministry data indicates is the largest Ukrainian drone operation launched against Russian territory since the beginning of the war.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/ukraine-launches-biggest-drone-attack-russia-since-war-began-defence-ministry-2026-11-16/"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "Estonia — Border with Russia to close following suspected sabotage attack",
+        "score": 3.0,
+        "body": "Estonia announced plans to close all border crossing points with Russia starting December 1. The decision by Estonian authorities follows an attempted arson attack targeting a domestic drone manufacturer, an action Tallinn attributed to suspected Russian sabotage.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHTENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Philippines — Magnitude 7.8 Earthquake Kills at Least 32 in South",
+        "score": 9.0,
+        "body": "A magnitude 7.8 earthquake struck the southern Philippines on Monday, killing at least 32 people and injuring 200 others, according to Philippine civil defense officials. At least 12 people remain missing, with emergency rescue operations underway amid reports that victims may be trapped inside a school building. Authorities reported that initial tsunami warnings have mostly been lifted as damage assessments continue across the affected region.",
+        "verified_figures": [
+          "at least 32 killed",
+          "200 injured",
+          "12 missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/powerful-earthquake-shakes-the-philippines/g-77459824"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Military Air Strike Kills 12 at Displaced Persons Camp in Rakhine State",
+        "score": 7.5,
+        "body": "A Myanmar military air strike on Friday evening struck the Byar La displacement camp in Ponnagyun township, northeast of Sittwe in Rakhine state, killing 12 people. Witnesses and rescue workers reported widespread destruction at the camp, which shelters civilians displaced by Myanmar's ongoing conflict. The attack resulted in multiple civilian casualties, including children and family members of local residents.",
+        "verified_figures": [
+          "12 killed"
+        ],
+        "sources": [
+          {
+            "name": "Genocide Watch",
+            "url": "https://www.genocidewatch.com/single-post/myanmar-air-strike-kills-12-at-displacement-camp-in-rakhine"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Heavy Rainfall Causes Severe Flooding Across West Java",
+        "score": 4.5,
+        "body": "Days of heavy rainfall caused the Citoe River to overflow in Cipatujah, West Java province, causing severe flooding in residential areas, farmland, and plantations. Water levels reached approximately one metre in affected locations, including Cipanas village. The rising floodwaters submerged homes, swallowed a local bridge, and blocked major transportation routes, preventing residents from accessing nearby communities.",
+        "verified_figures": [
+          "water levels reached approximately 1 metre"
+        ],
+        "sources": [
+          {
+            "name": "Wake Up Singapore",
+            "url": "https://wakeup.sg/west-java-floods/"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Warnings Issued for High Waves from Developing Cyclone Systems",
+        "score": 3.5,
+        "body": "Indonesia's meteorology agency warned on Monday that two developing tropical cyclone systems near Indonesian waters could generate stronger winds and ocean waves up to four metres high. The systems, identified as Tropical Cyclone Seed 92B in the Bay of Bengal and Seed 96S west of Sumatra, are influencing regional wind patterns and creating risks for coastal residents and maritime workers.",
+        "verified_figures": [
+          "waves up to 4 metres high"
+        ],
+        "sources": [
+          {
+            "name": "The Star",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/16/indonesia-warns-of-high-waves-as-two-tropical-cyclone-systems-develop-nearby"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Six months of the Ebola epidemic: they warn that it may become an outbreak that affects...",
+        "score": 10.0,
+        "body": "Six months of the Ebola epidemic: they warn that it may become an outbreak that affects all of Africa Since May 15, 5,505 people have died in the Democratic Republic of the Congo and more than 11,000 have been infected BarcelonaThe Director General of the Africa Centres for Disease Control and Prevention (Africa CDC), Jean Kaseya, warned this Sunday that the humanitarian crisis, insecurity, and population displacement in the east of the Democratic Republic of the Congo as a result of the Ebola epidemic could lead to “a major continental-scale outbreak”. This Sunday marks six months since the epidemic was declared in this African country. Nevertheless, deaths and infections continue unchecked",
+        "verified_figures": [
+          "5,505 people"
+        ],
+        "sources": [
+          {
+            "name": "Diari ARA",
+            "url": "https://en.ara.cat/international/six-months-of-the-ebola-epidemic-they-warn-that-it-may-become-an-outbreak-that-affects-all-of-africa_1_5911708.html"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak Spreads to 5 Countries, 5,500 Dead",
+        "score": 10.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has now killed 5,568 people and infected 11,376 as of November 14. Cases have also turned up in Uganda, Kenya, Nigeria and France. Six months after it was declared, it is the second largest Ebola outbreak in recorded history. Health officials in Congo declared the outbreak on May 15, 2026. Two days later the World Health Organization classified it as a public health emergency of international concern, its highest level of alarm. The virus has since spread across eight Congolese provinces: Ituri, North Kivu, Haut Uele, Tshopo, South Kivu, Bas Uele, South Ubangi and North Ubangi. It has also moved faster than any Ebola outbreak before",
+        "verified_figures": [
+          "5,500 Dead",
+          "5,568 people"
+        ],
+        "sources": [
+          {
+            "name": "Baller Alert",
+            "url": "https://balleralert.com/ebola-outbreak-spreads-kenya-nigeria-uganda-france-death-toll/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak update as of November 14",
+        "score": 9.5,
+        "body": "Ebola outbreak update as of November 14.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Outbreak News Today",
+            "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-as-of-november-f92"
+          }
+        ]
+      },
+      {
+        "headline": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
+        "score": 9.5,
+        "body": "Africa CDC says Ebola outbreak still out of control six months since it was declared.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-still-out-control-six-months-since-it-was-2026-11-15/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Six months of the Ebola epidemic: they warn that it may beco",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Diari ARA",
+          "url": "https://en.ara.cat/international/six-months-of-the-ebola-epidemic-they-warn-that-it-may-become-an-outbreak-that-affects-all-of-africa_1_5911708.html"
+        }
+      ]
+    },
+    {
+      "location": "Ebola Outbreak Spreads to 5 Countries, 5,500 Dead",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Baller Alert",
+          "url": "https://balleralert.com/ebola-outbreak-spreads-kenya-nigeria-uganda-france-death-toll/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak update as of November 14",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Outbreak News Today",
+          "url": "https://outbreaknewstoday.substack.com/p/ebola-outbreak-update-as-of-november-f92"
+        }
+      ]
+    },
+    {
+      "location": "Africa CDC says Ebola outbreak still out of control six mont",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-still-out-control-six-months-since-it-was-2026-11-15/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 5
+      },
+      {
+        "name": "DW.com",
+        "count": 3
+      },
+      {
+        "name": "Baller Alert",
+        "count": 2
+      },
+      {
+        "name": "Diari ARA",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Outbreak News Today",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Genocide Watch",
+        "count": 1
+      },
+      {
+        "name": "Palestine Chronicle",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Star",
+        "count": 1
+      },
+      {
+        "name": "US Muslims",
+        "count": 1
+      },
+      {
+        "name": "Wake Up Singapore",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "8 item(s) had no extractable figures in available reporting.",
+      "3 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 8/8 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 4/6 region(s) with candidate material generated via Gemini (LLM), 2 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 946,
+      "sources_cited": 14
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
