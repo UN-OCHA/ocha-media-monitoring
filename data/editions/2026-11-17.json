@@ -1,0 +1,520 @@
+{
+  "date": "2026-11-17",
+  "printed_time": "3:36 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Malaysia condemns Palestinian displacement and starvation at ASEAN summit.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Gaza – In recent hours, various areas of the Gaza Strip witnessed an escalation of violence, resulting in injuries and material damage.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "WEST BANK / PNN / A 60-year-old Palestinian woman, Fadda Mohammed Fheidat, was killed and 10 others wounded by settler gunfire in the Deir Qult al-Tahta area of Jericho, in the eastern occupied West Bank, on Monday evening, according to Jericho Governmental Hospital.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "“The virus is the spark.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "A Chinese national has been abducted in the Democratic Republic of Congo and is still missing.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Malaysia condemns Palestinian displacement and starvation at ASEAN summit.",
+    "label": "MIDDLE EAST — Malaysia condemns Palestinian displacement and starvation at ASEAN summit"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Malaysia condemns Palestinian displacement and starvation at ASEAN summit",
+        "score": 10.0,
+        "body": "Malaysia condemns Palestinian displacement and starvation at ASEAN summit.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Latest news from Azerbaijan",
+            "url": "https://news.az/news/malaysia-condemns-palestinian-displacement-and-starvation-at-asean-summit"
+          }
+        ]
+      },
+      {
+        "headline": "Israeli airstrikes , operations in Gaza, a woman killed in the West Bank",
+        "score": 10.0,
+        "body": "Gaza – In recent hours, various areas of the Gaza Strip witnessed an escalation of violence, resulting in injuries and material damage. Meanwhile, a woman was killed and 10 people were injured in Jericho in the West Bank. Specifically, in the southern Gaza Strip, several people were injured in an Israeli airstrike targeting the vicinity of Hamad City, north of Khan Younis. In the northern Gaza Strip, Israeli military vehicles entered the Al-Amoudi area, coinciding with artillery shelling and gunfire targeting homes and tents of displaced people west of Beit Lahia, resulting in injuries. In the central Gaza Strip, demolitions took place north of the Bureij refugee camp, while one person was i",
+        "verified_figures": [
+          "10 people"
+        ],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/middle-east/14506"
+          }
+        ]
+      },
+      {
+        "headline": "Palestinian Woman Killed, 18 Injured in Settler Attacks Across West Bank",
+        "score": 10.0,
+        "body": "WEST BANK / PNN / A 60-year-old Palestinian woman, Fadda Mohammed Fheidat, was killed and 10 others wounded by settler gunfire in the Deir Qult al-Tahta area of Jericho, in the eastern occupied West Bank, on Monday evening, according to Jericho Governmental Hospital. In a separate incident, eight Palestinians were injured after being deliberately run over by a settler's vehicle in the town of Tuqu', southeast of Bethlehem. Jericho Governmental Hospital announced the death of a Palestinian woman and injuries to 10 others in the settler shooting, raising the reported toll after the Palestine Red Crescent Society had earlier said its crews were treating five people wounded by live ammunition an",
+        "verified_figures": [
+          "18 Injured"
+        ],
+        "sources": [
+          {
+            "name": "Palestinian News Network",
+            "url": "https://english.pnn.ps/index.php/news/48397"
+          }
+        ]
+      },
+      {
+        "headline": "More than 340,000 people displaced in Yemen since the outbreak of violence in August",
+        "score": 9.5,
+        "body": "More than 340,000 people displaced in Yemen since the outbreak of violence in August.",
+        "verified_figures": [
+          "340,000 people"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/more-than-340-000-people-displaced-in-yemen-since-the-outbreak-of-violence-in-august/amp/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "How to help victims of deadly Venezuela earthquakes - ABC News",
+        "score": 8.5,
+        "body": "How to help victims of deadly Venezuela earthquakes Scores of people were killed and hundreds have been injured. Relief efforts are underway after a pair of powerful earthquakes struck north-central Venezuela on Wednesday evening, killing more than 160 people and injuring almost 1,000 as of Thursday morning. Emergency responders were undertaking \"intensive rescue operations\" early Thursday, searching for people thought to be under the rubble, Venezuela's acting President Delcy Rodriguez said. Secretary of State Marco Rubio said he spoke with Rodriguez and that the U.S. is sending search and rescue teams to the country. Here's how you can help those affected by the earthquakes: Global Empower",
+        "verified_figures": [
+          "160 people"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "EU sanctions four Haitian gangs over serious human rights violations",
+        "score": 7.0,
+        "body": "EU sanctions four Haitian gangs over serious human rights violations.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/americas/eu-sanctions-four-haitian-gangs-over-serious-human-rights-violations-2026-11-16/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Emergency Tracking Tool 113.1 — Displacement following armed violence in the co...",
+        "score": 7.0,
+        "body": "Haiti — Emergency Tracking Tool 113.1 — Displacement following armed violence in the commune of Croix-des-Bouquets - Department of West (18 October – 13 November 2026).",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/haiti/haiti-emergency-tracking-tool-1131-displacement-following-armed-violence-commune-croix-des-bouquets-department-west-18-october-13-november-2026"
+          }
+        ]
+      },
+      {
+        "headline": "Canada Signs Ebola Pact With Africa CDC but Lists No Funding, Vaccine Doses or Duration",
+        "score": 7.0,
+        "body": "Africa CDC announced a memorandum of understanding with the Public Health Agency of Canada (PHAC) on Nov. 16, covering surveillance, laboratories and medical countermeasures, but the announcement states no funding, vaccine doses or duration. It arrives as the Bundibugyo-strain Ebola outbreak in the Democratic Republic of the Congo (DRC) has reached 11,042 confirmed cases and at least 5,387 deaths across eight of the country's 26 provinces, according to government figures released Nov. 10. Readers following the response should know what Canada actually owns that matches the pact's priorities: a disease early-warning system with a disputed COVID-19 record, and the laboratory whose scientists c",
+        "verified_figures": [
+          "5,387 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Tech Times",
+            "url": "https://www.techtimes.com/articles/330833/20261116/canada-signs-ebola-pact-africa-cdc-lists-no-funding-vaccine-doses-duration.htm"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "6 months of the Ebola outbreak in the Congo: War, hunger, disease and profit",
+        "score": 10.0,
+        "body": "“The virus is the spark. The structural conditions are the accelerant.” These words from Dr. Tyler Evans, an infectious disease specialist who worked in West Africa and the eastern Democratic Republic of the Congo (DRC), summarize the unfolding catastrophe. Six months ago, on May 17, the World Health Organization (WHO) declared a public health emergency of international concern (PHEIC) over eight laboratory-confirmed cases across three health zones in Ituri Province. Today, official bulletins record 11,254 confirmed cases and 5,505 confirmed deaths across 68 health zones in eight provinces, establishing this outbreak as the second-largest Ebola epidemic on record. Beneath the Ebola crisis li",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "World Socialist Web Site",
+            "url": "https://www.wsws.org/en/articles/2026/11/17/drid-n17.html"
+          }
+        ]
+      },
+      {
+        "headline": "Chinese National Abducted, Two Killed in DR Congo During Deadly Ambush at Kalemie",
+        "score": 10.0,
+        "body": "A Chinese national has been abducted in the Democratic Republic of Congo and is still missing. The Chinese man was kidnapped after armed men ambushed a convoy on the Kalemie-Bendera road in the Tanganyika Province of DR Congo. Two people were killed during the incident, including a soldier belonging to the National Military of the Democratic Republic of Congo (FARDC) and a mining company employee, while the driver of the vehicle they were traveling in was seriously wounded. Authorities in DRC say security forces are pursuing the kidnappers and searching for their Chinese hostage. However, the incident now raises fresh concerns over security along a key mining corridor in the rather troubled",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Tanzania Times",
+            "url": "https://tanzaniatimes.net/chinese-national-abducted-two-killed-in-dr-congo-during-deadly-ambush-at-kalemie/"
+          }
+        ]
+      },
+      {
+        "headline": "UNICEF: Children make up 35% of Ebola deaths in DR Congo outbreak",
+        "score": 10.0,
+        "body": "The Ebola outbreak in the Democratic Republic of Congo (DRC) continues to hit children hardest, with children representing 28% of total cases but 35% of deaths, according to a new report from UNICEF. Few children are being seen at Ebola treatment centers, UNICEF said, and if they do arrive at a facility, one in three children ages 5 years and under die within 24 hours. The outbreak has also resulted in 2,280 children orphaned or separated from their families since the epidemic began in May. What’s more, the outbreak is impacting health services in hard-hit provinces. “In Tshopo, nearly 11 percent fewer children received their third dose of the diphtheria, tetanus and whooping cough vaccine,",
+        "verified_figures": [
+          "11 percent"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/ebola/unicef-children-make-35-ebola-deaths-dr-congo-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo Ebola Outbreak Records Over 5,500 Deaths in Six Months",
+        "score": 10.0,
+        "body": "The Bundibugyo virus outbreak in eastern Democratic Republic of the Congo has become the world's second-largest recorded Ebola outbreak, as insecurity, funding shortages and healthcare disruptions hamper containment efforts. Upcoming Conferences and Events Also Read This Editorial Note: This content has been prepared using information from official announcements, regulatory communications, scientific publications, conference presentations, or other verified sources. AI-assisted editorial tools may be used during content preparation. Every article is reviewed, edited, and verified by the VOH editorial team prior to publication. Unless explicitly identified as Sponsored Content or Brand Soluti",
+        "verified_figures": [
+          "5,500 Deaths"
+        ],
+        "sources": [
+          {
+            "name": "Voice of Healthcare",
+            "url": "https://vohnetwork.com/news/global/dr-congo-ebola-outbreak-escalates-with-over-5-500-deaths-reported-in-six-months"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukra...",
+        "score": 7.5,
+        "body": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine. Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+        "score": 7.5,
+        "body": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72. Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack ...",
+        "score": 7.5,
+        "body": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/russia-says-ukraine-struck-its-bridge-crimea-second-day-biggest-drone-attack-war-2026-11-17/"
+          }
+        ]
+      },
+      {
+        "headline": "Harry’s solemn six-word assurance to wounded Ukraine veterans",
+        "score": 6.0,
+        "body": "Harry hugs double-amputee veteran in Ukraine, declares to soldiers 'you're going to win the war' Prince Harry has made a huge impact with just six words at a Ukraine rehab centre. Prince Harry, Duke of Sussex, has made a surprise visit to Ukraine over the weekend, throwing his support behind the war-torn country. The Prince met with competitors who will take part in the Invictus Games, which Harry himself founded in 2014 while serving as a Captain in the British Armed Forces. Harry spoke at a conference organised by The Superhumans Centre, a network that specialises in war trauma and rehabilitation for veterans. “You’re going to win the war,” he said unambiguously. Harry confessed that he to",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "News24",
+            "url": "https://www.news24.com.au/lifestyle/celebrity-life/harry-hugs-doubleamputee-veteran-in-ukraine-declares-to-soldiers-youre-going-to-win-the-war/news-story/982e204b8a9004fdb0aa52cced275171?nk=503522a0ebca26879db6dfeb74a7780c-1794929816"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Dozens of Civilians Killed in Myanmar Regime Strikes as ASEAN Leaders Meet",
+        "score": 8.5,
+        "body": "The Myanmar regime has continued bombing civilian targets nationwide after its leaders were barred from attending the ongoing 49th ASEAN Summit for rejecting the bloc’s peace plan. Rakhine State has borne the brunt of attacks, which have killed over a dozen civilians in the past week as the ethnic Arkan Army (AA) pushes to seize the state capital, Sittwe, and Kyaukphyu, home to China-backed mega projects. Junta warplanes pounded residential areas in the AA-held town of Kyauktaw on Monday night, but casualty figures were unclear as of press time. The strike followed an Oct. 28 attack on the town’s busy market that killed 50 civilians including children and wounded 60, drawing international co",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Irrawaddy",
+            "url": "https://www.irrawaddy.com/news/burma/dozens-of-civilians-killed-in-myanmar-regime-strikes-as-asean-leaders-meet.html"
+          }
+        ]
+      },
+      {
+        "headline": "Magnitude 6.8 earthquake strikes Indonesia's Banda Sea, tremors felt across eastern reg...",
+        "score": 8.0,
+        "body": "Magnitude 6.8 earthquake strikes Indonesia's Banda Sea, tremors felt across eastern regions.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Malaysian Reserve",
+            "url": "https://themalaysianreserve.com/2026/11/17/magnitude-6-8-earthquake-strikes-indonesias-banda-sea-tremors-felt-across-eastern-regions/amp/"
+          }
+        ]
+      },
+      {
+        "headline": "Candidate vaccine by SII, Oxford varsity to join Ebola trial: WHO | India News",
+        "score": 7.0,
+        "body": "Candidate vaccine by SII, Oxford varsity to join Ebola trial: WHO | India News.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/india-news/candidate-vaccine-by-sii-oxford-varsity-to-join-ebola-trialwho-101794854816730.html"
+          }
+        ]
+      },
+      {
+        "headline": "A strong earthquake struck Indonesia",
+        "score": 6.5,
+        "body": "A strong earthquake struck Indonesia A magnitude 6.6 earthquake was recorded in Indonesia. This was reported by the United States Geological Survey (USGS). According to seismologists, the tremors were recorded on Monday at 21:11 Coordinated Universal Time. The epicenter of the earthquake was located 151 kilometers from the Indonesian city of Tual, which is home to approximately 89,000 people. The focus of the seismic activity was at a depth of 35 kilometers. There is no information about injuries, deaths, or destruction.",
+        "verified_figures": [
+          "89,000 people"
+        ],
+        "sources": [
+          {
+            "name": "1News.az",
+            "url": "https://1news.az/en/news/20261117090505919-A-strong-earthquake-struck-Indonesia"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Ebola outbreak defies control as war and hunger fuel crisis six months in",
+        "score": 10.0,
+        "body": "Six months into the biggest Ebola outbreak in the Democratic Republic of Congo’s history, containing the virus increasingly depends on solving problems far beyond Ebola — hunger, armed conflict, mistrust and a health system already buckling under the strain. More than 11,000 people have been infected and 5,500 have died since the outbreak was declared May 15. For months, Ebola has been killing roughly 240 people a week, the equivalent of about one and a half Boeing Co. 737 passenger jets crashing every week. “It’s a systems problem compounded by basically geography, insecurity, conflict, poor roads, mistrust,” said William Clemmer, a physician who has worked in Congo for three decades and is",
+        "verified_figures": [
+          "11,000 people",
+          "240 people"
+        ],
+        "sources": [
+          {
+            "name": "The Japan Times",
+            "url": "https://www.japantimes.co.jp/news/2026/11/16/world/science-health/africa-ebola-outbreak-six-months/"
+          }
+        ]
+      },
+      {
+        "headline": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
+        "score": 9.5,
+        "body": "Africa CDC says Ebola outbreak still out of control six months since it was declared Last updated: November 17, 2026 | 11:49 A Congolese psychologist carries a three-week-old infant, declared cured of Ebola virus disease in Beni, North Kivu province, Democratic Republic of the Congo, on Monday. Reuters Africa's top public health agency said on Sunday that the Ebola outbreak in Congo was still out of control six months after it was declared, citing problems including deadly attacks on health workers, unpaid staff and a lack of resources. \"We are all in agreement today to say that this outbreak is still serious, and is still not under control,\" Jean Kaseya, director-general of the Africa CDC,",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Gulf Today",
+            "url": "https://www.gulftoday.ae/news/2026/11/17/africa-cdc-says-ebola-outbreak-still-out-of-control-six-months-since-it-was-declared"
+          }
+        ]
+      },
+      {
+        "headline": "From Rescue Teams To Evacuations: How Odisha Is Preparing For Cyclone Akvan, The Third ...",
+        "score": 8.5,
+        "body": "Bhubaneswar: With another cyclonic storm threatening the east coast, Odisha has stepped up its disaster preparedness, deploying 74 rescue teams and initiating precautionary evacuations in vulnerable districts. Cyclone Akvan, the third cyclonic storm to develop over the Bay of Bengal in three weeks, is expected to intensify into a very severe cyclonic storm before approaching the Andhra Pradesh coast on November 20. The Odisha government has directed district administrations to evacuate people living in landslide-prone and low-lying areas, particularly in the southern parts of the state. Disaster Management Minister Suresh Pujari reviewed the preparedness measures on Monday following the late",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Times Now",
+            "url": "https://www.timesnownews.com/india/from-rescue-teams-to-evacuations-how-odisha-is-preparing-for-cyclone-akvan-the-third-storm-in-three-weeks-article-156522061"
+          }
+        ]
+      },
+      {
+        "headline": "Magnitude 5.7 earthquake strikes near Arthur’s Pass",
+        "score": 8.0,
+        "body": "A magnitude 5.7 earthquake near Arthur’s Pass was felt in Christchurch and Greymouth and woke some people in Rangiora. GeoNet said the quake struck at 11.30pm on Tuesday, 15 kilometres east of Arthur’s Pass, at a depth of 5 kilometres. It classified the shaking as strong. Its initial automatic reading put the quake at magnitude 5.4 and a depth of 14 kilometres. A second quake struck 14 minutes later, at 11.44pm. GeoNet recorded the magnitude 3.2 quake 15 kilometres southeast of Arthur’s Pass, also at a depth of 5 kilometres, and classified the shaking as weak. Fire and Emergency’s Southern Communications Centre told chrislynchmedia.com it had received no 111 calls related to quake. Elena Sal",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Chris Lynch Media",
+            "url": "https://www.chrislynchmedia.com/news-items/magnitude-5-4-earthquake-strikes-near-arthurs-pass/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "UNICEF: Children make up 35% of Ebola deaths in DR Congo out",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "CIDRAP",
+          "url": "https://www.cidrap.umn.edu/ebola/unicef-children-make-35-ebola-deaths-dr-congo-outbreak"
+        }
+      ]
+    },
+    {
+      "location": "DR Congo Ebola Outbreak Records Over 5,500 Deaths in Six Mon",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Voice of Healthcare",
+          "url": "https://vohnetwork.com/news/global/dr-congo-ebola-outbreak-escalates-with-over-5-500-deaths-reported-in-six-months"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak defies control as war and hunger fuel crisis ",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/11/16/world/science-health/africa-ebola-outbreak-six-months/"
+        }
+      ]
+    },
+    {
+      "location": "More than 340,000 people displaced in Yemen since the outbre",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Demócrata",
+          "url": "https://www.democrata.es/en/international/more-than-340-000-people-displaced-in-yemen-since-the-outbreak-of-violence-in-august/amp/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "BBC"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "CIDRAP",
+        "count": 2
+      },
+      {
+        "name": "Demócrata",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "The Japan Times",
+        "count": 2
+      },
+      {
+        "name": "Voice of Healthcare",
+        "count": 2
+      },
+      {
+        "name": "1News.az",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Chris Lynch Media",
+        "count": 1
+      },
+      {
+        "name": "Gulf Today",
+        "count": 1
+      },
+      {
+        "name": "Hindustan Times",
+        "count": 1
+      },
+      {
+        "name": "Latest news from Azerbaijan",
+        "count": 1
+      },
+      {
+        "name": "News24",
+        "count": 1
+      },
+      {
+        "name": "Palestinian News Network",
+        "count": 1
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 1
+      },
+      {
+        "name": "Tech Times",
+        "count": 1
+      },
+      {
+        "name": "The Irrawaddy",
+        "count": 1
+      },
+      {
+        "name": "The Malaysian Reserve",
+        "count": 1
+      },
+      {
+        "name": "The Tanzania Times",
+        "count": 1
+      },
+      {
+        "name": "Times Now",
+        "count": 1
+      },
+      {
+        "name": "World Socialist Web Site",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "15 item(s) had no extractable figures in available reporting.",
+      "9 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 22/22 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1001,
+      "sources_cited": 22
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
