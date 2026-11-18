@@ -1,0 +1,518 @@
+{
+  "date": "2026-11-18",
+  "printed_time": "3:14 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The UN migration agency warned on Tuesday of potential deaths from hypothermia in Gaza and called for more funding and shelter supplies ahead of winter after a baby reportedly died from the cold.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "WHO raises concern over rising Bundibugyo Ebola deaths, insecurity in DR Congo The World Health Organisation (WHO) has reported more than 11,000 cases and 5,400 deaths from the Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC).",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Sudan drone strikes killed more than 1,630 of the 2,230 civilians whose deaths the UN human rights office has verified in Sudan’s war between January and the end of October, the office said on Tuesday.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "News: #Salsay_Weyane #Tigray warns of famine-driven displacement in #Tselemti, calls for halt to revenge-driven actions Salsay Weyane Tigray, an opposition political group, has warned of worsening hunger and displacement in Lailay Tselemti Woreda, No.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Tigray opposition warns of famine-driven displacement, urges halt to revenge attacks.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The UN migration agency warned on Tuesday of potential deaths from hypothermia in Gaza and called for more funding and shelter supplies ahead of winter after a baby reportedly died from the cold.",
+    "label": "MIDDLE EAST — UN warns of Gaza hypothermia deaths as winter storms flood displaced tents"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "UN warns of Gaza hypothermia deaths as winter storms flood displaced tents",
+        "score": 10.0,
+        "body": "The UN migration agency warned on Tuesday of potential deaths from hypothermia in Gaza and called for more funding and shelter supplies ahead of winter after a baby reportedly died from the cold. Heavy rain has already flooded thousands of tents housing displaced Palestinians crammed into encampments after the war between Israel and Hamas reduced much of the Gaza Strip to rubble. Last week, a 9-month-old baby living in a tent died from suspected hypothermia, UN agencies and Gaza authorities said, and respiratory illnesses are rising. \"Without proper shelter, without critical relief items, then hypothermia deaths will occur,\" Karl Baker, head of the International Organization for Migration's",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Jerusalem Post",
+            "url": "https://www.jpost.com/middle-east/article-915210"
+          }
+        ]
+      },
+      {
+        "headline": "Latest news on the Middle East conflict. IDF launches attack in central Gaza; evacuatio...",
+        "score": 9.5,
+        "body": "Latest news on the Middle East conflict. IDF launches attack in central Gaza; evacuation order issued. Iran: ship attacked in the Strait of Hormuz – 11 injured and one missing The Iranian army has struck the US airbase at Ali al-Salem in Kuwait with drones. At the same time, Bahrain has announced that it has foiled another air raid by the Islamic Republic. Meanwhile, in Israel, the Knesset has elected Kahana, a staunch supporter of Eisenkot, as its president. Iran: US military drone shot down in the Strait of Hormuz The Iranian armed forces have announced that they have shot down a US MQ-9 military drone in the eastern part of the Strait of Hormuz.",
+        "verified_figures": [
+          "11 injured"
+        ],
+        "sources": [
+          {
+            "name": "Il Sole 24 ORE",
+            "url": "https://en.ilsole24ore.com/art/war-latest-news-iran-drone-attack-us-base-kuwait-AJiP8NKC"
+          }
+        ]
+      },
+      {
+        "headline": "US jets strike IRGC missile site on Iran’s Qeshm Island after drone attack on Bahrain",
+        "score": 9.0,
+        "body": "Iranian missile site struck by US in response to drone aggression on Bahrain US fighter jets hit a Revolutionary Guards (IRGC) missile launch site on Iran’s Qeshm Island late on Tuesday (Nov. 17), hours after Iranian drones were launched at Bahrain. The exchange threatens efforts to ease the conflict. A US military official said American aircraft used precision munitions and described the strike as self-defense. “The strike was in response to IRGC aggression targeting US personnel and assets,” the official said, adding that US Central Command “remains highly vigilant and fully postured to protect Americans across the region.” Iranian provincial official Ahmad Nafisi said the attack caused no",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Gulf News",
+            "url": "https://gulfnews.com/world/mena/us-jets-strike-irgc-missile-site-on-irans-qeshm-island-after-drone-attack-on-bahrain-1.500751334"
+          }
+        ]
+      },
+      {
+        "headline": "At least 64 children killed and 64 injured in Yemen as intensified hostilities approach...",
+        "score": 8.5,
+        "body": "At least 64 children killed and 64 injured in Yemen as intensified hostilities approach three-month mark Escalating violence is cutting children off from health care, safe water and hygiene, food and learning, while Taiz City is increasingly isolated NEW YORK, 18 November 2026 – At least 64 children have been killed and 64 injured in Yemen since hostilities escalated on 3 September. The number of casualties is likely to increase as renewed fighting continues around densely populated areas, particularly in Taiz and Lahj. “The rising number of children killed and injured in Yemen is devastating. It must stop,” said UNICEF Executive Director, Catherine Russell. “Behind every number is a child w",
+        "verified_figures": [
+          "64 injured"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/press-releases/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "UN reports nearly 4,600 killed in Haiti violence as gangs intensify attacks",
+        "score": 8.5,
+        "body": "UN reports nearly 4,600 killed in Haiti violence as gangs intensify attacks Key Points(5) - Nearly 4,600 people have been killed and more than 2,000 injured in Haiti since the beginning of 2026, as escalating gang violence and intensified security operations continue to threaten civilians, according to the United Nations. - In a statement issued Tuesday, Nov. - 17, the Office of the U.N. - High Commissioner for Human Rights (OHCHR) reported that 4,595 people were killed and 2,050 injured in armed violence between Jan. - The figures include 1,167 people killed and 459 injured between July 1 and Sept. Nearly 4,600 people have been killed and more than 2,000 injured in Haiti since the beginning",
+        "verified_figures": [
+          "4,600 killed",
+          "4,600 people",
+          "2,000 injured"
+        ],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/un-reports-nearly-4600-killed-in-haiti-violence-as-gangs-intensify-attacks"
+          }
+        ]
+      },
+      {
+        "headline": "How to help victims of deadly Venezuela earthquakes - ABC News",
+        "score": 8.5,
+        "body": "How to help victims of deadly Venezuela earthquakes Scores of people were killed and hundreds have been injured. Relief efforts are underway after a pair of powerful earthquakes struck north-central Venezuela on Wednesday evening, killing more than 160 people and injuring almost 1,000 as of Thursday morning. Emergency responders were undertaking \"intensive rescue operations\" early Thursday, searching for people thought to be under the rubble, Venezuela's acting President Delcy Rodriguez said. Secretary of State Marco Rubio said he spoke with Rodriguez and that the U.S. is sending search and rescue teams to the country. Here's how you can help those affected by the earthquakes: Global Empower",
+        "verified_figures": [
+          "160 people"
+        ],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/International/victims-deadly-venezuela-earthquakes/story?id=134202867"
+          }
+        ]
+      },
+      {
+        "headline": "Gender-Based Violence and Refugees: What You Need to Know and How UNHCR Is Helping",
+        "score": 7.0,
+        "body": "Gender-Based Violence and Refugees: What You Need to Know and How UNHCR Is Helping.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "USA for UNHCR",
+            "url": "https://www.unrefugees.org/news/2026/11/gender-based-violence-and-refugees-what-you-need-to-know-and-how-unhcr-is-helping/"
+          }
+        ]
+      },
+      {
+        "headline": "Fed up with gang violence, thousands flood Haiti’s streets to thank Bukele",
+        "score": 6.5,
+        "body": "Fed up with gang violence, thousands flood Haiti’s streets to thank Bukele.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Miami Herald",
+            "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318130095.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "WHO raises concern over rising Bundibugyo Ebola deaths, insecurity in DR Congo",
+        "score": 10.0,
+        "body": "WHO raises concern over rising Bundibugyo Ebola deaths, insecurity in DR Congo The World Health Organisation (WHO) has reported more than 11,000 cases and 5,400 deaths from the Bundibugyo virus disease outbreak in the Democratic Republic of the Congo (DRC). WHO Director-General Tedros Ghebreyesus said this in a statement on Tuesday following the third meeting of the International Health Regulations (IHR) Emergency Committee on the outbreak. Mr Ghebreyesus said the outbreak, declared six months ago, had spread across 67 health zones in eight provinces, with reported cases more than doubling since the committee’s previous meeting. “Children account for more than one-quarter of confirmed cases",
+        "verified_figures": [
+          "11,000 cases",
+          "5,400 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Peoples Gazette Nigeria",
+            "url": "https://gazettengr.com/who-raises-concern-over-rising-bundibugyo-ebola-deaths-insecurity-in-dr-congo/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan drone strikes killed most civilian dead this year, UN says",
+        "score": 10.0,
+        "body": "Sudan drone strikes killed more than 1,630 of the 2,230 civilians whose deaths the UN human rights office has verified in Sudan’s war between January and the end of October, the office said on Tuesday. The figures show how drones have become the main killer of civilians in the war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), letting both sides strike far beyond the front lines. The office said the true toll was likely to be higher. What did the UN report on Sudan drone strikes find? The report, covering January to June, found an “unmistakable increase in drone strikes against civilians and civilian objects”, and said drones had become “one of the defining featu",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "DNE Africa",
+            "url": "https://africa.dailynewsegypt.com/sudan-drone-strikes-un-report/"
+          }
+        ]
+      },
+      {
+        "headline": "News: #Salsay_Weyane #Tigray warns of famine-driven displacement in #Tselemti, calls fo...",
+        "score": 10.0,
+        "body": "News: #Salsay_Weyane #Tigray warns of famine-driven displacement in #Tselemti, calls for halt to revenge-driven actions Salsay Weyane Tigray, an opposition political group, has warned of worsening hunger and displacement in Lailay Tselemti Woreda, No.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/AddisstandardEng/posts/news-salsay_weyane-tigray-warns-of-famine-driven-displacement-in-tselemti-calls-/1578379297660634/"
+          }
+        ]
+      },
+      {
+        "headline": "Tigray opposition warns of famine-driven displacement, urges halt to revenge attacks",
+        "score": 10.0,
+        "body": "Tigray opposition warns of famine-driven displacement, urges halt to revenge attacks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Eastleigh Voice",
+            "url": "https://eastleighvoice.co.ke/regional/424879/tigray-opposition-warns-of-famine-driven-displacement-urges-halt-to-revenge-attacks?amp=1"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+        "score": 8.5,
+        "body": "Ukraine mourns mother, athlete and drone operator killed in Russian strike. Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukr...",
+        "score": 7.5,
+        "body": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine. Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "score": 6.0,
+        "body": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge. Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "BBC reports from Kyiv bridge hit by Russian attack",
+        "score": 6.0,
+        "body": "BBC reports from Kyiv bridge hit by Russian attack Russian strikes hit two key bridges in Kyiv, with Mayor Vitaliy Klitschko saying the Ukrainian capital had suffered \"damage to critical infrastructure systems\" and disruption to heating and water supplies overnight. Elsewhere, images shared by President Volodymyr Zelensky showed a missile approaching Crimean Bridge. Zelensky said it was an \"unprecedented operation\" weeks in the making. Built by Russia after it invaded and illegally annexed Ukraine's southern peninsula in 2014, the bridge was personally opened by Putin in 2018. The BBC's Southern and Eastern Europe correspondent, Sarah Rainsford, has this report from one of the bridges hit by",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan’s economy grows despite rising food insecurity and water crisis: World Bank",
+        "score": 7.5,
+        "body": "Afghanistan’s economy is projected to expand by three percent in 2026, supported largely by a strong agricultural harvest. However, declining household incomes, rising food prices and worsening water shortages continue to threaten livelihoods, according to the World Bank’s latest economic assessment. In its Fall 2026 Afghanistan Development Update, released on November 18, the World Bank said economic output per capita is expected to fall by 3.3 percent for the third consecutive year, as population growth is forecast to reach 6.6 percent. The report highlighted growing pressure on household finances, with fewer employment opportunities and higher food costs reducing purchasing power. In Sept",
+        "verified_figures": [
+          "3.3 percent",
+          "6.6 percent"
+        ],
+        "sources": [
+          {
+            "name": "Ariana News",
+            "url": "https://www.ariananews.af/afghanistans-economy-grows-despite-rising-food-insecurity-and-water-crisis-world-bank/"
+          }
+        ]
+      },
+      {
+        "headline": "Sociometric and Participatory Community Mapping in Earthquake-Affected Myanmar: Finding...",
+        "score": 6.5,
+        "body": "Sociometric and Participatory Community Mapping in Earthquake-Affected Myanmar: Findings From an Ongoing Mixed-Methods Study.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Cureus",
+            "url": "https://www.cureus.com/articles/532555-sociometric-and-participatory-community-mapping-in-earthquake-affected-myanmar-findings-from-an-ongoing-mixed-methods-study"
+          }
+        ]
+      },
+      {
+        "headline": "Will Cyclone Akvan hit Andhra Pradesh or Bangladesh? The expert shares his forecast",
+        "score": 6.5,
+        "body": "Published - November 18, 2026 04:39 pm IST Why does the Bay of Bengal produce so many cyclones? Are cyclones becoming more intense because of climate change? And can meteorologists accurately predict where a cyclone will make landfall? In this interview, veteran meteorologist Prof. S.S.V. Ramakrishna explains the science behind cyclone formation, the role of El Niño, ocean temperatures, river runoff, and climate change. He also discusses why the Bay of Bengal is more cyclone-prone than the Arabian Sea and shares insights into the path and intensity of tropical cyclones. Updated - November 18, 2026 05:18 pm IST Published - November 18, 2026 04:39 pm IST You are logged in Loading... You don’t",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Hindu",
+            "url": "https://www.thehindu.com/videos/will-cyclone-akvan-hit-andhra-pradesh-or-bangladesh-the-expert-shares-his-forecast/article71715507.ece"
+          }
+        ]
+      },
+      {
+        "headline": "Cyclone Akvan’s Path: Expert Forecasts Potential Impact on Andhra Pradesh and Bangladesh",
+        "score": 6.5,
+        "body": "The Bay of Bengal, a region notorious for frequent cyclonic activity, is once again under scrutiny as meteorologists track the potential formation and path of Cyclone Akvan. The cyclone’s trajectory, whether it will impact India’s Andhra Pradesh coast or make landfall in Bangladesh, is a matter of significant concern, prompting expert analysis on the complex factors influencing these powerful weather systems. Information was available with The Chenab Times detailing an interview with veteran meteorologist Prof. S.S.V. Ramakrishna, who shared insights into the science behind cyclone formation and forecasting. Prof. Ramakrishna elaborated on the myriad of elements that contribute to the genesi",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Chenab Times",
+            "url": "https://thechenabtimes.com/2026/11/18/cyclone-akvans-path-expert-forecasts-potential-impact-on-andhra-pradesh-and-bangladesh/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "A Hunger Crisis Is Making Ebola Even Deadlier",
+        "score": 10.0,
+        "body": "A Hunger Crisis Is Making Ebola Even Deadlier.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "WSJ",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTFOa1U0QXlIY3laLXVZcklnd05sQUQ5LUlDUExtTFltbWQ0WTdRR3VLR0VaTnFVbkhOdk9XTzhtNzcyQktDXzMtWVFMckh5ak1wZFI3bEx5eE5DU0VOSUYzT0pXVWItNWU5cDJadks1djNsczg1TnpFNlpJNndpQktTRkhxRm8yY3pDNXNWLUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      },
+      {
+        "headline": "Six months on, accessing hard-to-reach communities key to halting Ebola outbreak",
+        "score": 9.5,
+        "body": "Statement attributable to Africa CDC, UNFPA, UNICEF, WFP, WHO. Six months into the Ebola outbreak caused by Bundibugyo virus in the Democratic Republic of the Congo, significant progress has been made in bringing lifesaving services closer to affected communities, despite immense challenges. However, fuelled by ongoing conflict, displacement and humanitarian needs, the outbreak continues to expand, particularly in affected areas. Since the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of deaths. Seven in 10 children under five with confirmed Ebola have died. While the response has sl",
+        "verified_figures": [
+          "000 cases",
+          "5400 deaths"
+        ],
+        "sources": [
+          {
+            "name": "unfpa drc",
+            "url": "https://drc.unfpa.org/en/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola outbreak: Etu nwoke meriri ọrịa Ebola si laghachi sonye n’ọrụ ịzọputa ndụ",
+        "score": 9.5,
+        "body": "Etu nwoke meriri ọrịa Ebola si laghachi sonye n'ọrụ ịzọputa ndụ Dr Kasereka Raymond na-arụ ọrụ na Butembo, na mpaghara Ugwu Kivu na mba DR Congo. Mpaghara ahụ enweela ihe karịrị mmadụ 1,400 nwụrụ n'ihi ọrịa Ebola kamgbe ọnwa May 2026. O so na ndị gbakerela n'ọrịa ahụ. Dr Kasereka butere nje Ebola dịka ọna-enye aka ịgwọ ndị butere nje ahụ. Cheta na mba DR Congo na-ebu agha megide mfesa ọrịa Ebola nke kacha njọ kamgbe mba ahụ. Ihe karịrị mmadụ 11,000 ebutela nje Ebola kamgbe ọnwa May 2025",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/igbo/articles/cqy7rk7rxzzro"
+          }
+        ]
+      },
+      {
+        "headline": "Plateau, UNICEF deploy CATI teams to combat cholera outbreak in high-risk communities",
+        "score": 9.0,
+        "body": "Plateau State Government, with technical support from the United Nations Children’s Fund (UNICEF), has deployed Case Area Targeted Intervention (CATI) teams to communities affected by or considered at risk of cholera as part of efforts to contain the outbreak and prevent further transmission. The intervention followed a four-day CATI training for government health and Water, Sanitation and Hygiene (WASH) personnel, with teams subsequently deployed to communities to apply the skills acquired. The field exercise was demonstrated in Angwan Damisa, Jos North Local Government Area, while other suspected and high-risk areas visited included Filin Sata in Angwan Rukuba. UNICEF Chief of Field Office",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "National Accord Newspaper",
+            "url": "https://nationalaccordnewspaper.com/plateau-unicef-deploy-cati-teams-to-combat-cholera-outbreak-in-high-risk-communities/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "A Hunger Crisis Is Making Ebola Even Deadlier",
+      "score": 10.0,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZTFOa1U0QXlIY3laLXVZcklnd05sQUQ5LUlDUExtTFltbWQ0WTdRR3VLR0VaTnFVbkhOdk9XTzhtNzcyQktDXzMtWVFMckh5ak1wZFI3bEx5eE5DU0VOSUYzT0pXVWItNWU5cDJadks1djNsczg1TnpFNlpJNndpQktTRkhxRm8yY3pDNXNWLUE?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Latest news on the Middle East conflict. IDF launches attack",
+      "score": 9.5,
+      "trigger": "Renewed fighting or access denial forcing further population movement.",
+      "potential_impact": "Additional large-scale displacement could strain shelter, food and protection services.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Il Sole 24 ORE",
+          "url": "https://en.ilsole24ore.com/art/war-latest-news-iran-drone-attack-us-base-kuwait-AJiP8NKC"
+        }
+      ]
+    },
+    {
+      "location": "Six months on, accessing hard-to-reach communities key to ha",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "unfpa drc",
+          "url": "https://drc.unfpa.org/en/news/six-months-accessing-hard-reach-communities-key-halting-ebola-outbreak"
+        }
+      ]
+    },
+    {
+      "location": "Ebola outbreak: Etu nwoke meriri ọrịa Ebola si laghachi sony",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/igbo/articles/cqy7rk7rxzzro"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "BBC",
+      "Al Jazeera English",
+      "UNICEF",
+      "UNHCR"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 5
+      },
+      {
+        "name": "Il Sole 24 ORE",
+        "count": 2
+      },
+      {
+        "name": "WSJ",
+        "count": 2
+      },
+      {
+        "name": "unfpa drc",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Ariana News",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "Cureus",
+        "count": 1
+      },
+      {
+        "name": "DNE Africa",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "Gulf News",
+        "count": 1
+      },
+      {
+        "name": "Miami Herald",
+        "count": 1
+      },
+      {
+        "name": "National Accord Newspaper",
+        "count": 1
+      },
+      {
+        "name": "Peoples Gazette Nigeria",
+        "count": 1
+      },
+      {
+        "name": "The Chenab Times",
+        "count": 1
+      },
+      {
+        "name": "The Eastleigh Voice",
+        "count": 1
+      },
+      {
+        "name": "The Hindu",
+        "count": 1
+      },
+      {
+        "name": "The Jerusalem Post",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "USA for UNHCR",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "17 item(s) had no extractable figures in available reporting.",
+      "9 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 20/20 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 0/6 region(s) with candidate material generated via Gemini (LLM), 6 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1151,
+      "sources_cited": 21
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
