@@ -1,0 +1,521 @@
+{
+  "date": "2026-11-19",
+  "printed_time": "3:29 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Log into Facebook.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "Democratic Republic of the Congo exceeds 11,600 infections and is close to 5,700 deaths due to the Ebola outbreak.",
+      "region": "Africa"
+    },
+    {
+      "rank": 3,
+      "text": "Powerful Earthquake Jolts 17 European Countries in the Dead of Night; Millions Take to Streets Amid Missile Strike Fears Amid the ongoing Russia-Ukraine war, panic gripped several European countries as people initially feared a missile attack before receiving earthquake alerts on their mobile phones.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "The Middle East is witnessing a notable acceleration in field developments, as Tehran carried out attacks targeting military sites in Bahrain and Kuwait, coinciding with airstrikes launched by US forces on Qeshm Island in southern Iran.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "In late October, a nurse was killed and a second health care worker seriously injured while responding to an Ebola alert.7,16 As of November 13, insecurity and threats against response teams persisted in 3 of the province's health zones,14 and a local checkpoint remained closed due to insecurity.4 Other Provinces The national situation reports for November 11 to 16 describe no attacks or security incidents in Haut-Uélé, South Kivu, Bas-Uélé, South Ubangi, or North Ubangi.4,6,11,13-15 However, an analyst at the conflict monitor Armed Conflict Location & Event Data reports that ADF attacks in southern Haut-Uélé have become more frequent in 2026.10 Contacts Out of Reach: What Insecurity Costs t.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "The United Nations Children’s Fund (UNICEF) has said that at least 64 children have been killed and 64 others injured following an escalation in fighting in Yemen.",
+    "label": "MIDDLE EAST — The United Nations Children’s Fund (UNICEF) has said that at least 64 children h"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT — Israeli military operation in central Gaza displaces families and threatens thousands",
+        "score": 7.5,
+        "body": "Israeli forces launched a ground operation into Hamas-controlled central Gaza on Wednesday, crossing the yellow line boundary along the Salah al-Din road for the first time since last October's ceasefire agreement. The movement forced displaced residents from their tents. Gaza’s Civil Defense warned that the ongoing offensive threatens more than 5,260 displaced Palestinians across six shelter sites, heightening risks of forced re-displacement and worsening humanitarian conditions amid severe emergency response shortages.",
+        "verified_figures": [
+          "Over 5,260 displaced Palestinians threatened across six shelter sites"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Escalating violence kills 64 children and disrupts aid access in Taiz and Lahj",
+        "score": 7.0,
+        "body": "Intensified hostilities in Yemen since 3 September have killed at least 64 children and injured 64 others, according to UNICEF. Clashes centered around densely populated areas in Taiz and Lahj provinces, alongside the growing isolation of Taiz City, are severely cutting off children from healthcare, safe water, food, and education. UNICEF warned child casualties are likely to rise as fighting persists near civilian areas, calling for immediate measures to protect civilians and halt hostilities.",
+        "verified_figures": [
+          "At least 64 children killed since 3 September",
+          "64 children injured since 3 September"
+        ],
+        "sources": [
+          {
+            "name": "UNICEF",
+            "url": "https://www.unicef.org/yemen/press-releases/least-64-children-killed-and-64-injured-yemen-intensified-hostilities-approach-three"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — Reciprocal US and Iranian strikes target military sites in the Gulf and Iran",
+        "score": 6.5,
+        "body": "Military tensions between Iran and the United States escalated in the Gulf following reciprocal strikes on strategic sites. Iranian forces carried out attacks targeting US military installations in Bahrain and Kuwait, including a US radar system in Bahrain and the Ali Al Salem Air Base in Kuwait. US forces responded with airstrikes on Qeshm Island in southern Iran. The developments mark a notable acceleration of hostilities around the Strait of Hormuz, heightening risks of wider regional escalation.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "جريدة القدس",
+            "url": "https://alquds.com/en/posts/275532-military-escalation-in-the-gulf-iranian-attacks-us-airstrikes-and-mobilization"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Cholera outbreak kills over 800 people amid healthcare collapse",
+        "score": 6.5,
+        "body": "A cholera epidemic across Yemen has killed at least 859 people, according to data from the World Health Organization. More than 116,700 suspected cholera cases have been recorded across 20 provinces. The World Health Organization warned that ongoing conflict has severely damaged the country's healthcare system, crippling the capacity of health institutions to manage the epidemic and treat infected populations.",
+        "verified_figures": [
+          "At least 859 cholera deaths",
+          "Over 116,700 suspected cholera cases across 20 provinces"
+        ],
+        "sources": [
+          {
+            "name": "Yeni Safak English",
+            "url": "https://en.yenisafak.com/world/cholera-epidemic-kills-859-in-yemen-who-2713553"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
+        "score": 8.0,
+        "body": "The Salvadoran president welcomes the destruction of the home of Jeff Larose, one of Haiti's main crime leaders. It is not clear whether Jeff was in the building during the bombing. The president of El Salvador, Nayib Bukele, confirmed on Wednesday that his forces had attacked and destroyed the luxurious mansion of one of the main leaders of Haiti's criminal gangs, known as \"Jeff\" Larose. For now, it is not clear whether the leader was killed in the strike or whether he was even in the house when it was bombed.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Euronews.com",
+            "url": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion"
+          }
+        ]
+      },
+      {
+        "headline": "Gang-rape ordeal of women and girls revealed in report into Haiti bloodbath that saw ch...",
+        "score": 7.5,
+        "body": "Gang-rape ordeal of women and girls revealed in report into Haiti bloodbath that saw church massacre and children shot.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Daily Mail",
+            "url": "https://www.dailymail.com/news/article-16302723/Gang-rape-ordeal-women-girls-revealed-report-Haiti-bloodbath-saw-church-massacre-children-shot.html"
+          }
+        ]
+      },
+      {
+        "headline": "Haitians Flood Streets in Celebration as Salvadoran Troops Arrive to Combat Gangs",
+        "score": 6.5,
+        "body": "In a moment of unexpected jubilation, thousands of Haitians filled the streets of Port-au-Prince on Tuesday to welcome the arrival of 2,500 Salvadoran soldiers dispatched to combat the rampant gang violence plaguing their nation. This surprising show of support for El Salvador's President, Nayib Bukele, was reported by the Associated Press. Waving Haitian flags and holding posters emblazoned with Bukele's image, demonstrators chanted his name, urging him not to abandon their cause. \"Keep fighting... or they'll end up killing us all,\" read one sign. Others called for the deployment of explosive drones and robotic dogs to dismantle the armed groups. Responding to the outpouring of support, Buk",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "CubaHeadlines",
+            "url": "https://www.cubaheadlines.com/articles/346042"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo exceeds 11,600 infections and is close to 5,700 deaths...",
+        "score": 10.0,
+        "body": "Democratic Republic of the Congo exceeds 11,600 infections and is close to 5,700 deaths due to the Ebola outbreak.",
+        "verified_figures": [
+          "5,700 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/democratic-republic-of-the-congo-exceeds-11-600-infections-and-is-close-to-5-700-deaths-due-to-the-ebola-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Why Is the DRC Ebola Outbreak Continuing? Conflict, Contact Tracing Gaps, and Community...",
+        "score": 9.5,
+        "body": "In late October, a nurse was killed and a second health care worker seriously injured while responding to an Ebola alert.7,16 As of November 13, insecurity and threats against response teams persisted in 3 of the province's health zones,14 and a local checkpoint remained closed due to insecurity.4 Other Provinces The national situation reports for November 11 to 16 describe no attacks or security incidents in Haut-Uélé, South Kivu, Bas-Uélé, South Ubangi, or North Ubangi.4,6,11,13-15 However, an analyst at the conflict monitor Armed Conflict Location & Event Data reports that ADF attacks in southern Haut-Uélé have become more frequent in 2026.10 Contacts Out of Reach: What Insecurity Costs t",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Infection Control Today",
+            "url": "https://www.infectioncontroltoday.com/view/why-is-drc-ebola-outbreak-continuing-conflict-contact-tracing-gaps-community-trust"
+          }
+        ]
+      },
+      {
+        "headline": "Opinion: African Ebola outbreak affects the world",
+        "score": 9.5,
+        "body": "To continue reading, please subscribe: Digital Subscription One year of digital access for only $1.44 a week* - Enjoy unlimited reading on winnipegfreepress.com - Read the E-Edition, our digital replica newspaper - Access News Break, our award-winning app - Play interactive puzzles *Billed as $5.77 plus GST every four weeks. After 52 weeks, price increases to the regular rate of $19.95 plus GST every four weeks. Offer available to new and qualified returning subscribers only. Cancel any time. To continue reading, please subscribe: Add Free Press access to your Brandon Sun subscription for only an additional $1 for the first 4 weeks* *Your next Brandon Sun subscription payment will increase b",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Winnipeg Free Press",
+            "url": "https://www.winnipegfreepress.com/opinion/editorials/2026/11/19/african-ebola-outbreak-affects-the-world"
+          }
+        ]
+      },
+      {
+        "headline": "WHO says Ebola outbreak in DR Congo remains public health emergency of international co...",
+        "score": 9.5,
+        "body": "The Ebola outbreak in the Democratic Republic of Congo remains a public health emergency of international concern, World Health Organization (WHO) chief Tedros Adhanom Ghebreyesus said Wednesday. The decision follows recommendations from the WHO Emergency Committee, which met earlier in the day to assess the outbreak. \"We call for the cooperation of all governments and all partners to scale up the response further, and raise the resources needed to protect communities over the coming months,\" Tedros said on US social media company X. He also called for the protection of health workers, medical facilities and emergency responders in affected communities amid the ongoing conflict. Tedros said",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "A News",
+            "url": "https://www.anews.com.tr/africa/2026/11/18/who-says-ebola-outbreak-in-dr-congo-remains-public-health-emergency-of-international-concern"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Previous Ukraine port calls could expose ships to drone attacks in Black Sea",
+        "score": 7.5,
+        "body": "Previous Ukraine port calls could expose ships to drone attacks in Black Sea Even calls by other vessels in the same fleet could bring risk of attack, Ambrey Analytics says Even calls by other vessels in the same fleet could bring risk of attack, Ambrey Analytics says",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "TradeWinds News",
+            "url": "https://www.tradewindsnews.com/casualties/previous-ukraine-port-calls-could-expose-ships-to-drone-attacks-in-black-sea/2-1-2076262"
+          }
+        ]
+      },
+      {
+        "headline": "After Crimean Bridge Attack, Moscow Questions Netherlands' Entry into Ukraine War",
+        "score": 6.0,
+        "body": "The Russian Embassy in the Netherlands issued a statement on Wednesday questioning whether The Hague had openly joined the conflict in Ukraine alongside Kyiv, following a Dutch company's announcement that Ukrainian forces used domestically produced missiles in an attack on the Crimean Bridge. Ukrainian drones and missiles destroyed the main section of the road connecting Russia to the Crimean Peninsula on Tuesday, delivering a military and symbolic blow to Russian President Vladimir Putin just days before his scheduled meeting with the leaders of China and the United States, according to Reuters. The Dutch startup Destinus stated on Tuesday that its missiles were the only foreign-manufacture",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Daily Beirut",
+            "url": "https://dailybeirut.com/en/world/after-crimean-bridge-attack-moscow-questions-netherlands-entry-into-ukraine-war/"
+          }
+        ]
+      },
+      {
+        "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+        "score": 6.0,
+        "body": "- Published Moscow's retaliation for attacks on the Crimean Bridge will be \"far more painful\" than Kyiv's strikes, Vladimir Putin has vowed. In the early hours of Thursday, the double-arched, 12-mile bridge connecting Russia to Ukraine's occupied peninsula of Crimea was hit for a third time this week. A combined missile-and-drone strike on Tuesday destroyed the central road section of the bridge, collapsing part of it into the water and rendering it unusable for road traffic. But at a press conference after historic talks with his Chinese and US counterparts in Shenzhen, Russian president Putin said Moscow's response would be even more significant. Putin claimed the bridge was used exclusive",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+        "score": 6.0,
+        "body": "Russian arrested for spying on US defence company Palantir over Ukraine support. The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "score": 7.5,
+        "body": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres When the judges of the International Court of Justice read out their verdict in the seven-year-old genocide case filed by The Gambia against Myanmar on Thursday, they could make history. In the years since the Genocide Convention was signed in 1948, after the Nazi Holocaust, dozens of individuals have been successfully prosecuted for the crime of genocide, in conflicts such as those in Rwanda and the former Yugoslavia. But no state has ever been found guilty by an international court of committing genocide. \"It would be a judgment of landmark importance if The Gambia were to win this case,\" says Arsalan Suleman, the",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/news/articles/c5m2l90ez144o"
+          }
+        ]
+      },
+      {
+        "headline": "28 Million in Poverty as Afghanistan Crisis Deepens Amid Returns, Drought and Aid Cuts",
+        "score": 7.5,
+        "body": "The Kabul Tribune (KT) — The United Nations says Afghanistan’s humanitarian and economic crisis is worsening, with millions facing deepening poverty due to mass population returns, prolonged drought and declining international assistance. According to a new report by the United Nations Development Programme, an estimated 28 million people were living in poverty in Afghanistan in 2025. The situation has been compounded by the return of approximately 2.9 million Afghans during the year, pushing an additional 1.4 million people into hardship. The report, titled Afghanistan Socioeconomic Review, notes that while the country recorded a second consecutive year of economic growth, real GDP expanded",
+        "verified_figures": [
+          "28 Million in Poverty as",
+          "28 million people were living",
+          "2.9 million Afghans during the"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "World Bank: Afghanistan’s Economy Grows as Poverty and Food Insecurity Deepen, Water Cr...",
+        "score": 7.5,
+        "body": "World Bank: Afghanistan’s Economy Grows as Poverty and Food Insecurity Deepen, Water Crisis Worsens KABUL, AFGHANISTAN – The World Bank has warned that Afghanistan’s economic recovery is failing to improve living standards, as population growth outpaces economic expansion, food insecurity deepens, humanitarian assistance declines and the country faces an increasingly severe water crisis. In its Afghanistan Development Update – November 2026, released in November, the World Bank estimates that Afghanistan’s economy will grow by 3 percent in the 2026 fiscal year. However, with the population projected to increase by 6.6 percent, the country’s gross domestic product (GDP) per capita is expected",
+        "verified_figures": [
+          "3 percent",
+          "6.6 percent"
+        ],
+        "sources": [
+          {
+            "name": "KabulNow",
+            "url": "https://kabulnow.com/2026/11/world-bank-afghanistans-economy-grows-as-poverty-and-food-insecurity-deepen-water-crisis-worsens/"
+          }
+        ]
+      },
+      {
+        "headline": "On eve of ICJ decision, UN expert warns Rohingya refugees face heightened insecurity am...",
+        "score": 7.0,
+        "body": "On eve of ICJ decision, UN expert warns Rohingya refugees face heightened insecurity amid intensifying conflict in Myanmar and waning donor support.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "ohchr",
+            "url": "https://www.ohchr.org/en/press-releases/2026/11/eve-icj-decision-un-expert-warns-rohingya-refugees-face-heightened"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Powerful Earthquake Jolts 17 European Countries in the Dead of Night; Millions Take to ...",
+        "score": 10.0,
+        "body": "Powerful Earthquake Jolts 17 European Countries in the Dead of Night; Millions Take to Streets Amid Missile Strike Fears Amid the ongoing Russia-Ukraine war, panic gripped several European countries as people initially feared a missile attack before receiving earthquake alerts on their mobile phones. No major damage or casualties have been reported so far. A powerful earthquake jolted 17 European countries in the middle of the night, triggering panic among residents and forcing thousands of people to leave their homes and rush to the streets. Initially, many feared that the tremors were caused by a missile attack. However, they later received earthquake alerts on their mobile phones. Accordi",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NKTV",
+            "url": "https://www.nktv.in/powerful-earthquake-jolts-17-european-countries-in-the-dead-of-night-millions-take-to-streets-amid-missile-strike-fears/"
+          }
+        ]
+      },
+      {
+        "headline": "Opinion: African Ebola outbreak affects the world",
+        "score": 9.5,
+        "body": "To continue reading, please subscribe: Digital Subscription One year of digital access for only $1.44 a week* - Enjoy unlimited reading on winnipegfreepress.com - Read the E-Edition, our digital replica newspaper - Access News Break, our award-winning app - Play interactive puzzles *Billed as $5.77 plus GST every four weeks. After 52 weeks, price increases to the regular rate of $19.95 plus GST every four weeks. Offer available to new and qualified returning subscribers only. Cancel any time. To continue reading, please subscribe: Add Free Press access to your Brandon Sun subscription for only an additional $1 for the first 4 weeks* *Your next Brandon Sun subscription payment will increase b",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Winnipeg Free Press",
+            "url": "https://www.winnipegfreepress.com/opinion/editorials/2026/11/19/african-ebola-outbreak-affects-the-world"
+          }
+        ]
+      },
+      {
+        "headline": "Abuja community relies on river water amid cholera outbreak",
+        "score": 9.0,
+        "body": "Some residents of Gwagwa community in the Abuja Municipal Area Council (AMAC) of the Federal Capital Territory (FCT) are still relying on river water for domestic use, including drinking, despite the recent suspected cholera outbreak allegedly linked to the community’s water sources. Abuja Metro gathered that the recent outbreak has claimed nine lives, according to the councilor representing the area, Nuhu Aliyu Usman, who confirmed the figure in a telephone interview yesterday. Usman, who is also the Supervisory Councillor for Health in AMAC, said the number of new infections had, however, declined compared with the early days of the outbreak. He said the council, in collaboration with the",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Daily Trust",
+            "url": "https://dailytrust.com/abuja-community-relies-on-river-water-amid-cholera-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "When does Hurricane Season end? Multiple flooding warnings in effect",
+        "score": 8.5,
+        "body": "When does Hurricane Season end? Multiple flooding warnings in effect.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Florida Today",
+            "url": "https://www.floridatoday.com/story/weather/2026/11/19/atlantic-hurricane-season-tropical-storm-kyle-florida-heavy-rain-flooding/92857460007/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Opinion: African Ebola outbreak affects the world",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/opinion/editorials/2026/11/19/african-ebola-outbreak-affects-the-world"
+        }
+      ]
+    },
+    {
+      "location": "WHO says Ebola outbreak in DR Congo remains public health em",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "A News",
+          "url": "https://www.anews.com.tr/africa/2026/11/18/who-says-ebola-outbreak-in-dr-congo-remains-public-health-emergency-of-international-concern"
+        }
+      ]
+    },
+    {
+      "location": "Opinion: African Ebola outbreak affects the world",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/opinion/editorials/2026/11/19/african-ebola-outbreak-affects-the-world"
+        }
+      ]
+    },
+    {
+      "location": "UNICEF: At Least 64 Children Killed as Escalating Conflict D",
+      "score": 9.0,
+      "trigger": "Continued armed clashes, strikes, or offensive operations in the area.",
+      "potential_impact": "Further civilian harm and infrastructure damage could deepen humanitarian needs.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Yemen Online",
+          "url": "https://yemenonline.info/special-reports/14529"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "BBC",
+      "The Guardian",
+      "UNICEF"
+    ],
+    "all_sources": [
+      {
+        "name": "Winnipeg Free Press",
+        "count": 4
+      },
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "A News",
+        "count": 2
+      },
+      {
+        "name": "CubaHeadlines",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Daily Beirut",
+        "count": 1
+      },
+      {
+        "name": "Daily Mail",
+        "count": 1
+      },
+      {
+        "name": "Daily Trust",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "Euronews.com",
+        "count": 1
+      },
+      {
+        "name": "Florida Today",
+        "count": 1
+      },
+      {
+        "name": "Infection Control Today",
+        "count": 1
+      },
+      {
+        "name": "KabulNow",
+        "count": 1
+      },
+      {
+        "name": "NKTV",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "TradeWinds News",
+        "count": 1
+      },
+      {
+        "name": "UNICEF",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "Yeni Safak English",
+        "count": 1
+      },
+      {
+        "name": "ohchr",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      },
+      {
+        "name": "جريدة القدس",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "17 item(s) had no extractable figures in available reporting.",
+      "5 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 18/18 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 1/6 region(s) with candidate material generated via Gemini (LLM), 5 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1090,
+      "sources_cited": 22
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
