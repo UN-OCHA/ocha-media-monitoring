@@ -1,0 +1,416 @@
+{
+  "date": "2026-11-20",
+  "printed_time": "3:01 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An epidemic of the rare Bundibugyo strain of Ebola in the Democratic Republic of the Congo has infected more than 11,000 people and killed over 5,000 since May.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 2,
+      "text": "Severe flash floods and mudslides across remote mountain valleys in Nepal and Tibet killed 157 people and left hundreds missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "Escalating combat in Yemen displaced over 350,000 people since August and killed or injured 128 children since early September.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "A massive Russian air assault against Ukrainian infrastructure killed at least eight people in Kyiv while stray cruise missiles and a drone crashed into Poland.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "The International Court of Justice ruled that Myanmar's military committed genocide against the Rohingya Muslim minority during the 2017 crackdown.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "An epidemic of the rare Bundibugyo strain of Ebola in the Democratic Republic of the Congo has infected over 11,000 people and killed more than 5,000 since May as violence severely obstructs response efforts.",
+    "label": "GLOBAL / CROSS-CUTTING — Ebola Outbreak Kills Over 5,000 in DRC"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen — Mass Displacement and Rising Child Casualties Amid Escalating Hostilities",
+        "score": 8.0,
+        "body": "Escalating fighting across Yemen, particularly in Taiz, Lahj, and along the Red Sea coast, has forced over 350,000 people from their homes since August, including more than 130,000 displaced this month alone. UNHCR warned an additional 100,000 people could be displaced over the next three months. According to UNICEF, at least 64 children have been killed and 64 injured since early September. Hostilities have damaged at least 28 health facilities and seven schools, while closed roads continue to restrict access to food and essential medical supplies.",
+        "verified_figures": [
+          "Over 350,000 people displaced since August",
+          "More than 130,000 people displaced this month",
+          "Up to 100,000 additional people at risk of displacement",
+          "At least 64 children killed",
+          "64 children injured",
+          "28 health facilities damaged",
+          "7 schools damaged",
+          "5 people killed in attack on Al-Suqyah Health Center"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/un-says-over-350-000-displaced-in-yemen-since-august/4131437"
+          }
+        ]
+      },
+      {
+        "headline": "Gaza — Major Ground Offensive Launched Following Ceasefire",
+        "score": 7.5,
+        "body": "Israel has launched a major ground offensive in central Gaza following a ceasefire. Separately, an Israeli drone strike on Salah al-Din Street in southeastern Gaza killed one Palestinian. Further details regarding civilian casualties and operational impacts from the new ground offensive in central Gaza remain undisclosed in available reporting.",
+        "verified_figures": [
+          "1 Palestinian killed"
+        ],
+        "sources": [
+          {
+            "name": "The Business Standard",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0E1VURaTXVEdV92Rm1YODk0RGY3aHVUelA1NXdwZEZ0QzgwQ0lpSW9VbjNpOWh6RGdfSUlKY2JkdXFhV2ZsS0gxVE42WklTZTRNUUN3RUhROXpiUVN1YjBLVUpoVS1ldTdYbldNWUJEWVRreXdfdzRiT3RKeVlSZ0dQNVJwZnNJUHB3SUhCVnFlSDNtOTVqY2pPVTNrd3pvYkF1RUx5dS1CUV96JnZkNTUwVUl5TDdsdGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      },
+      {
+        "headline": "Lebanon — Ongoing Displacement and Strikes Persist Despite Ceasefire",
+        "score": 6.5,
+        "body": "Approximately 300,000 people remain displaced across Lebanon despite a ceasefire agreement being in place. New Israeli military attacks have reportedly hit Lebanese territory, prompting the chief of the Lebanese army to issue warnings concerning ongoing destruction and displacement impacting civilians.",
+        "verified_figures": [
+          "Around 300,000 people displaced"
+        ],
+        "sources": [
+          {
+            "name": "teleSUR English",
+            "url": "https://www.telesurenglish.net/around-300000-still-displaced-in-lebanon-despite-ceasefire/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Security Forces Launch Major Anti-Gang Offensive Amid Mass Displacement",
+        "score": 7.5,
+        "body": "Haitian security forces backed by international task force units launched an armored offensive targeting Martissant, a gang-controlled neighborhood on the southern edge of Port-au-Prince. Police reported at least 34 suspected gang members were killed during the operation aimed at reopening key transport arteries connecting the capital to southern and western provinces. Armed criminal groups currently control 80% to 90% of Port-au-Prince, driving severe security and humanitarian crises. According to United Nations figures, internal displacement in Haiti has reached approximately 1.5 million people.",
+        "verified_figures": [
+          "at least 34 suspected gang members killed",
+          "approximately 1.5 million people internally displaced",
+          "80% to 90% of capital under gang control"
+        ],
+        "sources": [
+          {
+            "name": "The Daily Scrum News",
+            "url": "https://www.thedailyscrumnews.com/haitian-police-and-allied-forces-launch-major-offensive-in-port-au-prince-corridor-as-hunger-crisis-deepens/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Major Doublet Earthquakes Strike Western Region",
+        "score": 7.0,
+        "body": "A pair of major earthquakes struck western Venezuela in rapid succession, beginning with a magnitude 7.2 earthquake near San Felipe followed 39 seconds later by a magnitude 7.5 earthquake near Morón. The doublet earthquake occurred along the tectonic boundary where the Caribbean Plate slides sideways against the South American Plate at approximately two centimeters per year. The intense seismic activity exposed severe infrastructural vulnerabilities across the affected regions.",
+        "verified_figures": [
+          "7.2 magnitude earthquake near San Felipe",
+          "7.5 magnitude earthquake near Morón"
+        ],
+        "sources": [
+          {
+            "name": "Opinion Nigeria",
+            "url": "https://www.opinionnigeria.com/venezuela-was-not-simply-struck-by-an-earthquake-it-was-exposed-by-fransiscus-nanga-roka-2/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak Escalates Rapidly",
+        "score": 9.0,
+        "body": "An outbreak of the rare Bundibugyo strain of Ebola in the Democratic Republic of the Congo continues to expand, with total infections exceeding 11,000 and reported deaths ranging from 2,500 to over 5,000 since May. Young children are severely impacted; health officials report that more than 1,200 children under age five have contracted the virus, resulting in 844 deaths. According to WHO statements, community deaths have reached 75%. Aid organizations warn that ongoing violence and displacement in affected eastern areas severely obstruct medical access, patient monitoring, and contact tracing, causing containment efforts to fall behind the pace of transmission.",
+        "verified_figures": [
+          "More than 11,000 confirmed infections",
+          "More than 5,000 total deaths reported since May",
+          "2,500 to 5,000 deaths reported by UN officials",
+          "1,200 children under five infected",
+          "844 deaths among children under five",
+          "75% community fatality rate reported by WHO"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/congo-ebola-spread-vaccine/a-78457248"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone Attack Kills 16 at School Shelter in West Kordofan",
+        "score": 7.5,
+        "body": "A drone strike on 17 November hit a school serving as a shelter for displaced families in Ghabish, West Kordofan state, killing at least 16 people and injuring approximately 10 others. Local monitors from the Kordofan Monitoring Organization reported that the casualties are preliminary and warned that recurring aerial attacks in the region risk forcing further displacement among civilians who had previously fled conflict elsewhere in Sudan. The attack follows an earlier strike on 15 November that destroyed a residential building in the same town.",
+        "verified_figures": [
+          "At least 16 killed",
+          "Approximately 10 injured"
+        ],
+        "sources": [
+          {
+            "name": "Vietnam.vn",
+            "url": "https://www.vietnam.vn/en/uav-tan-cong-truong-hoc-o-sudan-it-nhat-16-nguoi-thiet-mang"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine/Poland — Russia conducts massive air strikes causing casualties and spillover into Poland",
+        "score": 8.0,
+        "body": "Russia executed one of its largest air assaults against Ukraine since 2022, targeting bridges and key infrastructure in Kyiv following Ukrainian strikes on the Crimean Bridge. Ukrainian President Volodymyr Zelenskyy confirmed that at least eight people were killed and nearly 30 injured in the strikes. Concurrently, two Russian cruise missiles and a jet-powered drone reportedly crashed inside Poland during Western military exercises, an incident the Polish Prime Minister described as an intentional provocation by Moscow.",
+        "verified_figures": [
+          "at least 8 people killed in Ukraine",
+          "nearly 30 people injured in Ukraine"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — UNICEF reports rise in child casualty rates nearing 2022 levels",
+        "score": 7.0,
+        "body": "According to UNICEF and United Nations data, child deaths and injuries in Ukraine have surged in 2026, reaching levels close to those documented during the initial 2022 invasion. An average of three Ukrainian children are being killed or wounded daily. The findings emphasize the severe protection risks facing children as ongoing strikes impact population centers and critical infrastructure across the country.",
+        "verified_figures": [
+          "an average of 3 children killed or wounded daily in 2026"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/ukraine-child-death-toll-climbs-near-2022-levels-unicef-says-2026-11-20/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — ICJ rules military committed genocide against Rohingya",
+        "score": 8.0,
+        "body": "The International Court of Justice ruled that the Myanmar military committed genocide against the Rohingya Muslim minority during a 2017 campaign. The court ordered Myanmar to investigate and prosecute suspected perpetrators, provide restitution, and compensate victims. The 2017 military crackdown killed more than 10,000 Rohingya and forced over 700,000 people to flee to neighboring Bangladesh. Despite the landmark verdict, ongoing conflict inside Myanmar, lack of citizenship guarantees, and the complete destruction of former villages remain major obstacles preventing refugees from safely returning home.",
+        "verified_figures": [
+          "More than 10,000 Rohingya killed in 2017 campaign",
+          "Over 700,000 Rohingya displaced to Bangladesh"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTNLWmdYdncxbDRfcFZhVlRFeVRfN3Jic2JSb252SkQ4djE0ckRoaGpqcnZKWDU5Wm4tUXdjTHdPZVNtWkVRWVNSN29EcFNQQkhVeVF6WWQ5NFB2WUFURVFyWjI3dmRGeEJNSDJrMk1HYTdMMXVTMkZqZl9ZVjlJMVlhSWRTR0Nha0NJZ3J0TVBpVndia25nVXNDZi1GcnVxYTFtdklydElZQy1FMHo5TGhJcUpjcG5rWDZJaQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWEMyTnBnb1k2elB1QVF4d05uRC1mZEsySEt3cDdvaVhaTnBoWHd4Y3ZDMEpILVBUQWFEcWtENjZvaDZmQ0lXdUZNN3pFaXZIVEtfdDdnZmMySjdpb0tZeDRJOUhIamtkVkViVmw0UFJYcGM1UkEydHh5akxqY2ZBa2U2LW9VX3dqalRyUDJjLXQ1XzlOd1JkWVl0ZzlGemZNdXdNcmlKRE1PX2k3Y0hnSVByUdIBuAFBVV95cUxNU3owOWlJXzgyM0E4bFQyVFlnbTRaaEVtRFNyNGdzc0I0c2Q1WExkTkdNYTVscEdoVVJIbEpJVXlMalo3ZVA5a0kyQlVmeXBSck5OQzBUelpHVm03VWhVX1RUdFIycGNrdEVrcUh4NzNvV25FX1FzUThTZEdkenBlVzVCVHBLZ2dMV2pJODlQWlVwN0FLS19XSmg2RGR3NTFrTC1BQ3BDWndGaTBEOGZaeVM2VTBTS3Bh?oc=5"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazVmQWNON0pUR1lkMG9ESFlrYjhtOUtQRGNJREZ0cWpPNWIxYTNYaWxjQUN4cUxHU3BVX05BTUc0SlBsblFmQmJ5YjJiOUhHV1RuQTk0OGNLWTFoaWhudm9XS193THFlcU9xbHZqS2w0TGlyOEpRU2Y2dXhDcmFLZXhncDNHa1ctVGFoRFhRcXZROVpYdzZrTWdYbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      },
+      {
+        "headline": "India — Cyclone Akvan triggers mass evacuations along eastern coast",
+        "score": 6.0,
+        "body": "Authorities in eastern India evacuated more than 300,000 people across Odisha and Andhra Pradesh states as Cyclone Akvan made landfall near Gopalpur on November 20. Akvan is the third tropical cyclone to strike India's eastern coast within a month, following Cyclones Arnab and Murasu. The storm crossed the shore with sustained wind speeds of 70 to 80 km/h and gusts up to 90 km/h. Local officials reported waterlogged roads and heavy rainfall, but no severe casualties or structural damage have been confirmed.",
+        "verified_figures": [
+          "More than 300,000 people evacuated in Odisha and Andhra Pradesh",
+          "Three cyclones in the Bay of Bengal in less than a month",
+          "Sustained winds of 70-80 km/h with gusts up to 90 km/h"
+        ],
+        "sources": [
+          {
+            "name": "Free Malaysia Today",
+            "url": "https://www.freemalaysiatoday.com/category/world/2026/11/20/india-s-eastern-coast-hit-by-third-cyclone-within-a-month"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo — Bundibugyo Ebola Strain Outbreak Kills Over 5,000",
+        "score": 9.5,
+        "body": "A severe epidemic of the rare Bundibugyo strain of Ebola virus disease in the Democratic Republic of the Congo has infected more than 11,000 people and claimed over 5,000 lives since May. The outbreak, which has heavily impacted areas including Bunia in Ituri province, is on track to become the largest in recorded history. Response interventions face critical challenges, with health reports highlighting persistent transmission, delayed case detection, and restricted access to timely care. A UK national returning from the region has also tested positive for the virus and is receiving treatment in London.",
+        "verified_figures": [
+          "more than 11,000 cases",
+          "more than 5,000 deaths"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/global-development/2026/nov/20/ebola-virus-disease-epidemic-bundibugyo-strain-bunia-ituri-democratic-republic-congo"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal & Tibet — Flash Floods Leave 157 Dead and Hundreds Missing",
+        "score": 9.0,
+        "body": "Severe flash floods and mudslides swept through remote mountain valleys across Nepal and Tibet, causing major casualties and destruction. Police in Nepal confirmed that search teams have recovered 157 bodies, while hundreds of people remain missing. Authorities are actively evacuating residents from high-risk flood zones to safer temporary shelters while deploying emergency medical care, food, and rescue assistance across affected communities.",
+        "verified_figures": [
+          "157 bodies recovered",
+          "hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Seasonal Flooding Fuels Cholera Fatalities in Federal Capital Territory",
+        "score": 4.0,
+        "body": "Ongoing rainy season flooding in Nigeria has heightened water contamination risks, accelerating cholera transmission across affected areas. Health authorities reported at least five recent fatalities in the Gwagwa community within the Abuja Municipal Area Council. The national disease control center warned that flood-related contamination of local water sources continues to amplify disease transmission, underscoring urgent containment and sanitation needs.",
+        "verified_figures": [
+          "at least 5 deaths"
+        ],
+        "sources": [
+          {
+            "name": "THISDAYLIVE",
+            "url": "https://www.thisdaylive.com/2026/11/20/the-shame-of-cholera-outbreaks/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Poland / Ukraine Border",
+      "score": 8.0,
+      "trigger": "Further Russian missile or drone incursions into Polish airspace during attacks on Ukrainian infrastructure could precipitate direct military escalation.",
+      "potential_impact": "A widening regional confrontation would severely endanger civilian populations and paralyze humanitarian cross-border supply lines.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+        }
+      ]
+    },
+    {
+      "location": "Central Gaza",
+      "score": 7.5,
+      "trigger": "The expansion of Israel's newly launched ground offensive in central Gaza following the ceasefire risks reigniting intense urban combat.",
+      "potential_impact": "Renewed ground operations risk causing further civilian casualties and blocking the delivery of essential humanitarian assistance.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0E1VURaTXVEdV92Rm1YODk0RGY3aHVUelA1NXdwZEZ0QzgwQ0lpSW9VbjNpOWh6RGdfSUlKY2JkdXFhV2ZsS0gxVE42WklTZTRNUUN3RUhROXpiUVN1YjBLVUpoVS1ldTdYbldNWUJEWVRreXdfdzRiT3RKeVlSZ0dQNVJwZnNJUHB3SUhCVnFlSDNtOTVqY2pPVTNrd3pvYkF1RUx5dS1CUV96JnZkNTUwVUl5TDdsdGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Taiz and Red Sea Coast, Yemen",
+      "score": 8.0,
+      "trigger": "Intensifying front-line combat could displace up to 100,000 additional civilians over the coming weeks.",
+      "potential_impact": "Massive new displacement will exhaust existing shelter capacity and deepen severe shortages of medical care and food.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/middle-east/un-says-over-350-000-displaced-in-yemen-since-august/4131437"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "The Guardian",
+        "count": 4
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "The Business Standard",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "BBC",
+        "count": 1
+      },
+      {
+        "name": "Free Malaysia Today",
+        "count": 1
+      },
+      {
+        "name": "Opinion Nigeria",
+        "count": 1
+      },
+      {
+        "name": "THISDAYLIVE",
+        "count": 1
+      },
+      {
+        "name": "The Daily Scrum News",
+        "count": 1
+      },
+      {
+        "name": "Vietnam.vn",
+        "count": 1
+      },
+      {
+        "name": "teleSUR English",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "Corroboration check added 3 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 3/5 Google News-derived link(s) resolved to a stable publisher URL. 2 could not be resolved (the publisher blocked the request, or the underlying Google redirect itself was invalid) and still point at the original Google News link, which may not resolve reliably when clicked.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1119,
+      "sources_cited": 15
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
