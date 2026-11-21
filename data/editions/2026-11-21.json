@@ -1,0 +1,511 @@
+{
+  "date": "2026-11-21",
+  "printed_time": "2:22 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is experiencing its largest and deadliest Ebola epidemic on record, causing over 5,600 deaths and severe mortality among young children.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Flash floods across remote mountain valleys in Nepal and Tibet destroyed entire villages, leaving at least 157 people dead and hundreds missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "An attack by armed men in Kenscoff, Haiti, left at least 47 people dead and resulted in the kidnapping of more than 50 hostages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 4,
+      "text": "Severe hunger and armed conflict in Sudan have left more than 19.5 million people acutely food insecure, driving tens of thousands into crowded displacement camps in Kosti.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Airstrikes in Yemen killed 41 people while Houthi forces launched ballistic missiles at Riyadh, escalating regional hostilities and civilian casualties.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "The Democratic Republic of the Congo is battling its deadliest Ebola outbreak on record, with over 5,600 fatalities and a 70 percent mortality rate among infected young children amid a total lack of licensed vaccines.",
+    "label": "AFRICA — DR Congo Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Yemen/Saudi Arabia — Coalition Airstrikes and Houthi Missile Attacks Escalating Civilian Casualties",
+        "score": 8.0,
+        "body": "Military escalation in Yemen and cross-border attacks with Saudi Arabia have intensified. Medical sources reported 41 people killed—including 11 children and seven women—and 28 injured in recent airstrikes across Taiz, Saada, Hajjah, Lahj, and Sanaa. Ground clashes between government forces and Houthis have also renewed. UNICEF previously reported at least 64 children killed and 65 injured since September. In response to coalition operations, Houthi forces launched three ballistic missiles intercepted over Riyadh. Hostilities continue to exacerbate civilian displacement and humanitarian access constraints across impacted governorates.",
+        "verified_figures": [
+          "41 killed (including 11 children and 7 women)",
+          "28 injured",
+          "at least 64 children killed and 65 injured since September",
+          "3 ballistic missiles intercepted"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation"
+          }
+        ]
+      },
+      {
+        "headline": "Palestine — Gaza Health Ministry Reports Rising Death Toll and Severe Shelter Shortages",
+        "score": 8.0,
+        "body": "Gaza's Health Ministry reported nine Palestinians killed and 55 injured over a 48-hour period, raising the total death toll since October 2023 to 74,736. Severe winter flooding and ongoing strikes are worsening displacement and shelter conditions across the enclave. Humanitarian agencies report over 150,000 procured tents remain stalled outside Gaza due to access constraints, while Israeli authorities state over 93,000 tents have entered. Separately, Hamas condemned continued Israeli strikes, reporting seven deaths on Friday and citing persistent ceasefire violations, home demolitions, and civilian displacement.",
+        "verified_figures": [
+          "74,736 cumulative deaths since October 2023",
+          "9 killed and 55 injured over 48 hours",
+          "7 killed on Friday morning",
+          "over 150,000 tents stalled outside Gaza",
+          "over 93,000 tents entered Gaza"
+        ],
+        "sources": [
+          {
+            "name": "streamlinefeed.co.ke",
+            "url": "https://streamlinefeed.co.ke/news/gaza-health-ministry-puts-death-toll-at-74736-amid-ceasefire"
+          }
+        ]
+      },
+      {
+        "headline": "Iran/Persian Gulf — IRGC Escalates Maritime and Missile Attacks in Regional Waters",
+        "score": 6.0,
+        "body": "Reports indicate Iran's Islamic Revolutionary Guard Corps has doubled its attacks on cargo ships transiting the Strait of Hormuz. Additionally, drone and missile strikes were launched toward Kuwait and Bahrain for the first time in months. The maritime and regional escalation coincides with an ongoing U.S. naval blockade and economic measures, raising concerns over direct military confrontation and disruptions to international shipping routes.",
+        "verified_figures": [
+          "IRGC doubled attacks on cargo ships transiting the Strait of Hormuz"
+        ],
+        "sources": [
+          {
+            "name": "Townhall",
+            "url": "https://townhall.com/news/dmitri-bolt/2026/11/20/iran-is-escalating-attacks-in-the-strait-of-hormuz-n2686808"
+          }
+        ]
+      },
+      {
+        "headline": "Iraq — Deadly Fire Hits Hartha Power Station Complex in Basra",
+        "score": 4.0,
+        "body": "At least four people were killed and 30 others injured after a fire broke out at the Hartha power station complex in southern Iraq. The incident affected major energy infrastructure in Basra province. Local authorities have not released official details regarding the cause of the blaze or the full extent of operational disruption to the power grid.",
+        "verified_figures": [
+          "at least 4 killed",
+          "30 injured"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass attack and kidnapping in Kenscoff",
+        "score": 9.0,
+        "body": "The United Nations confirmed that an attack by armed men on Sunday in Kenscoff, near Port-au-Prince, killed at least 47 people, including five children, and resulted in the kidnapping of more than 50 others. A gang leader released a video threatening to murder all hostages if Haitian National Police attempt a rescue operation that harms any of his men.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least 5 children killed",
+          "more than 50 people kidnapped"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Security forces kill 34 in Martissant as Salvadoran personnel suffer first casualties",
+        "score": 7.5,
+        "body": "Haitian security forces and a government task force working alongside private security contractor Vectus Global conducted an operation in the Martissant neighborhood of Port-au-Prince targeting gang leader Renel Destina. Police reported using explosive drones, attack helicopters, and armored vehicles, killing at least 34 suspected gang members. Separately, three Salvadoran military personnel were killed while handling explosives, marking the first official deaths among Salvadoran forces since deploying to Haiti.",
+        "verified_figures": [
+          "at least 34 suspected gang members killed",
+          "3 Salvadoran military personnel killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/americas/two-salvadorans-killed-haiti-while-handling-explosives-military-says-2026-11-20/"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Earthquakes displace thousands outside Caracas",
+        "score": 6.5,
+        "body": "Earthquakes striking areas outside Caracas, Venezuela, have left thousands of families displaced and damaged local health facilities. Disrupted basic services and ongoing risks of infectious diseases continue to affect recovering communities. Humanitarian organization Project HOPE has deployed mobile medical units to provide healthcare, support local health centers, and offer psychological first aid to affected populations.",
+        "verified_figures": [
+          "thousands of families displaced"
+        ],
+        "sources": [
+          {
+            "name": "Project HOPE",
+            "url": "https://www.projecthope.org/news-stories/responses/earthquakes-in-venezuela-how-to-help/"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Aviation screening extended for DRC travelers over Ebola",
+        "score": 3.0,
+        "body": "Canada extended temporary Ebola-related emergency border and aviation measures under its Quarantine and Aeronautics Acts through November 27, 2026. The regulations mandate global airlines to screen and potentially refuse boarding to passengers with recent travel history to the Democratic Republic of the Congo, while returning Canadian citizens and permanent residents face tightened quarantine requirements upon arrival.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "thetraveler.org",
+            "url": "https://www.thetraveler.org/canadas-ebola-rules-put-global-airlines-on-boarding-alert/"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Bundibugyo Ebola Outbreak",
+        "score": 9.5,
+        "body": "The Democratic Republic of the Congo is confronting its largest and fastest-spreading Ebola outbreak on record, driven by the rare Bundibugyo strain. According to US Centers for Disease Control and Prevention figures, the epidemic has caused 11,645 infections and 5,683 deaths. World Health Organization and Congolese health data highlight a 70 percent mortality rate among infected children under five, with 844 deaths out of 1,207 confirmed cases in this age group. Spreading across six provinces, the outbreak currently lacks licensed treatments or vaccines. Neighboring Uganda and South Sudan have heightened public health surveillance and border preparedness to prevent cross-border transmission.",
+        "verified_figures": [
+          "11,645 infections",
+          "5,683 deaths",
+          "1,207 confirmed cases in children under 5",
+          "844 deaths among children under 5",
+          "70 percent fatality rate in children under 5",
+          "50 percent fatality rate in adults"
+        ],
+        "sources": [
+          {
+            "name": "CIDRAP",
+            "url": "https://www.cidrap.umn.edu/ebola/uganda-south-sudan-intensify-efforts-keep-ebola-out-amid-burgeoning-dr-congo-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Severe Hunger and Displacement in Kosti",
+        "score": 8.5,
+        "body": "Ongoing armed conflict and declining humanitarian funding continue to exacerbate severe food insecurity across Sudan, where over 19.5 million people face acute hunger and more than 4 million women and children are acutely malnourished. In Kosti, located in south-central Sudan, over 28,000 internally displaced persons are sheltering at the Goz El Salam displacement camp. Many camp residents fled heavy fighting in South Kordofan and central Kordofan. Displaced families face severe food shortages, with mothers relying on informal work in local markets to feed their children amid constrained aid operations.",
+        "verified_figures": [
+          "more than 19.5 million people face acute hunger",
+          "more than 4 million women and children acutely malnourished",
+          "more than 28,000 displaced people sheltering at Goz El Salam camp"
+        ],
+        "sources": [
+          {
+            "name": "Oz Arab Media",
+            "url": "https://ozarab.media/sudan-mothers-face-hunger-and-displacement-in-kosti/"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Fatal Cholera Outbreaks in Abuja and Kano State",
+        "score": 4.5,
+        "body": "A cholera outbreak has killed at least seven people across six communities in the capital, Abuja, according to local health officials. Health teams have been deployed to affected neighborhoods to instruct residents on infection prevention and disease management. Separately, local leaders reported eight deaths and 20 hospital admissions due to cholera in the Gwarzo area of northwestern Kano state over the weekend. Municipal and state health departments are working to contain further spread across both jurisdictions.",
+        "verified_figures": [
+          "at least 7 deaths in Abuja",
+          "6 communities affected in Abuja",
+          "8 deaths in Gwarzo area, Kano state",
+          "20 cholera admissions in Gwarzo area, Kano state"
+        ],
+        "sources": [
+          {
+            "name": "Yeni Safak English",
+            "url": "https://en.yenisafak.com/world/cholera-outbreak-kills-7-in-nigerian-capital-3438780"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian missile strikes target transport infrastructure and central cities, causing civilian casualties",
+        "score": 7.5,
+        "body": "Russia executed nationwide missile strikes targeting key Ukrainian transport infrastructure, including railway stations and bridges in Kyiv. Ukrainian officials reported the assault was among the most massive of the war, leaving at least nine people dead. Additionally, a ballistic missile strike targeting central Ukraine killed two people and wounded scores. The escalatory aerial bombardment follows Ukrainian strikes on the Crimean Bridge. The destruction of transit infrastructure threatens civilian mobility and essential supply lines.",
+        "verified_figures": [
+          "at least 9 dead in nationwide strikes",
+          "2 dead and scores wounded in central Ukraine strike"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Localized truce established in Oleshky to facilitate child reunifications",
+        "score": 4.5,
+        "body": "A localized ceasefire was established in the Russian-occupied Ukrainian city of Oleshky, facilitating humanitarian outcomes and ongoing efforts to reunite separated Ukrainian children with their families. The temporary local pause in fighting occurred alongside diplomatic efforts to negotiate a potential broader cessation of hostilities. While the localized arrangement provided direct humanitarian relief, broader territorial and security disputes driving the war remain unresolved.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com/melania-trump-russia-ukraine-ceasefire-donald-12748095"
+          }
+        ]
+      },
+      {
+        "headline": "Baltic Sea / Russia — Drone attack sets cargo vessel ablaze in Gulf of Finland",
+        "score": 3.0,
+        "body": "A Russian cargo ship traveling toward Kaliningrad caught fire in international waters near Russia's maritime border in the Gulf of Finland following an attack by two drones. The crew was forced to evacuate the vessel. In response to the incident, Finnish authorities alerted NATO and implemented temporary maritime restrictions in the area amid elevated regional tensions.",
+        "verified_figures": [
+          "2 drones involved in attack"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — ICJ rules state committed genocide against Rohingya",
+        "score": 7.5,
+        "body": "The International Court of Justice has ruled that Myanmar is directly responsible for committing genocide against the Rohingya population during 2017 military operations in Rakhine State. Delivered by a 9-6 majority, the judgment marks the first time the UN court has held a state directly responsible for genocide. The case, brought by The Gambia in 2019, followed military operations that killed civilians, destroyed villages, and forced hundreds of thousands of Rohingya into Bangladesh. Rights groups are calling for international sanctions following the ruling.",
+        "verified_figures": [
+          "9-6 majority judgment",
+          "hundreds of thousands of Rohingya people driven into Bangladesh"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/un-international-court-myanmar-genocide-rohingya-reparations-d32c2f2a58942b9a3edb81866a850e65"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — Millions of children face severe malnutrition and school deprivation",
+        "score": 6.5,
+        "body": "Former Afghan President Hamid Karzai warned that millions of children in Afghanistan are facing severe malnutrition and educational deprivation. Citing international organization reports, Karzai stated that nearly four million children are at risk of severe malnutrition, while more than half of primary school-age children are currently denied access to education. Karzai called for unrestricted access to education for both girls and boys, emphasizing society's fundamental responsibility to protect children's rights to health, security, and schooling.",
+        "verified_figures": [
+          "nearly 4 million Afghan children at risk of severe malnutrition",
+          "more than half of primary school-age children deprived of education"
+        ],
+        "sources": [
+          {
+            "name": "Khaama Press",
+            "url": "https://www.khaama.com/karzai-afghanistan-children-malnutrition-education-crisis/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola outbreak death toll surpasses 5,700",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak in the Democratic Republic of the Congo has surpassed 11,700 confirmed cases and 5,700 deaths, making it the deadliest in the country's history. Frontline healthcare personnel continue to respond under severe operational constraints six months into the epidemic. Humanitarian responders report that a combination of factors has accelerated the spread of the virus, particularly in areas such as Bunia in the eastern part of the country.",
+        "verified_figures": [
+          "11,700 confirmed cases",
+          "5,700 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Time Magazine",
+            "url": "https://time.com/article/2026/11/21/ebola-s-death-toll-tops-5-700-can-the-outbreak-be-contained-/"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal & Tibet — Flash floods kill at least 157 people",
+        "score": 9.0,
+        "body": "Severe flash floods have swept through remote mountain valleys in Nepal and Tibet, destroying entire villages. Nepali police confirmed that emergency workers have recovered 157 bodies, while hundreds of residents remain missing. Authorities are working to relocate families living in high-risk zones to safer locations. The Nepali government has pledged to provide full emergency assistance, including search and rescue operations, medical treatment, food supplies, and temporary shelter for displaced populations.",
+        "verified_figures": [
+          "157 bodies recovered",
+          "Hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Cholera deaths reported in Federal Capital Territory",
+        "score": 4.0,
+        "body": "A cholera outbreak in Nigeria has caused at least five deaths in the Gwagwa community within the Federal Capital Territory. The Nigeria Centre for Disease Control and Prevention cautioned that cholera transmission in the country typically reaches its peak between late August and October. Ongoing rainy season conditions and related flooding continue to heighten contamination risks for local drinking water sources.",
+        "verified_figures": [
+          "At least 5 deaths"
+        ],
+        "sources": [
+          {
+            "name": "THISDAYLIVE",
+            "url": "https://www.thisdaylive.com/2026/11/20/the-shame-of-cholera-outbreaks/"
+          }
+        ]
+      },
+      {
+        "headline": "Peru — Magnitude 6.8 earthquake strikes Junin region",
+        "score": 2.0,
+        "body": "A magnitude 6.7 to 6.8 earthquake struck the Andean region of Junin in Peru at a depth of 129 kilometers, shaking buildings across a wide area including the capital, Lima. Residents and lawmakers evacuated buildings during the tremors. Authorities have not reported any casualties or major infrastructure damage following the event.",
+        "verified_figures": [
+          "No casualties reported",
+          "No major damage reported"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/peru-earthquake-andes-magnitude-67-d9c0a1de6be970d6a5a36993c607f29f"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/environment/magnitude-68-earthquake-strikes-banda-sea-near-timor-leste-gfz-says-2026-11-21/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "A gang leader has threatened to kill more than 50 hostages abducted in Kenscoff if police launch a rescue operation that harms his personnel.",
+      "potential_impact": "Potential execution of dozens of hostages and further retaliatory gang violence near Port-au-Prince.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz and Persian Gulf",
+      "score": 7.0,
+      "trigger": "Increased attacks on commercial ships by Iranian forces and missile strikes toward Kuwait and Bahrain could precipitate direct military engagements with U.S. naval assets.",
+      "potential_impact": "Widespread disruption of vital international commercial shipping lanes and broader military confrontation across Gulf states.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Townhall",
+          "url": "https://townhall.com/news/dmitri-bolt/2026/11/20/iran-is-escalating-attacks-in-the-strait-of-hormuz-n2686808"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "Continued Russian missile attacks targeting key Ukrainian railway stations and bridges could further sever transit connections.",
+      "potential_impact": "Severe restrictions on civilian movement, emergency evacuations, and vital supply lines across central and national transit hubs.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef"
+        },
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 4
+      },
+      {
+        "name": "DW.com",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "BBC",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "Townhall",
+        "count": 2
+      },
+      {
+        "name": "CIDRAP",
+        "count": 1
+      },
+      {
+        "name": "Khaama Press",
+        "count": 1
+      },
+      {
+        "name": "Newsweek",
+        "count": 1
+      },
+      {
+        "name": "Oz Arab Media",
+        "count": 1
+      },
+      {
+        "name": "Project HOPE",
+        "count": 1
+      },
+      {
+        "name": "THISDAYLIVE",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "Time Magazine",
+        "count": 1
+      },
+      {
+        "name": "Yeni Safak English",
+        "count": 1
+      },
+      {
+        "name": "streamlinefeed.co.ke",
+        "count": 1
+      },
+      {
+        "name": "thetraveler.org",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "2 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 1/1 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 893,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
