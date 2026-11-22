@@ -42,13 +42,13 @@ from bs4 import BeautifulSoup
 
 from config import THEMES, MONITORING_WINDOW_HOURS
 
-USER_AGENT = "DailyBelleBot/1.0 (+https://github.com/; free, self-hosted humanitarian briefing)"
+USER_AGENT = "MediaMonitoringBot/1.0 (+https://github.com/; free, self-hosted humanitarian briefing)"
 # The Google News redirect-decode step specifically (_decode_google_news_url
 # below) uses a real browser User-Agent rather than our own bot UA — this
 # mirrors what an actual RSS reader or a person clicking the link does,
 # and is the same header the documented technique this is based on uses.
 # Every other fetch in this file (our own RSS pulls) honestly identifies
-# as DailyBelleBot above; only this one specific step impersonates a browser.
+# as MediaMonitoringBot above; only this one specific step impersonates a browser.
 BROWSER_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
 REQUEST_TIMEOUT = 15
 
