@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Render The Daily Belle site from JSON editions in data/editions/*.json.
+Render the OCHA Media Monitoring site from JSON editions in data/editions/*.json.
 
 Usage:
     python scripts/render_site.py
@@ -33,7 +33,7 @@ DOCS_DIR = ROOT / "docs"
 REGION_ORDER = ["Middle East", "Americas", "Africa", "Europe", "Asia-Pacific", "Global / Cross-Cutting"]
 
 SITE_TITLE = "OCHA Media Monitoring"
-SITE_URL = "https://example.github.io/daily-belle/"  # overwritten by build_config.json if present
+SITE_URL = "https://example.github.io/ocha-media-monitoring/"  # overwritten by build_config.json if present
 
 
 def score_class(score: float) -> str:
