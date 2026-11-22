@@ -96,8 +96,7 @@ data/editions/                  One JSON file per day
 6. Get a free Gemini API key and add it as a `GEMINI_API_KEY` repo
    secret — full steps in `docs_GEMINI_SETUP.md`. Without this, the
    pipeline still runs fine, just rule-based only.
-7. Trigger the workflow manually once (Actions tab → "Daily Belle — build
-   and publish" → Run workflow) to test the real fetch-and-build pipeline
+7. Trigger the workflow manually once (Actions tab → "Media Monitoring — build and publish" → Run workflow) to test the real fetch-and-build pipeline
    end to end before waiting for the schedule.
 8. Once confirmed, delete the two sample files
    (`data/editions/2026-08-09.json` and `2026-08-10.json`) — they're
