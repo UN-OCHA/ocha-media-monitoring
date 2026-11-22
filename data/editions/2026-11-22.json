@@ -1,0 +1,463 @@
+{
+  "date": "2026-11-22",
+  "printed_time": "2:13 PM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700 The No cases tied to this outbreak have been reported in the US, and CDC considers the overall risk to the American public and travelers low.1 The outbreak remains the second-largest Ebola outbreak on record and is spreading substantially faster than previous Ebola outbreaks, according to the agency.1 How Fast Is the DRC Ebola Outbreak Growing?",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "A Russian ballistic missile attack on President Volodymyr Zelensky’s hometown in central Ukraine on Saturday killed two people and wounded dozens.",
+      "region": "Europe"
+    },
+    {
+      "rank": 3,
+      "text": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700 The No cases tied to this outbreak have been reported in the US, and CDC considers the overall risk to the American public and travelers low.1 The outbreak remains the second-largest Ebola outbreak on record and is spreading substantially faster than previous Ebola outbreaks, according to the agency.1 How Fast Is the DRC Ebola Outbreak Growing?",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "The bullets struck the ground around Dalia Mohammed as she ran towards her aunt’s house in the outskirts of Taiz.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Ebola outbreak update as of November 19.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700 The No cases tied to this outbreak have been reported in the US, and CDC considers the overall risk to the American public and travelers low.1 The outbreak remains the second-largest Ebola outbreak on record and is spreading substantially faster than previous Ebola outbreaks, according to the agency.1 How Fast Is the DRC Ebola Outbreak Growing?",
+    "label": "AFRICA — Ebola Outbreak Climbs to 11,645 Cases as Deaths Near 5700"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli Strike on Food Aid Vehicle Kills Three",
+        "score": 8.0,
+        "body": "An Israeli airstrike targeted a vehicle transporting food aid in Gaza City's Tal al-Hawa neighborhood, killing three Palestinians and injuring several others. Gaza health officials and eyewitnesses reported the victims were charity kitchen workers delivering meals to displaced persons, noting the vehicle carried food supplies and World Central Kitchen logos. The Israeli military stated it targeted Hamas operatives in the area but did not comment on why a humanitarian supply vehicle was hit. The incident highlights severe protection risks facing relief operations in Gaza.",
+        "verified_figures": [
+          "3 Palestinians killed"
+        ],
+        "sources": [
+          {
+            "name": "Daily Sabah",
+            "url": "https://www.dailysabah.com/world/mid-east/gaza-aid-mission-turns-deadly-as-israeli-strike-kills-3-palestinians/amp"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/middle-east/israeli-strike-kills-three-vehicle-distributing-aid-gaza-witnesses-say-2026-11-21/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Heavy Fighting and Taiz Siege Intensify Humanitarian Crisis",
+        "score": 7.0,
+        "body": "Fierce military confrontations between Yemeni government forces and Houthi fighters have escalated around Taiz, Marib, and the Bab al-Mandab strait. The Yemeni army claimed to carry out over 800 operations in 24 hours, alleging 149 Houthi combatants were killed or wounded. Concurrently, the ongoing siege of Taiz by Houthi forces continues to obstruct essential aid, restrict civilian movement, and severely degrade access to basic services. Ongoing sniper fire and blockades surrounding the city are exacerbating food insecurity and starvation risks for local populations.",
+        "verified_figures": [
+          "149 Houthis killed or wounded (claimed by Yemeni army)"
+        ],
+        "sources": [
+          {
+            "name": "A News",
+            "url": "https://www.anews.com.tr/middle-east/2026/11/22/149-houthis-killed-wounded-in-over-800-operations-in-last-24-hours-yemeni-army"
+          }
+        ]
+      },
+      {
+        "headline": "Bahrain/Iran — Strike Hits Civilian Industrial Facility Amid Regional Escalation",
+        "score": 5.0,
+        "body": "Bahrain reported that an Iranian attack struck a civilian industrial facility, igniting a fire that civil defense teams worked to contain. No casualties were reported. Iran's Islamic Revolutionary Guard Corps claimed responsibility, stating it launched drones and missiles targeting U.S. military assets in Bahrain, home to the U.S. Navy's Fifth Fleet. The strike marks a further escalation in Gulf hostilities following military actions by the U.S. and Israel against Iranian targets.",
+        "verified_figures": [
+          "0 injuries reported"
+        ],
+        "sources": [
+          {
+            "name": "The Jerusalem Post",
+            "url": "https://www.jpost.com/middle-east/iran-news/article-915650"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Police operations kill 54 suspected gang members in Port-au-Prince",
+        "score": 7.0,
+        "body": "Haitian security forces, supported by drones, armored vehicles, and private security firm Vectus Global Task Force, conducted a two-day operation in Martissant, a gang-controlled neighborhood in Port-au-Prince. Police reported that 34 suspected gang members were killed on Thursday and 20 more on Friday, bringing the total death toll to 54. The operation targeted an area controlled by gang leader Renel Destina. Authorities reported no police or civilian casualties during the operation.",
+        "verified_figures": [
+          "54 suspected gang members killed"
+        ],
+        "sources": [
+          {
+            "name": "De Último Minuto",
+            "url": "https://deultimominuto.com/en/world/another-20-gang-members-die-in-police-operation-in-haiti-and-the-death-toll-rises-to-54/"
+          }
+        ]
+      },
+      {
+        "headline": "Haiti — Severe acute food insecurity projected to affect 6.35 million people",
+        "score": 8.0,
+        "body": "Overlapping crises including gang violence, displacement, agricultural decline, economic instability, and El Niño climate shocks have severely heightened food insecurity in Haiti. UN projections indicate that 6.35 million people, roughly half the population, will suffer from acute food insecurity between March and June 2027. Nearly two million of those affected are expected to experience emergency levels of hunger, forcing families to sell essential livelihood assets to obtain basic food supplies.",
+        "verified_figures": [
+          "6.35 million people facing acute food insecurity",
+          "nearly 2 million people at emergency levels of hunger"
+        ],
+        "sources": [
+          {
+            "name": "UN News",
+            "url": "https://news.un.org/en/story/2026/11/1168834"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Anti-government unrest death toll reaches 37 amid ongoing clashes",
+        "score": 5.5,
+        "body": "Fatalities from a month of anti-government unrest in Venezuela have risen to at least 37 following the death of a 20-year-old protester shot in Valencia during clashes with security forces. According to official reports and local authorities, the nationwide demonstrations against President Nicolás Maduro have also resulted in at least 717 people injured and 152 remaining in detention.",
+        "verified_figures": [
+          "at least 37 fatalities",
+          "717 people injured",
+          "152 people detained"
+        ],
+        "sources": [
+          {
+            "name": "Yeni Safak English",
+            "url": "https://en.yenisafak.com/world/venezuela-unrest-death-toll-rises-chavez-statue-destroyed-2653691"
+          }
+        ]
+      },
+      {
+        "headline": "Mexico — Firefight during cartel leader capture leaves 11 dead",
+        "score": 5.0,
+        "body": "A violent firefight in northern Mexico resulted in 11 deaths during a security operation that successfully captured a cartel leader. The operation comes amid ongoing armed confrontations between security forces and organized crime groups in the country's northern region.",
+        "verified_figures": [
+          "11 dead"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/mexico-cartels-el-chapo-isidro-sinaloa-violence-7301b67a1b1b974bc6bd20c9d030ce07"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Ebola Outbreak",
+        "score": 10.0,
+        "body": "An ongoing Ebola epidemic in the Democratic Republic of the Congo has caused 11,613 confirmed cases and 5,678 deaths, according to health authorities. The outbreak is driven by the rare Bundibugyo virus strain, which currently lacks licensed treatments or vaccines. The virus has spread across eight provinces over six months, spreading significantly faster than previous outbreaks. Data indicates a case fatality rate of 48.9 percent, with 1,743 people currently under treatment or quarantine. Early transmission went undetected in part due to surveillance gaps and aid cuts.",
+        "verified_figures": [
+          "11,613 confirmed Ebola cases",
+          "5,678 deaths",
+          "48.9 percent fatality rate",
+          "8 provinces affected",
+          "1,743 people under treatment or quarantine"
+        ],
+        "sources": [
+          {
+            "name": "Sight Magazine",
+            "url": "https://sightmagazine.com.au/news/analysis-scientists-are-learning-more-about-the-rare-ebola-virus-in-congo-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone Strikes Hit Residential Areas in Khartoum",
+        "score": 7.5,
+        "body": "Drone strikes targeted residential neighborhoods in and around Sudan's capital, Khartoum, early Sunday, damaging homes and triggering explosions and air defense responses. Intensified drone attacks have increasingly struck civilian infrastructure and residential areas across the capital. United Nations data indicates that drone strikes killed over 1,630 civilians across Sudan between January and late October.",
+        "verified_figures": [
+          "more than 1,630 civilians killed in drone strikes across Sudan between January and the end of October"
+        ],
+        "sources": [
+          {
+            "name": "Saudi Gazette",
+            "url": "https://saudigazette.com.sa/article/666429/world/drone-attacks-strike-residential-areas-in-sudans-khartoum-amid-explosions"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian missile and drone attacks inflict civilian casualties and infrastructure damage",
+        "score": 6.0,
+        "body": "A Russian ballistic missile strike hit President Volodymyr Zelensky’s hometown in central Ukraine, killing at least two people and wounding dozens. Separately, missile strikes hit a residential neighborhood in Lviv in western Ukraine, while widespread aerial bombardments damaged Ukrainian infrastructure and resulted in civilian casualties across the country. The escalation follows reported heavy aerial attacks involving hundreds of drones and missiles targeting civilian areas and infrastructure nationwide.",
+        "verified_figures": [
+          "2 people killed",
+          "dozens wounded"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-missile-zelenskyy-trump-bfdee2ffadc2693e7338d6822e5356ef"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato"
+          }
+        ]
+      },
+      {
+        "headline": "Baltic Sea — Russian cargo ship ablaze after drone strike off Finland",
+        "score": 3.0,
+        "body": "A Russian cargo ship caught fire following a drone strike in international waters in the Baltic Sea and subsequently drifted into Finnish territory. The vessel, which is affiliated with a major Russian military logistics firm, was en route to Kaliningrad when it was damaged. The ship's crew evacuated safely. Ukrainian authorities have neither confirmed nor denied involvement in the strike.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Myanmar — ICJ Finds State Responsible for Genocide Against Rohingya",
+        "score": 7.5,
+        "body": "On 19 November, the International Court of Justice ruled that Myanmar was responsible for committing genocide against the Rohingya population during a 2017 military crackdown in Rakhine state. The case, submitted by The Gambia in 2019 under the 1948 Genocide Convention, established that Myanmar security forces conducted mass killings, widespread sexual violence, and village destruction intended to destroy a substantial portion of the Rohingya group.",
+        "verified_figures": [
+          "Mass killings and widespread sexual violence cited by ICJ"
+        ],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/asia/southeast-asia/myanmar-rohingya-refugees-un-genocide-verdict-b3089375.html"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Factory Fire Kills Three and Leaves 36 Missing",
+        "score": 5.0,
+        "body": "A fire at a snack and sweets production factory in Indonesia killed at least three people and left 36 others missing. Emergency personnel rescued 15 people alive from the facility, while firefighters worked for over 12 hours to contain flames spreading through multiple sections of the plant. Survivors reported that the blaze began in a third-floor cooling unit, though official investigations into the cause are ongoing.",
+        "verified_figures": [
+          "3 killed",
+          "36 missing",
+          "15 rescued alive"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing"
+          }
+        ]
+      },
+      {
+        "headline": "India — Coastal Evacuations Implemented Ahead of Cyclone Mayavi Landfall",
+        "score": 4.0,
+        "body": "Prior to Cyclone Mayavi making landfall on 18 November 2026, authorities along Odisha's shoreline in eastern India evacuated over 10,000 pregnant women from high-risk coastal communities. The early evacuation efforts were supported by satellite tracking and weather forecasting provided by the Indian Space Research Organisation in coordination with the India Meteorological Department to protect vulnerable populations ahead of the storm.",
+        "verified_figures": [
+          "More than 10,000 pregnant women evacuated"
+        ],
+        "sources": [
+          {
+            "name": "ET Government",
+            "url": "https://government.economictimes.indiatimes.com/blog/guardians-in-orbit-how-indias-satellites-turned-cyclone-forecasts-into-saved-lives/136056120"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nepal / Tibet — Flash Flooding Kills Over 150",
+        "score": 9.0,
+        "body": "A severe flash flood sweeping through remote valleys in Nepal and Tibet has caused major loss of life and displacement. Nepali police confirmed that at least 157 bodies have been recovered, while hundreds of people remain missing. Authorities are actively relocating families from high-risk areas to safer locations. Prime Minister Balendra Shah announced that the government has assumed full responsibility for emergency rescue operations, medical treatment, food provision, and temporary shelter for affected communities.",
+        "verified_figures": [
+          "157 bodies recovered in Nepal",
+          "hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "DRC — Rapidly Spreading Ebola Outbreak Kills Thousands",
+        "score": 8.5,
+        "body": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has reached 11,645 cases and nearly 5,700 deaths across eight provinces. Health authorities report that the outbreak is spreading significantly faster than previous epidemics, accumulating approximately 500 new infections weekly. Children account for roughly one-third of all fatalities. Medical interventions face major obstacles, including difficult physical access to remote communities, security attacks against health personnel, and widespread public distrust. More than 3,000 patients have recovered to date.",
+        "verified_figures": [
+          "11,645 cases",
+          "nearly 5,700 deaths",
+          "8 provinces affected",
+          "approx. 500 new cases per week",
+          "one-third of deaths are children",
+          "over 3,000 recoveries"
+        ],
+        "sources": [
+          {
+            "name": "Contagion Live",
+            "url": "https://www.contagionlive.com/view/ebola-outbreak-climbs-11-645-cases-deaths-near-5700"
+          }
+        ]
+      },
+      {
+        "headline": "Liberia — Fatal Ebola Case Reported Following Outbreak Clearance",
+        "score": 5.0,
+        "body": "Health officials in Liberia confirmed that a woman in her early thirties died of Ebola at Redemption Hospital, months after the country was declared free of the virus. The fatal case follows a recent flare-up in neighboring Guinea. Government authorities are preparing an official public statement regarding the incident. The development raises renewed monitoring concerns in West Africa, where the 2014-2016 epidemic claimed over 11,300 lives across Liberia, Guinea, and Sierra Leone.",
+        "verified_figures": [
+          "1 confirmed Ebola death"
+        ],
+        "sources": [
+          {
+            "name": "Yeni Safak English",
+            "url": "https://en.yenisafak.com/life/liberia-records-new-ebola-death-months-after-end-of-its-outbreak-2443818"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Analysis – Scientists are learning more about the rare Ebola",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Sight Magazine",
+          "url": "https://sightmagazine.com.au/news/analysis-scientists-are-learning-more-about-the-rare-ebola-virus-in-congo-outbreak/"
+        }
+      ]
+    },
+    {
+      "location": "Ebola death toll tops 5,600 in DR Congo",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "url": "https://www.bastillepost.com/global/article/6386116-ebola-death-toll-tops-5600-in-dr-congo"
+        }
+      ]
+    },
+    {
+      "location": "Ebola Outbreak Kills 5000 as Vaccine Research Accelerates",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "cwibc.co.id",
+          "url": "https://cwibc.co.id/en/ebola-outbreak-vaccine-research"
+        }
+      ]
+    },
+    {
+      "location": "Liberia records new Ebola death, months after end of its out",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Yeni Safak English",
+          "url": "https://en.yenisafak.com/life/liberia-records-new-ebola-death-months-after-end-of-its-outbreak-2443818"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Yeni Safak English",
+        "count": 3
+      },
+      {
+        "name": "Associated Press",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "Sight Magazine",
+        "count": 2
+      },
+      {
+        "name": "A News",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Contagion Live",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Daily Sabah",
+        "count": 1
+      },
+      {
+        "name": "De Último Minuto",
+        "count": 1
+      },
+      {
+        "name": "ET Government",
+        "count": 1
+      },
+      {
+        "name": "Saudi Gazette",
+        "count": 1
+      },
+      {
+        "name": "The Independent",
+        "count": 1
+      },
+      {
+        "name": "The Jerusalem Post",
+        "count": 1
+      },
+      {
+        "name": "UN News",
+        "count": 1
+      },
+      {
+        "name": "cwibc.co.id",
+        "count": 1
+      },
+      {
+        "name": "巴士的報",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 1 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 7/7 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 865,
+      "sources_cited": 18
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
