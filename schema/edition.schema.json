@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "DailyBelleEdition",
+  "title": "MediaMonitoringEdition",
   "type": "object",
   "required": ["date", "printed_time", "top_five", "top_story", "sections", "escalation_risks", "source_notes"],
   "additionalProperties": false,
