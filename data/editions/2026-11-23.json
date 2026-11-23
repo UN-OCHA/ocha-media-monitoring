@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-23",
+  "printed_time": "6:21 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Escalating armed conflict in eastern Democratic Republic of the Congo trapped an Ebola response team for over 24 hours in Ituri province as an outbreak reaching 11,645 cases and nearly 5,700 deaths severely strains health operations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Armed gang members killed at least 47 people, including five children, and kidnapped over 50 others in Kenscoff, Haiti, threatening hostageworker massacres if police attempt rescue operations.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Russian missile and drone attacks in Ukraine's Kyiv region killed at least 15 people and destroyed an apartment building in Dymer, leaving at least 11 residents trapped under rubble.",
+      "region": "Europe"
+    },
+    {
+      "rank": 4,
+      "text": "UN agencies reported that 15.9 million people in Afghanistan face acute food insecurity, with over four million children expected to require treatment for acute malnutrition in 2027 amid declining international assistance.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 5,
+      "text": "The International Court of Justice ruled that Myanmar's security forces committed genocide against the Rohingya population during a 2017 military crackdown in Rakhine state involving mass killings and village destructions.",
+      "region": "Asia-Pacific"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "Escalating armed conflict in eastern Democratic Republic of the Congo has trapped healthcare workers and severely disrupted medical operations as a major Ebola outbreak reaches 11,645 cases and nearly 5,700 deaths.",
+    "label": "AFRICA — DRC Ebola Outbreak and Response Security Crisis"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza Strip — Airstrikes Target Food Distribution Vehicle and Northern Gaza",
+        "score": 6.5,
+        "body": "An Israeli airstrike targeted a vehicle carrying food aid in the Tal al-Hawa neighborhood of Gaza City, killing three charity kitchen workers and injuring several others. The attack destroyed the vehicle and scattered meal supplies intended for displaced residents. Separately, an Israeli airstrike in northern Gaza left one person critically injured and several others wounded. The incidents underscore ongoing risks to humanitarian relief workers and civilians seeking food assistance across the Gaza Strip.",
+        "verified_figures": [
+          "3 killed",
+          "1 critically injured"
+        ],
+        "sources": [
+          {
+            "name": "جريدة القدس",
+            "url": "https://alquds.com/en/posts/276706"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Military Escalation Intensifies as Blockade Worsens Conditions in Taiz",
+        "score": 6.0,
+        "body": "Clashes between government forces and Houthi fighters have intensified across frontline areas, including Bab al-Mandab, Taiz, and Marib. The Yemeni army reported conducting 816 operations over a 24-hour period, killing or wounding 149 Houthi personnel and damaging or destroying 71 military vehicles. Concurrently, the humanitarian situation in Taiz continues to deteriorate due to an ongoing blockade, soaring commodity prices, and failing public services, compounding hardships for vulnerable populations.",
+        "verified_figures": [
+          "149 killed or wounded",
+          "816 attacks",
+          "71 military vehicles and equipment destroyed or damaged"
+        ],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20261122-149-houthis-killed-wounded-in-over-800-operations-in-last-24-hours-yemeni-army/?amp"
+          }
+        ]
+      },
+      {
+        "headline": "Bahrain — Iranian Attack Hits Civilian Industrial Facility, Injuring Civilians",
+        "score": 5.5,
+        "body": "An Iranian missile and drone attack struck a civilian industrial facility in Bahrain, injuring two people. According to Bahrain's Interior Ministry, a Pakistani resident was critically injured, while a Bahraini citizen sustained stable injuries. Iran's Revolutionary Guard Corps claimed the assault targeted U.S. military positions hosting the U.S. Navy's Fifth Fleet. The strike represents a further spillover of regional hostilities triggered by earlier U.S. and Israeli attacks against Iran.",
+        "verified_figures": [
+          "2 people injured"
+        ],
+        "sources": [
+          {
+            "name": "Internazionale",
+            "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/22/bahrain-warns-residents-of-potential-threat-as-iran-conflict-persists"
+          }
+        ]
+      },
+      {
+        "headline": "Iran / United States — Rising Tensions Over Maritime Blockade and Oil Exports",
+        "score": 4.5,
+        "body": "Regional tensions have heightened following threats of military action against vessels attempting to bypass blockades affecting Iranian oil exports. Iranian Foreign Minister Abbas Araghchi declared that Iran will pursue negotiations while maintaining efforts to export oil, emphasizing that the blockade must be broken. Discussions regarding oil exports have gained traction across Iranian national institutions, raising concerns over potential escalation and maritime security risks in the Gulf region.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Iran International",
+            "url": "https://www.iranintl.com/en/202611226299"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "U.S. bans entry from Ebola-affected countries as American patient identified",
+        "score": 7.0,
+        "body": "U.S. bans entry from Ebola-affected countries as American patient identified Lasuba Memo•May 19, 2026•2 min read The United States Centers for Disease Control and Prevention (CDC) has announced a 30-day suspension of entry into the U.S. for foreign nationals who have recently been in South Sudan, the Democratic Republic of the Congo (DRC), or Uganda. According to the CDC, the temporary measure applies to non-U.S. citizens who have been present in any of the three countries within the previous 21 days, as American health authorities respond to the ongoing Ebola outbreak in the region. The agency said the restriction is intended to reduce the risk of Ebola transmission into the United States,",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Eye Radio",
+            "url": "https://eyeradio.org/u-s-bans-entry-from-ebola-affected-countries-as-american-patient-identified/"
+          }
+        ]
+      },
+      {
+        "headline": "Illegal immigrant avoids charges after Florida grandmother killed outside grocery store...",
+        "score": 5.5,
+        "body": "The criminal case against an illegal immigrant accused of backing over and killing an elderly woman in a grocery store parking lot has been dismissed. He will not face any charges for the accident, Larry Basford, state attorney for Florida’s Fourteenth Judicial Circuit, told Fox News Digital. Several factors prevented prosecutors from pursuing and securing charges under Florida law, Basford said. \"I think everyone would agree that what he did was careless and it was negligent,\" Basford said. But, \"not every tragedy amounts to a crime.\" That’s heartbreaking news for the family of 82-year-old Deborah Murphy, said Murphy’s daughter, Amy Edge. Both sets of tires crushed her body before the car s",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Fox News",
+            "url": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family"
+          }
+        ]
+      },
+      {
+        "headline": "Taking Advantage of the Hormuz Blockade... The 'Donroe Doctrine' Makes a Play for Energ...",
+        "score": 5.0,
+        "body": "As crude oil shipments through the Strait of Hormuz plunged amid the Iran war, the global oil landscape has been shifting. The Strait of Hormuz was a passageway for one-fifth of the world's crude oil supply, but after shipping was disrupted, pipelines and loading operations in the Red Sea continued to be used. These routes, however, have also been exposed to the risk of attacks by Yemen's pro-Iran armed group, the Houthi rebels. In a report on the 21st, local time, the United Kingdom's Financial Times (FT), citing multinational maritime data provider Kpler, said the volume of crude oil passing through the Strait of Hormuz in the second week of this month was about half the level in the first",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "파이낸셜뉴스",
+            "url": "https://en.fnnews.com/news/202611221839081855"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Ebola Outbreak Escalates as Fighting Disrupts Response Operations",
+        "score": 9.0,
+        "body": "The Ebola outbreak in the Democratic Republic of the Congo has reached 11,645 cases and nearly 5,700 deaths, remaining the second-largest on record. The World Health Organization announced clinical trials will begin next week for two candidate vaccines targeting the Bundibugyo strain, for which no approved treatment exists. However, escalating fighting in Ituri trapped an Ebola response team and healthcare workers in a hospital maternity ward for over 24 hours. WHO Director-General Tedros Adhanom Ghebreyesus called for their safe, immediate evacuation as armed clashes severely disrupt healthcare access and epidemic control efforts near the outbreak's origin.",
+        "verified_figures": [
+          "11,645 cases",
+          "nearly 5,700 deaths",
+          "trapped for more than 24 hours"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22/"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone Strikes Kill Four and Damage UN Facilities in Khartoum",
+        "score": 6.5,
+        "body": "A drone attack targeting Khartoum, Sudan, killed four people and caused damage to United Nations premises. The strike highlights persistent operational hazards and security risks facing international organizations and civilian infrastructure amid ongoing conflict in the capital. Further details regarding the identities of those killed or the exact extent of structural damage to UN facilities were not immediately available.",
+        "verified_figures": [
+          "4 killed"
+        ],
+        "sources": [
+          {
+            "name": "Latest news from Azerbaijan",
+            "url": "https://news.az/news/four-killed-un-premises-damaged-in-drone-attacks-on-sudan-s-khartoum"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum"
+          }
+        ]
+      },
+      {
+        "headline": "South Africa — Femicide Statistics Highlight Severe Protection Concerns",
+        "score": 4.5,
+        "body": "Official statistics published in media reports indicate that 581 women were murdered in South Africa over a three-month period. The high casualty figure underscores severe, ongoing protection concerns and pervasive gender-based violence affecting women across the country.",
+        "verified_figures": [
+          "581 women murdered in three months"
+        ],
+        "sources": [
+          {
+            "name": "Business News Nigeria",
+            "url": "https://businessday.ng/world/article/world-in-brief-south-korea-education-minister-resigns-over-exam-cheating-south-africa-records-581-women-murdered-in-three-months-congo-ebola-outbreak-exceeds-11000-cases-and-other-stories/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes kill at least 15 in Kyiv region",
+        "score": 7.5,
+        "body": "Russian missile and drone attacks struck Ukraine's Kyiv region, destroying a five-storey apartment building in the village of Dymer. Ukrainian officials reported at least 15 people were killed in attacks across the region. Search and rescue teams evacuated nine people from the damaged building in Dymer, including a seven-year-old boy rescued after 14 hours under rubble. At least 11 residents are believed to remain trapped under the debris as rescue operations continue.",
+        "verified_figures": [
+          "at least 15 people killed in Kyiv region",
+          "at least 11 residents believed trapped",
+          "9 people evacuated, including 1 child"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/least-14-people-missing-after-russian-drone-hit-building-kyiv-region-zelenskiy-2026-11-22/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-kaliningrad-baltic-fleet-drones-14fecc1c55d601bb9f5b5fc8c9fb0b94"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Finland / Baltic Sea — Russia-bound ship targeted in Gulf of Finland",
+        "score": 3.5,
+        "body": "A Russia-bound cargo ship was towed away after being targeted in a drone attack in the Gulf of Finland. According to Finnish defence forces, Ukraine was likely responsible for the strike on the vessel. Ukrainian authorities have not publicly commented on the incident.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Libya / Russia — Russian warship sinks in Benghazi following suspected drone attack",
+        "score": 4.0,
+        "body": "A Russian naval corvette sank in the port of Benghazi, Libya, following a suspected Ukrainian sea drone attack. According to eastern Libyan officials, the vessel, identified as the Merkury, was docked for refueling and resupply when the strike triggered an explosion. No entity has claimed official responsibility for the attack.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW044722112026RP1/"
+          }
+        ]
+      },
+      {
+        "headline": "NATO / Poland — North Atlantic Council convenes over Polish airspace violations",
+        "score": 3.0,
+        "body": "NATO's North Atlantic Council convened a meeting in Brussels to address recent incursions into Polish airspace. The alliance's decision-making body met after prosecutors alleged that at least three Russian missiles violated Poland's airspace during military operations last week.",
+        "verified_figures": [
+          "at least 3 Russian missiles alleged to have violated Polish airspace"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Acute Food Insecurity and Child Malnutrition",
+        "score": 7.5,
+        "body": "According to UN agencies including UNICEF, an estimated 15.9 million people in Afghanistan face acute food insecurity, with 3.4 million at emergency hunger levels. Approximately 32 percent of the population experienced Crisis-level or worse hunger between September and October 2026. UNICEF reported that child wasting reached its highest recorded level for the August-October period, and more than four million children are expected to require treatment for acute malnutrition in 2027 amid declining foreign assistance and strained health services.",
+        "verified_figures": [
+          "15.9 million people facing acute food insecurity",
+          "3.4 million people experiencing emergency hunger levels",
+          "32 percent of population facing Crisis-level or worse food insecurity",
+          "over 4 million children expected to require malnutrition treatment in 2027"
+        ],
+        "sources": [
+          {
+            "name": "Khaama Press",
+            "url": "https://www.khaama.com/afghanistan-hunger-crisis-food-insecurity-children-2027/"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — ICJ Rules Country Responsible for Genocide Against Rohingya",
+        "score": 7.0,
+        "body": "The International Court of Justice found Myanmar responsible for committing genocide against the Rohingya population during a 2017 military crackdown in Rakhine state. In a case brought by The Gambia under the Genocide Convention, the court ruled on 19 November that Myanmar's security forces carried out mass killings, widespread sexual violence, and village destructions with intent to destroy a substantial part of the Rohingya group. The verdict highlights ongoing international protection and accountability concerns for millions of displaced Rohingya.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Independent",
+            "url": "https://www.independent.co.uk/asia/southeast-asia/myanmar-rohingya-refugees-un-genocide-verdict-b3089375.html"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Fatal Confectionery Factory Fire Kills 24 in Banten",
+        "score": 5.0,
+        "body": "At least 24 people have been killed and approximately 30 others remain missing after a major fire struck the PT Fonusa Agung Mulia confectionery factory in Cikande, Banten province. Search teams are navigating unstable and damaged structural wreckage to locate missing workers. Authorities are investigating the cause of the blaze, which survivors reported originated in a third-floor cooling unit. At least 15 survivors were rescued alive as emergency operations continued.",
+        "verified_figures": [
+          "24 people killed",
+          "approximately 30 people missing",
+          "15 people rescued"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DR Congo — Ebola Outbreak Reaches 11,645 Cases Amid Escalating Security Risks for Response Teams",
+        "score": 9.0,
+        "body": "An ongoing Ebola epidemic in the Democratic Republic of the Congo has reached 11,645 cases and claimed more than 5,600 lives, remaining a global health emergency. Spreading substantially faster than previous outbreaks, the country's 17th Ebola outbreak surpassed 1,000 confirmed cases within 40 days of response activation. Humanitarian operations face severe security impediments in eastern DR Congo, where fighting around an Ituri province hospital trapped an Ebola response team in a maternity ward for over 24 hours. The World Health Organization has called for the immediate and safe evacuation of the health workers, warning that the clashes have disrupted both hospital operations and the broader regional outbreak response.",
+        "verified_figures": [
+          "11,645 cases",
+          "more than 5,600 deaths"
+        ],
+        "sources": [
+          {
+            "name": "DNE Africa",
+            "url": "https://africa.dailynewsegypt.com/ituri-ebola-team-trapped/"
+          },
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/investigations/fields-graves-hidden-deaths-reveal-scale-ebola-disaster-2026-11-23/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Gaza Strip",
+      "score": 7.0,
+      "trigger": "Continued military strikes targeting humanitarian aid vehicles and distribution infrastructure across Gaza City and northern areas.",
+      "potential_impact": "Disruption of emergency relief distributions and severe hunger deterioration among displaced civilians reliant on charity kitchens.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "جريدة القدس",
+          "url": "https://alquds.com/en/posts/276706"
+        }
+      ]
+    },
+    {
+      "location": "Khartoum, Sudan",
+      "score": 6.8,
+      "trigger": "Further drone strikes directed at urban infrastructure or diplomatic and international organization premises in the capital.",
+      "potential_impact": "Additional civilian casualties and forced suspension of remaining UN humanitarian presence in Khartoum.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1TUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR1_UU21VSEk3b2I0UmR5NVdWTjFIdjFS?oc=5&hl=en-US&gl=US&ceid=US:en"
+        }
+      ]
+    },
+    {
+      "location": "Strait of Hormuz and Gulf Region",
+      "score": 6.5,
+      "trigger": "Military operations or enforcement of blockades against commercial shipping bypassing restrictions on Iranian crude exports.",
+      "potential_impact": "Spillover drone and missile strikes against commercial infrastructure across neighboring Gulf states, causing heightened regional supply chain disruptions.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Iran International",
+          "url": "https://www.iranintl.com/en/202611226299"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 5
+      },
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "Iran International",
+        "count": 2
+      },
+      {
+        "name": "جريدة القدس",
+        "count": 2
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Business News Nigeria",
+        "count": 1
+      },
+      {
+        "name": "DNE Africa",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Eye Radio",
+        "count": 1
+      },
+      {
+        "name": "Fox News",
+        "count": 1
+      },
+      {
+        "name": "Internazionale",
+        "count": 1
+      },
+      {
+        "name": "Khaama Press",
+        "count": 1
+      },
+      {
+        "name": "Latest news from Azerbaijan",
+        "count": 1
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Independent",
+        "count": 1
+      },
+      {
+        "name": "파이낸셜뉴스",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "7 item(s) had no extractable figures in available reporting.",
+      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 7/7 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 811,
+      "sources_cited": 20
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
