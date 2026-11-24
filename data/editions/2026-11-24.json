@@ -1,0 +1,550 @@
+{
+  "date": "2026-11-24",
+  "printed_time": "6:22 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Houthi attacks across Yemen kill and injure civilians: Army.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 2,
+      "text": "One staff member of the UN agency for Palestinian refugees (UNRWA) was killed and three others were injured in an Israeli attack in the Gaza Strip, the agency said Monday, Anadolu reports.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "The missing deaths of Congo’s Ebola outbreak.",
+      "region": "Africa"
+    },
+    {
+      "rank": 4,
+      "text": "The DRC raises the number of infections to about 11,800 and deaths to 5,800 due to the current Ebola outbreak.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "Jean Kaseya in his office in Addis Ababa |.",
+      "region": "Africa"
+    }
+  ],
+  "top_story": {
+    "score": 10.0,
+    "quote": "2 civilians killed, 8 injured in Houthi attacks in Yemen's Taiz: Army.",
+    "label": "MIDDLE EAST — 2 civilians killed, 8 injured in Houthi attacks in Yemen's Taiz: Army"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza — UNRWA staff member killed in Israeli strike",
+        "score": 7.5,
+        "body": "An Israeli strike in Jabalia, Gaza, killed one staff member of the UN agency for Palestinian refugees (UNRWA) and injured three others. The interim UNRWA Commissioner-General stated that the personnel were conducting regular duties at a water well to deliver critical services to the community when the attack occurred.",
+        "verified_figures": [
+          "1 UNRWA staff member killed",
+          "3 UNRWA staff members wounded"
+        ],
+        "sources": [
+          {
+            "name": "Middle East Monitor",
+            "url": "https://www.middleeastmonitor.com/20261123-un-agency-for-palestinians-says-one-staffer-killed-3-others-wounded-in-israeli-attack-on-gaza/"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — More than 360,000 displaced amid rising civilian casualties",
+        "score": 7.8,
+        "body": "Over 360,000 people have been displaced in Yemen since August, according to the International Organization for Migration. Taiz governorate has absorbed the highest number, hosting approximately 145,000 displaced individuals. The UN Human Rights Office has verified 323 civilian casualties since August. Additionally, military sources reported that recent Houthi attacks killed two civilians and injured eight others in Taiz.",
+        "verified_figures": [
+          "More than 360,000 people displaced",
+          "145,000 displaced people in Taiz",
+          "323 civilian casualties verified since August",
+          "2 civilians killed",
+          "8 civilians injured"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/more-than-360-000-displaced-in-yemen-since-august-as-un-reports-rising-civilian-casualties/4135074"
+          }
+        ]
+      },
+      {
+        "headline": "Middle East — Maritime shipping disruptions threaten food supplies in Yemen and Sudan",
+        "score": 7.0,
+        "body": "The World Food Programme warned the UN Security Council that attacks on grain ships and maritime disruptions in critical choke points, including the Strait of Hormuz and Bab Al-Mandeb, are worsening hunger in Yemen and Sudan. The agency noted that up to 10 million tonnes of wheat may fail to reach global markets this year due to transit blockages, calling for a humanitarian mechanism to restore food transport routes.",
+        "verified_figures": [
+          "10 million tonnes of wheat potentially blocked from world markets"
+        ],
+        "sources": [
+          {
+            "name": "アラブニュース",
+            "url": "https://www.arabnews.jp/en/middle-east/attacks-on-grain-ships-hormuz-crisis-drive-hunger-in-yemen-and-sudan-un-food-agency-boss-warns-3001585"
+          }
+        ]
+      },
+      {
+        "headline": "Bahrain — Two injured in Iranian strikes amid regional escalation",
+        "score": 5.5,
+        "body": "Bahraini authorities confirmed that two individuals sustained injuries following Iranian strikes targeting the island nation. The incident occurred amid heightened security alerts across the Persian Gulf, marking an escalation in regional hostilities as neighboring states face the spillover of broader geopolitical confrontations involving Iran and various regional and international actors.",
+        "verified_figures": [
+          "2 individuals injured"
+        ],
+        "sources": [
+          {
+            "name": "The Taiwan Times",
+            "url": "https://thetaiwantimes.com/en/world-news/two-injured-in-iranian-strikes-on-bahrain-amid-regional-esca-987678"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "score": 8.5,
+        "body": "At least 47 people, including at least five children, were killed and more than 50 others kidnapped by armed men in Haiti on Sunday, the United Nations confirmed on Tuesday. The incident, which took place in Kenscoff on the outskirts of the capital, Port-au-Prince, is believed to be one of the largest mass kidnappings in the troubled Caribbean country in recent years. In a video posted on social media, a gang leader threatened to murder hostages if Haiti's National Police kill any of his men in an attempt to rescue people. \"If any of our soldiers are hurt, I will kill all of them,\" he said.",
+        "verified_figures": [
+          "47 people"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzIxVUpqcEhHREh5a1ZpcU5Hb2N3QU1sS1M0NVl4eC1tdXRtdDNlckRlN0ExSFJCRDcwUGNrS1NSdEExWlFGQ3g2WkRtd1U1X1VZa05POEZiY3IyaGFpZ0UxeUFCaS1rZy0tMFp5QUxyRW9GTG9aLWhKWVA0aS1RNWgteEhWMTRKYnNvb9IBjAFBVV95cUxPZjFwRThxb0hBQWlzVjVpYmp2a3BWckRvcklLd0k3WnJJYk1lVmowN3dESXhqRjlrUEp2aHN5UHJGUjNyLWZ1c2ZjeUZIZ25zdmloMHVIVE9FWnFzWWVrSnZMenJ0TGxiTDRFZHZMVzJTS1dXY0kzMlNaRldjeENNbjUxTTdUMlM3Sml6dQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+          }
+        ]
+      },
+      {
+        "headline": "Bukele shares details on deaths of El Salvador’s troops in Haiti",
+        "score": 7.0,
+        "body": "Bukele shares details on deaths of El Salvador’s troops in Haiti. Bukele's military intervention in Haiti comes after four Salvadoran technicians were kidnapped by gangs in October.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention"
+          },
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Nayib Bukele Names Three El Salvador Soldiers Killed on Anti-Gang Mission in Haiti: 10 ...",
+        "score": 7.0,
+        "body": "This article is an automated aggregation of coverage from news outlets. Our editorials offer in-depth analysis curated by the NewsCord team. Three Salvadoran soldiers were killed on an anti-gang mission in Haiti. El Salvador deployed over 2,000 troops to Haiti amid the gang crisis. Bukele names fallen troops Salvadoran President Nayib Bukele identified three El Salvador soldiers killed while on an anti-gang mission in Haiti, naming Lieutenant Cristian Daniel Palacios Santos and Corporals Emerson Alexander Zepeda Zelada and Wilber Manuel Serrano Medina. Bukele said he posted on social media that an “accidental explosion during that mission claimed their lives,” and he described the men’s “bra",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "NewsCord",
+            "url": "https://newscord.org/article/nayib-bukele-names-three-el-salvador-soldiers-killed-on-anti-gang-mission-in-hai--Story_20261123_BukeleviraherinoHaitf824ca1a"
+          }
+        ]
+      },
+      {
+        "headline": "At least 34 killed in Haiti police operation targeting gang stronghold",
+        "score": 7.0,
+        "body": "At least 34 killed in Haiti police operation targeting gang stronghold Key Points(5) - At least 34 suspected gang members were killed during a major security operation in Haiti targeting an area controlled by gang leader Renel Destina, according to the Haitian National Police (PNH). - The operation, carried out Thursday, involved Haitian security forces supported by a task force and Salvadoran military personnel, as authorities intensify efforts to regain control of gang-dominated areas. - The PNH said the offensive involved drones, attack helicopters and several armored vehicles, resulting in the deaths of 34 suspected gang members. - Video footage circulating on social media showed the ope",
+        "verified_figures": [
+          "34 killed"
+        ],
+        "sources": [
+          {
+            "name": "Caribbean National Weekly",
+            "url": "https://www.caribbeannationalweekly.com/posts/at-least-34-killed-in-haiti-police-operation-targeting-gang-stronghold"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "The missing deaths of Congo’s Ebola outbreak",
+        "score": 10.0,
+        "body": "The missing deaths of Congo’s Ebola outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW021220112026RP1/"
+          }
+        ]
+      },
+      {
+        "headline": "The DRC raises the number of infections to about 11,800 and deaths to 5,800 due to the ...",
+        "score": 10.0,
+        "body": "The DRC raises the number of infections to about 11,800 and deaths to 5,800 due to the current Ebola outbreak.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Demócrata",
+            "url": "https://www.democrata.es/en/international/the-drc-raises-the-number-of-infections-to-about-11-800-and-deaths-to-5-800-due-to-the-current-ebola-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "DRC: Africa CDC sounds alarm as Congo Ebola outbreak turns deadliest yet",
+        "score": 10.0,
+        "body": "DRC: Africa CDC sounds alarm as Congo Ebola outbreak turns deadliest yet. Jean Kaseya in his office in Addis Ababa |",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "GhanaWeb",
+            "url": "https://www.ghanaweb.com/GhanaHomePage/africa/DRC-Africa-CDC-sounds-alarm-as-Congo-Ebola-outbreak-turns-deadliest-yet-2046445?gallery=1"
+          }
+        ]
+      },
+      {
+        "headline": "Fighting near DRC Ebola outbreak area disrupts response efforts: WHO",
+        "score": 9.5,
+        "body": "Fighting near DRC Ebola outbreak area disrupts response efforts: WHO.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "SABC News",
+            "url": "https://www.sabcnews.com/sabcnews/fighting-near-drc-ebola-outbreak-area-disrupts-response-efforts-who/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its a...",
+        "score": 8.0,
+        "body": "European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia. … But support needs to be concrete.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+          }
+        ]
+      },
+      {
+        "headline": "India warns Ukraine war food disruption could mirror Bengal famine’s impact on Global S...",
+        "score": 7.5,
+        "body": "Home |India |India Warns Ukraine War Food Disruption Could Mirror Bengal Famines Impact On Global South India warns Ukraine war food disruption could mirror Bengal famine’s impact on Global South India told the UN Security Council that the Ukraine war's disruption of global food supplies could have devastating consequences for the Global South, drawing parallels with the 1943 Bengal famine. India called for protecting Black Sea food supply routes, civilian infrastructure and humanitarian access to prevent worsening food, fuel and fertiliser crises. United Nations: Invoking the searing memory of the 1943 Bengal famine that killed millions, India has warned that the Ukraine war’s disruption of",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Telangana Today",
+            "url": "https://telanganatoday.com/india-warns-ukraine-war-food-disruption-could-mirror-bengal-famines-impact-on-global-south"
+          }
+        ]
+      },
+      {
+        "headline": "Casualties of Kyrgyz Origin in Ukraine War Surpass 1100 in 2025",
+        "score": 6.5,
+        "body": "Over 1,100 Kyrgyz Nationals Reported Dead in Ukraine Conflict During 2025. Casualties Among Kyrgyz Nationals in the Ukraine War According to Espreso.tv: The media outlet Kloop has revealed the extent of losses suffered by individuals from Kyrgyzstan involved in the conflict in Ukraine, drawing on data obtained from Rosstat that was hacked by Belarusian cyber activists. According to this information, the death toll of Kyrgyz nationals has been steadily increasing, with more than 1,100 fatalities recorded in 2025 alone. The highest numbers of deaths were reported among people originating from the Chuy region and the capital city, Bishkek. Among the deceased, 252 individuals listed their birthp",
+        "verified_figures": [
+          "1,100 fatalities"
+        ],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/vtrati-vihidciv-z-kirgizstanu-u-vijni-proti-ukraini-ponad-1100-zagiblih-u-2025-roci-200109"
+          }
+        ]
+      },
+      {
+        "headline": "DW News. . Rescuers in Ukraine pulled a seven-year-old boy, and a 79-year-old women fro...",
+        "score": 6.0,
+        "body": "DW News. . Rescuers in Ukraine pulled a seven-year-old boy, and a 79-year-old women from the rubble of a building, hours after a Russian drone strike hit a residential area near Kyiv. Ukrainian officials said the strike hit the building in Dymer at 05:00 local ti.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/deutschewellenews/videos/rescuers-in-ukraine-pulled-a-seven-year-old-boy-and-a-79-year-old-women-from-the/1167172602334670/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia Reconstructs 1,478 Flood-Hit Islamic Education Facilities Across Sumatra",
+        "score": 6.5,
+        "body": "Indonesia Reconstructs 1,478 Flood-Hit Islamic Education Facilities Across Sumatra.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Tempo.co English",
+            "url": "https://en.tempo.co/amp/2124267/indonesia-reconstructs-1478-flood-hit-islamic-education-facilities-across-sumatra"
+          }
+        ]
+      },
+      {
+        "headline": "India announces $1.62 billion package to bolster ties with flood-hit Nepal",
+        "score": 6.5,
+        "body": "India announces $1.62 billion package to bolster ties with flood-hit Nepal.",
+        "verified_figures": [
+          "1.62 billion package to bolster"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/india/india-give-162-billion-economic-package-flood-hit-nepal-2026-11-23/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/india-nepal-flood-modi-6a1b8fa471745cf043480671d066f01e"
+          }
+        ]
+      },
+      {
+        "headline": "Malaysia Defends Myanmar Refugee Returns Despite UN Genocide Ruling: What Happens to th...",
+        "score": 6.0,
+        "body": "Malaysia will continue working with Myanmar’s military-backed government to repatriate refugees, Prime Minister Anwar Ibrahim said on Tuesday, defending his engagement with Myanmar’s leadership despite a recent International Court of Justice ruling that the country’s 2017 crackdown on the Rohingya amounted to genocide. Anwar said his discussions with Myanmar President Min Aung Hlaing, the former military junta chief, were intended to protect Malaysia’s national interests and secure conditions for refugees to return safely. He argued that the ICJ ruling supported efforts to guarantee a “safe and dignified return” for people who had fled persecution. The position highlights a difficult balance",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Modern Diplomacy",
+            "url": "https://moderndiplomacy.eu/2026/11/24/malaysia-defends-myanmar-refugee-returns-despite-un-genocide-ruling-what-happens-to-the-rohingya/"
+          }
+        ]
+      },
+      {
+        "headline": "Bangladesh seeks Thailand's support to repatriate Rohingya refugees to Myanmar | World ...",
+        "score": 6.0,
+        "body": "Bangladesh has sought Thailand's continued support for the safe and dignified repatriation of forcibly displaced Rohingya Muslims to Myanmar in renewed diplomatic efforts to resolve a protracted refugee crisis with significant implications for regional stability, including India. State Minister for Foreign Affairs Humaiun Kobir made the request on Sunday when Thai Ambassador Thitiporn Chirasawadi paid a courtesy call on him at his office, the state-run BSS news agency reported, citing a foreign ministry press release. Suggested For You The move followed a landmark verdict by the International Court of Justice (ICJ) in The Hague last week in which it ruled that Myanmar committed genocide agai",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Hindustan Times",
+            "url": "https://www.hindustantimes.com/world-news/bangladesh-seeks-thailands-support-to-repatriate-rohingya-refugees-to-myanmar-101795435117132-amp.html"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Earthquakes, floods and cyclones: 103-year-old survivor hits the market",
+        "score": 10.0,
+        "body": "Earthquakes, floods and cyclones: 103-year-old survivor hits the market.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Stuff",
+            "url": "https://www.stuff.co.nz/home-property/361062884/earthquakes-floods-and-cyclones-103-year-old-survivor-hits-market"
+          }
+        ]
+      },
+      {
+        "headline": "Why the Ebola Outbreak Keeps Growing, According to Virus Expert Pardis Sabeti",
+        "score": 9.5,
+        "body": "The ongoing Ebola outbreak centered in the Democratic Republic of Congo (DRC) is now the second largest on record. The virus has infected more than 11,000 people in five countries and has killed more than 5,700 people as of Nov. 20. Pardis Sabeti, a leader at the Broad Institute of MIT and Harvard who specializes in computational genetics and evolutionary biology, has tracked Ebola outbreaks for years. In the largest Ebola outbreak on record, in West Africa from 2014 to 2016, she sequenced many of the viral samples from patients, which helped scientists understand how the virus was spreading. Her lab continues to be involved in providing rapid genetic information when viruses strike. In a co",
+        "verified_figures": [
+          "11,000 people",
+          "5,700 people"
+        ],
+        "sources": [
+          {
+            "name": "Time Magazine",
+            "url": "https://time.com/article/2026/11/23/pardis-sabeti-interview-why-ebola-outbreak-keeps-growing/"
+          }
+        ]
+      },
+      {
+        "headline": "The current Ebola outbreak is growing faster than any outbreak of the disease ever. How...",
+        "score": 9.5,
+        "body": "For Marie-Roseline Bélizaire, a typical day starts around 6 A.M. at a health center in the Democratic Republic of the Congo, where she pores over freshly confirmed Ebola cases that have come in overnight. From then on, the work is nonstop: she calls dozens of provinces, visits health centers, supervises contact tracing, trains emergency workers and woos donors—as well as any number of other urgent tasks—before she falls asleep and does it all again the next day. Bélizaire, emergency director for the World Health Organization’s Regional Office for Africa, does not expect this work to let up anytime soon. She is on the front line, trying desperately to contain the current Ebola outbreak as it",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Scientific American",
+            "url": "https://www.scientificamerican.com/article/whats-really-driving-the-ebola-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Ebola Outbreak With 50% Death Rate Is Getting Worse: Three Key Reasons Why",
+        "score": 9.5,
+        "body": "Ongoing wars, distrust in authorities and difficult terrain is majorly disrupting efforts to defeat the Ebola outbreak which has a death rate of almost 50 percent. Some 5,678 (48 percent) of the 11,613 confirmed Ebola cases in the Democratic Republic of the Congo (DRC) resulted in death as of November 17, the most recent date for which the World Health Organization (WHO) has recorded data. The outbreak, caused by the Bundibugyo virus, was declared in May and is now described by the Centers for Disease Control and Prevention (CDC) as the second-largest on record. Read More on News Last month, the outbreak spread to Kenya, after cases were detected in Uganda earlier this year, underscoring the",
+        "verified_figures": [
+          "50 percent",
+          "48 percent"
+        ],
+        "sources": [
+          {
+            "name": "Newsweek",
+            "url": "https://www.newsweek.com/ebola-outbreak-with-50-death-rate-is-getting-worse-three-key-reasons-why-12756341"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Earthquakes, floods and cyclones: 103-year-old survivor hits",
+      "score": 10.0,
+      "trigger": "Continuing severe weather or aftershock activity following the initial event.",
+      "potential_impact": "Further damage could increase casualties and delay emergency assistance.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Stuff",
+          "url": "https://www.stuff.co.nz/home-property/361062884/earthquakes-floods-and-cyclones-103-year-old-survivor-hits-market"
+        }
+      ]
+    },
+    {
+      "location": "Fighting near DRC Ebola outbreak area disrupts response effo",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "SABC News",
+          "url": "https://www.sabcnews.com/sabcnews/fighting-near-drc-ebola-outbreak-area-disrupts-response-efforts-who/"
+        }
+      ]
+    },
+    {
+      "location": "Why the Ebola Outbreak Keeps Growing, According to Virus Exp",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Time Magazine",
+          "url": "https://time.com/article/2026/11/23/pardis-sabeti-interview-why-ebola-outbreak-keeps-growing/"
+        }
+      ]
+    },
+    {
+      "location": "The current Ebola outbreak is growing faster than any outbre",
+      "score": 9.5,
+      "trigger": "Continued transmission and gaps in surveillance or treatment capacity in the area.",
+      "potential_impact": "Further spread could overwhelm treatment capacity and increase fatalities.",
+      "confidence": "Low",
+      "sources": [
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/whats-really-driving-the-ebola-outbreak/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "SABC News",
+        "count": 2
+      },
+      {
+        "name": "Scientific American",
+        "count": 2
+      },
+      {
+        "name": "Stuff",
+        "count": 2
+      },
+      {
+        "name": "Time Magazine",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 1
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "Caribbean National Weekly",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "Demócrata",
+        "count": 1
+      },
+      {
+        "name": "Facebook",
+        "count": 1
+      },
+      {
+        "name": "GhanaWeb",
+        "count": 1
+      },
+      {
+        "name": "Hindustan Times",
+        "count": 1
+      },
+      {
+        "name": "Middle East Monitor",
+        "count": 1
+      },
+      {
+        "name": "Modern Diplomacy",
+        "count": 1
+      },
+      {
+        "name": "NewsCord",
+        "count": 1
+      },
+      {
+        "name": "Newsweek",
+        "count": 1
+      },
+      {
+        "name": "Telangana Today",
+        "count": 1
+      },
+      {
+        "name": "Tempo.co English",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Taiwan Times",
+        "count": 1
+      },
+      {
+        "name": "アラブニュース",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "14 item(s) had no extractable figures in available reporting.",
+      "8 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Published-source links: 20/20 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 1/6 region(s) with candidate material generated via Gemini (LLM), 5 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): rule-based."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1126,
+      "sources_cited": 25
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
