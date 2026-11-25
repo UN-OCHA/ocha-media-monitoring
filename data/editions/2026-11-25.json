@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-25",
+  "printed_time": "6:15 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "An unprecedented Ebola outbreak in the Democratic Republic of the Congo has resulted in 11,762 confirmed cases and 5,775 deaths, with international transmission reported across multiple countries.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Israeli airstrikes across Gaza killed civilians and a UN staff member, bringing total humanitarian worker fatalities in the enclave to 600 since October 2023.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "Severe flash floods and mudslides in Nepal and Tibet killed at least 157 people and left hundreds missing while wiping out entire communities.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 4,
+      "text": "Ongoing insecurity in Yemen's Taiz governorate blocked access for a mass vaccination campaign, leaving 350,000 children without protection against measles and rubella.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Leaked official data indicates that Russian military casualties in Ukraine have reached nearly 500,000 deaths since the full-scale invasion began in 2022.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An unprecedented Ebola outbreak driven by the Bundibugyo strain in the Democratic Republic of the Congo has caused over 5,700 deaths and infected more than 11,700 people, posing severe regional health security risks.",
+    "label": "AFRICA — Escalating Regional Ebola Outbreak"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli Airstrikes Kill Civilians and UN Aid Worker",
+        "score": 8.5,
+        "body": "Recent Israeli airstrikes across southern and central Gaza, including near Khan Younis, killed at least seven Palestinians, among them a senior Hamas internal security official and two police officers. Additionally, an airstrike near a water facility in Jabalia killed a UNRWA staff member and injured three others. The UN Office for the Coordination of Humanitarian Affairs reported that total aid worker fatalities in Gaza have reached 600 since October 2023. The strikes come amid diplomatic efforts to sustain a ceasefire, which Hamas warned is being undermined by continued attacks.",
+        "verified_figures": [
+          "At least 7 Palestinians killed in airstrikes",
+          "600 humanitarian workers killed since October 2023",
+          "1 UN staff member killed in Jabalia",
+          "3 UN staff members injured"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Yemen — Insecurity Blocks Mass Vaccinations Amid Escalating Hostilities",
+        "score": 7.5,
+        "body": "Ongoing insecurity in Yemen's Taiz governorate has prevented access for a vaccination campaign, leaving around 350,000 children without measles and rubella vaccines and risking routine immunizations for 30,000 infants despite available funding. The UN reports that over 364,000 people have been displaced in Yemen since August. The humanitarian crisis coincides with renewed fighting, including a Yemeni army offensive in Taiz that reportedly killed 27 Houthi fighters, and Houthi health authority claims that coalition airstrikes killed 41 people across several provinces.",
+        "verified_figures": [
+          "350,000 children missed measles and rubella vaccination campaign",
+          "30,000 infants at risk of missing routine vaccinations",
+          "More than 364,000 people displaced since August",
+          "27 Houthi fighters killed (army claim)",
+          "41 people killed and 35 injured in airstrikes (Houthi claim)"
+        ],
+        "sources": [
+          {
+            "name": "アラブニュース",
+            "url": "https://www.arabnews.jp/en/middle-east/350000-yemeni-children-in-besieged-taiz-miss-out-on-measles-vaccine-as-war-hinders-un-access-3001603"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Explosive Remnants Claim Nearly 1,000 Child Casualties",
+        "score": 6.0,
+        "body": "Explosive remnants of war continue to cause significant casualties in Syria, with figures showing nearly 1,000 children have been killed or injured by landmines and unexploded ordnance. The high casualty rate highlights persistent protection hazards and land contamination that severely threaten civilian safety and hinder normal movement years after major hostilities ended.",
+        "verified_figures": [
+          "Nearly 1,000 children killed or injured by explosives"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Police operations kill over 50 gang members in Port-au-Prince",
+        "score": 7.0,
+        "body": "Haitian National Police and Salvadoran-backed security forces killed at least 54 suspected gang members during a two-day operation in the Martissant area, south of Port-au-Prince. Authorities stated the offensive targeted the 5 Segond gang in an effort to reclaim territory and reopen National Road No. 2. In a related development, Salvadoran President Nayib Bukele confirmed that three Salvadoran soldiers serving in the anti-gang mission in Haiti died in an accidental explosion.",
+        "verified_figures": [
+          "At least 54 suspected gang members killed",
+          "3 Salvadoran soldiers killed"
+        ],
+        "sources": [
+          {
+            "name": "The Haitian Times",
+            "url": "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Low public awareness reported as endemic mpox transmission continues",
+        "score": 2.0,
+        "body": "An Annenberg Public Policy Center survey indicates that only 8 percent of adults in the United States heard about mpox in the past month, despite ongoing low-level transmission. The Centers for Disease Control and Prevention reported 1,369 mpox cases in 2026 as of October 24, noting a transition toward endemic circulation. Public health analysts warn that declining awareness among high-risk social and sexual networks could lead to missed vaccinations and delayed medical diagnoses.",
+        "verified_figures": [
+          "1,369 mpox cases reported in 2026 as of Oct 24"
+        ],
+        "sources": [
+          {
+            "name": "Medical Daily",
+            "url": "https://www.medicaldaily.com/mpox-awareness-cdc-clade-i-spread-481654"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Massive Ebola Outbreak Spreads Amid Rising Casualties and Underreporting",
+        "score": 9.0,
+        "body": "An ongoing Ebola outbreak driven by the Bundibugyo strain in the Democratic Republic of the Congo has led to 11,762 confirmed cases and 5,775 deaths as of 20 November, with 400 to 500 new cases recorded weekly. Reports from gravediggers and satellite imagery in Bunia indicate that actual fatalities significantly exceed official numbers. Response efforts face major hurdles, including shortages of medical supplies, coordination problems, and persistent regional instability. While previous imported cases in Kenya and Nigeria were contained, no licensed vaccine or treatment exists for the Bundibugyo virus, though clinical trials are underway in Bunia.",
+        "verified_figures": [
+          "11,762 confirmed cases",
+          "5,775 related deaths",
+          "400 to 500 additional cases each week"
+        ],
+        "sources": [
+          {
+            "name": "Think Global Health",
+            "url": "https://www.thinkglobalhealth.org/article/africas-health-security-six-months-into-the-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Mali — Leaked Data Details Russian Military Fatalities in Northern Insurgency",
+        "score": 5.0,
+        "body": "Leaked records show that 349 Russian personnel fighting alongside Mali's military junta have died over a three-year period. The data highlights Moscow's combat operations in the country through forces such as Africa Corps. Reports describe heavy engagements with insurgent groups, including an attack on the northern city of Kidal in April where insurgents captured peripheral checkpoints before attacking central police stations. The casualties reflect persistent armed conflict and instability across northern regions.",
+        "verified_figures": [
+          "349 deaths in three years"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Russia/Ukraine — Leaked Data Indicates Over 500,000 Russian Military Deaths",
+        "score": 7.5,
+        "body": "Leaked data from Russia's national statistics agency reveals that Russian military casualties in Ukraine have reached nearly 500,000 deaths since the full-scale invasion began in 2022. The records, obtained by hackers from official databases, indicate significant shifts in Russian mortality figures, including at least 1,000 documented military suicides. Updated independent estimates incorporating frontline personnel reported missing indicate total Russian losses may exceed 700,000. Russian authorities have consistently kept military casualty statistics strictly confidential throughout the war.",
+        "verified_figures": [
+          "nearly 500,000 deaths",
+          "over 700,000 losses including missing",
+          "1,000 military suicides"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Global — UN Security Council Warned of Food Security and Energy Grid Impacts",
+        "score": 6.0,
+        "body": "At a UN Security Council briefing, diplomatic representatives highlighted serious threats to global food security and critical infrastructure resulting from the war in Ukraine. India warned that ongoing disruptions to Russian and Ukrainian agricultural production, maritime transport, and international trade could cause severe food crises across developing nations. Additionally, Pakistan called on warring parties to halt military strikes targeting civilian energy grids and commercial shipping vessels, emphasizing that global food and energy security require an immediate cessation of attacks on civilian infrastructure.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "INDIA New England News",
+            "url": "https://indianewengland.com/india-invokes-1943-bengal-famine-at-un-warns-of-ukraine-wars-impact-on-global-food-security/"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Nepal — India Pledges $1.62 Billion for Flood Recovery",
+        "score": 6.0,
+        "body": "India has announced a $1.62 billion economic assistance package to support Nepal's recovery following devastating floods on 26 August. The floods destroyed homes, farms, roads, bridges, and power plants, resulting in an estimated $4.7 billion in total losses, according to Nepalese authorities. The United Nations Fund for Responding to Loss and Damage has also pledged approximately $20 million to aid recovery efforts. The assistance package was announced by Indian Prime Minister Narendra Modi during a meeting in New Delhi with Nepalese Prime Minister Balendra Shah.",
+        "verified_figures": [
+          "$1.62 billion economic assistance package",
+          "estimated $4.7 billion in losses",
+          "about $20 million pledged by UN Fund for Responding to Loss and Damage"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://www.wral.com/news/ap/6a1b8-india-announces-a-1-6-billion-aid-package-for-nepal-s-flood-recovery/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of Congo / Regional — Ebola Outbreak Escalates",
+        "score": 9.0,
+        "body": "An unprecedented Ebola outbreak caused by the Bundibugyo virus strain continues to spread from its epicenter in the Democratic Republic of Congo (DRC). As of 20 November, the DRC has recorded 11,762 confirmed cases and 5,775 deaths. Cases have also been identified in Kenya, Nigeria, Uganda, and France, though Kenya and Nigeria contained initial exports. WHO officials warn of potential global spread as the virus transmits at double the rate of the 2014–2016 West Africa outbreak. There is currently no licensed vaccine or treatment for the Bundibugyo strain, though vaccine candidate trials are underway in Bunia, DRC.",
+        "verified_figures": [
+          "11,762 confirmed cases in DRC",
+          "5,775 deaths in DRC",
+          "Cases recorded in Nigeria, Uganda, Kenya, and France"
+        ],
+        "sources": [
+          {
+            "name": "Think Global Health",
+            "url": "https://www.thinkglobalhealth.org/article/africas-health-security-six-months-into-the-ebola-outbreak"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal and Tibet — Flash Floods Cause Mass Casualties",
+        "score": 8.0,
+        "body": "Severe flash floods and mudslides swept through remote valleys across Nepal and Tibet, wiping away entire villages. Police in Nepal confirmed that at least 157 bodies have been recovered, while dozens more people are confirmed dead across affected areas and hundreds remain missing. Authorities are relocating families from high-risk flood zones to safer areas. The Nepali government has deployed emergency resources to manage rescue, medical treatment, food, and temporary shelter operations for displaced and affected residents.",
+        "verified_figures": [
+          "At least 157 bodies recovered in Nepal",
+          "Hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "Zambia — Nationwide Cholera Outbreak Exceeds 80 Deaths",
+        "score": 5.0,
+        "body": "Zambia's nationwide cholera outbreak has surpassed 80 fatalities, with the national death toll reaching 81 following recent deaths in Lusaka. A cumulative total of 3,584 cases have been reported across 27 districts in seven provinces since the outbreak was declared on 30 September, with 501 laboratory-confirmed. The capital, Lusaka, remains the epicenter, accounting for 2,632 cases. In response to rising infections, the Zambian government activated the National Disaster Management and Mitigation Unit to mobilize resources and coordinate interventions in affected provinces.",
+        "verified_figures": [
+          "81 deaths nationwide",
+          "3,584 cumulative cases",
+          "2,632 cases in Lusaka",
+          "27 districts across 7 provinces affected"
+        ],
+        "sources": [
+          {
+            "name": "CAJ News Africa",
+            "url": "https://cajnewsafrica.com/2026/11/24/zambia-cholera-death-toll-surpasses-80/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Haiti (Port-au-Prince)",
+      "score": 7.0,
+      "trigger": "Continued joint security force offensives targeting gang strongholds in Martissant to reopen National Road No. 2.",
+      "potential_impact": "Escalating urban armed clashes could intensify civilian casualties, severe displacement, and further block crucial transport routes into southern Haiti.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "The Haitian Times",
+          "url": "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations/"
+        }
+      ]
+    },
+    {
+      "location": "Northern Mali (Kidal)",
+      "score": 5.0,
+      "trigger": "Renewed insurgent attacks against military positions and police stations following heavy combat encounters.",
+      "potential_impact": "Heightened combat across northern regions could restrict access for humanitarian organizations and endanger vulnerable local populations.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "The Guardian",
+        "count": 3
+      },
+      {
+        "name": "The Haitian Times",
+        "count": 2
+      },
+      {
+        "name": "Think Global Health",
+        "count": 2
+      },
+      {
+        "name": "Associated Press",
+        "count": 1
+      },
+      {
+        "name": "CAJ News Africa",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "France 24 English",
+        "count": 1
+      },
+      {
+        "name": "INDIA New England News",
+        "count": 1
+      },
+      {
+        "name": "Medical Daily",
+        "count": 1
+      },
+      {
+        "name": "アラブニュース",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1184,
+      "sources_cited": 11
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
