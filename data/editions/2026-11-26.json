@@ -1,0 +1,521 @@
+{
+  "date": "2026-11-26",
+  "printed_time": "6:17 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "Active fighting in eastern Democratic Republic of the Congo has forced Ebola response teams to evacuate, severely threatening containment as deaths surpass 5,800.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Flash floods across remote mountain valleys in Nepal and Tibet have killed at least 157 people and left hundreds more missing.",
+      "region": "Global / Cross-Cutting"
+    },
+    {
+      "rank": 3,
+      "text": "Deepening economic crisis and reduced international aid in Afghanistan have left 28 million people in poverty, exacerbated by the return of 2.9 million citizens.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Suspected Rapid Support Forces drone attacks on residential neighborhoods and displacement shelters in Sudan's Blue Nile state killed at least 19 civilians and wounded 25.",
+      "region": "Africa"
+    },
+    {
+      "rank": 5,
+      "text": "An Israeli helicopter airstrike targeted an apartment building in western Gaza City's al-Shati refugee camp, killing four members of a family, including two children.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.5,
+    "quote": "Renewed conflict in the eastern Democratic Republic of the Congo has forced Ebola response personnel to evacuate, disrupting life-saving health operations as the outbreak exceeds 5,800 deaths.",
+    "label": "AFRICA — DRC Ebola Response Crippled by Active Clashes"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "4 Palestinians from the same family killed in Israeli airstrike west of Gaza City",
+        "score": 10.0,
+        "body": "Gaza – 4 Palestinians from the same family, including two children, were killed, and others sustained varying injuries, in an Israeli airstrike west of Gaza City early Wednesday morning, according to Palestinian medical and security sources. A source at Al-Shifa Hospital in Gaza City and Palestinian security sources said that four people were killed and several others were injured, some critically, when Israeli helicopters targeted an apartment building in the vicinity of the Al-Ma’oun area, near warehouses belonging to the United Nations Relief and Works Agency for Palestine Refugees (UNRWA) in the Al-Shati refugee camp. The sources stated that ambulance crews and local residents transporte",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Yemen Online",
+            "url": "https://yemenonline.info/middle-east/14621"
+          }
+        ]
+      },
+      {
+        "headline": "Israeli airstrike kills four Palestinians in Gaza in latest ceasefire violations",
+        "score": 9.0,
+        "body": "GAZA CITY, Palestine (MNTV) — An Israeli airstrike killed four members of a Palestinian family, including two teenage girls, after an Israeli helicopter fired a missile at their home in the al-Shati refugee camp in western Gaza City early Wednesday, November 25, in another deadly violation of the Gaza ceasefire. The victims were identified as Mohammed Majed Abu al-Ouf, 47, his wife Noura, 41, and their daughters Yusra, 15, and Jana, 13. According to local sources cited by Anadolu Agency, the attack also wounded several other family members. Al-Shifa Hospital received the four bodies and provided treatment to those injured in the strike. The killing of an entire family comes amid continued Is",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Muslim Network TV",
+            "url": "https://www.muslimnetwork.tv/israeli-airstrike-kills-four-palestinians-in-gaza-in-latest-ceasefire-violations/"
+          }
+        ]
+      },
+      {
+        "headline": "10 killed, 7 injured in deadly road collision in Egypt's Aswan",
+        "score": 9.0,
+        "body": "Passenger vehicle and transport vehicle collide on Abu Simbel tourist road Dubai: Ten people were killed and seven others injured on Tuesday when a passenger vehicle collided with a transport vehicle on the Abu Simbel tourist road in Egypt's southern Aswan governorate, security officials said. The accident occurred near kilometre 110 of the road leading to Abu Simbel, a major tourist destination near Egypt's southern border with Sudan. Security authorities said they received an emergency report of the collision, prompting the immediate deployment of ambulances, police officers and traffic personnel to the scene. Emergency crews recovered the bodies of the 10 victims and transported them to a",
+        "verified_figures": [
+          "10 killed",
+          "7 injured"
+        ],
+        "sources": [
+          {
+            "name": "Gulf News",
+            "url": "https://gulfnews.com/world/mena/10-killed-seven-injured-in-deadly-road-collision-in-egypts-aswan-1.500760205"
+          }
+        ]
+      },
+      {
+        "headline": "Deadly truck fire is latest of Egypt’s transport disasters",
+        "score": 9.0,
+        "body": "Deadly truck fire is latest of Egypt’s transport disasters. Dozens were killed and injured when a truck carrying gas cylinders caught fire near Cairo’s Ring Road.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/deadly-truck-fire-is-latest-of-egypts-transport-disasters?traffic_source=rss"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Salvadoran Military Deployment and Escalating Gang Violence",
+        "score": 6.0,
+        "body": "Security conditions in Haiti continue to deteriorate as armed gangs re-establish control on streets across the country, driving up casualties. In response, El Salvador's military has launched an operation in Haiti featuring ground troops, air strikes, and uncrewed technology to combat gang violence. Salvadoran President Nayib Bukele offered an exit strategy for his troops after three Salvadoran soldiers were killed. While thousands of local residents have marched in support of the Salvadoran deployment, international observers have raised concerns regarding the legal standing and speed of the military intervention.",
+        "verified_figures": [
+          "3 Salvadoran troops killed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.com/audio/play/w3ct8mlt"
+          }
+        ]
+      },
+      {
+        "headline": "Colombia — Hostage Siege Resolved in Cartagena Supermarket",
+        "score": 3.0,
+        "body": "Colombian special forces launched a tactical assault on a supermarket in Cartagena on 25 November, ending a 17-hour hostage siege. The crisis began on 24 November when armed men attempted an armored-truck robbery at an Éxito branch in the La Castellana area. Authorities confirmed that all hostages were rescued without civilian casualties or serious officer injuries. One suspect identified by police as a hostage-taker was killed during the raid, although questions remain regarding the exact identity and status of the deceased.",
+        "verified_figures": [
+          "1 person killed",
+          "17-hour hostage siege"
+        ],
+        "sources": [
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
+          },
+          {
+            "name": "AFP",
+            "url": "https://www.afp.com/en/colombia-police-reveal-76-hostages-were-caught-supermarket-siege"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Protests Over Low Wages and Hyperinflation",
+        "score": 4.0,
+        "body": "Teachers, retirees, caregivers, and trade union members demonstrated in Caracas on 24 November to demand living wages and increased pensions. Protesters highlighted severe socio-economic distress caused by persistent triple-digit inflation and national debt, which have depleted purchasing power across the country. The demonstrations reflect growing public anger over an economic crisis that continues to restrict vulnerable populations from meeting basic living expenses.",
+        "verified_figures": [
+          "triple-digit inflation"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuela-protests-over-starvation-wages-and-low-pensions/g-80051817"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DR Congo — Ebola outbreak escalates amid security-driven evacuations",
+        "score": 9.0,
+        "body": "Renewed fighting in eastern Democratic Republic of the Congo has forced Ebola response teams to evacuate, severely threatening control efforts. The epidemic has reached nearly 12,000 cases and surpassed 5,800 deaths in just over six months. According to the World Health Organization, community deaths have surged to 75 percent, while families report being unable to locate deceased relatives. Active clashes are driving civilian displacement and restricting health workers from delivering life-saving care in affected areas.",
+        "verified_figures": [
+          "nearly 12,000 cases",
+          "surpassed 5,800 deaths",
+          "75% community death rate"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/video/watch/idRW127525112026RP1/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/ebola-congo-who-fighting-rebels-evacuation-ff1890d63ca7f3c3a8beeb127727e5cd"
+          }
+        ]
+      },
+      {
+        "headline": "Sudan — Drone strikes hit residential areas in Blue Nile State",
+        "score": 8.0,
+        "body": "Suspected Rapid Support Forces drone attacks struck residential neighborhoods in Damazin and Al-Roseires in Blue Nile state on Tuesday. Local monitors and volunteer groups reported at least 19 civilians killed and up to 25 others wounded. The strikes involved more than 30 explosive drones aimed at populated areas where tens of thousands of displaced people have taken refuge from surrounding conflict. Attacks continued throughout the day, causing casualties among multiple families.",
+        "verified_figures": [
+          "at least 19 civilians killed",
+          "up to 25 wounded",
+          "more than 30 explosive drones launched"
+        ],
+        "sources": [
+          {
+            "name": "Social News XYZ",
+            "url": "https://www.socialnews.xyz/2026/11/25/around-19-civilians-killed-in-drone-attacks-in-se-sudan-volunteer-groups/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan"
+          }
+        ]
+      },
+      {
+        "headline": "DR Congo — High rates of violence reported by women during Ebola crisis",
+        "score": 7.0,
+        "body": "A UNICEF survey conducted in eastern Democratic Republic of the Congo's Ituri province revealed that about six in 10 women and adolescent girls reported experiencing or witnessing an escalation in violence and abuse since the Ebola outbreak began. The assessment, based on 1,062 interviews conducted between August and October 2026, represents the first real-time monitoring of gender-based violence during an epidemic, pointing to severe protection risks alongside public health disruptions.",
+        "verified_figures": [
+          "6 out of 10 women and adolescent girls report rising violence",
+          "1,062 interviews conducted"
+        ],
+        "sources": [
+          {
+            "name": "Agence de Presse Africaine",
+            "url": "https://apanews.net/about-6-out-of-10-women-report-rising-violence-since-ebola-outbreak/"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Russian strikes cause power outages across five regions damaging energy grid",
+        "score": 7.5,
+        "body": "Russian strikes damaged energy and gas facilities in Ukraine, triggering power outages across five regions. Authorities in Odesa are fighting to keep grid systems operational following the attacks. To bolster Ukraine's fragile energy network, the UK announced a £9.5 million investment to build a 200-megawatt windfarm. The project is intended to reinforce grid capacity and generate electricity for up to 300,000 homes.",
+        "verified_figures": [
+          "power cuts in five regions",
+          "£9.5m investment",
+          "200 megawatt windfarm",
+          "capable of powering 300,000 households"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/europe/russian-attack-damages-ukraines-energy-gas-sites-cuts-power-five-regions-2026-11-25/"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine/Russia — Airfield and infrastructure strikes reported as Poland proposes border no-fly zone",
+        "score": 5.0,
+        "body": "Ukrainian authorities claimed a strike on Russia's Savasleyka airfield hit five military jets used to launch hypersonic missiles and glide bombs. Ukraine's General Staff also confirmed strikes on two Russian oil refineries in Samara Oblast. Meanwhile, Poland announced plans to establish a no-fly zone along its eastern border and requested NATO assistance to intercept Russian missiles over Ukrainian territory.",
+        "verified_figures": [
+          "five Russian military jets hit"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Russia/Ukraine — Leaked data reveals nearly 500,000 Russian war casualties",
+        "score": 4.0,
+        "body": "Leaked official Russian data indicates that Russia has lost nearly 500,000 people since launching its full-scale invasion of Ukraine. According to reported figures, the high casualty toll has fundamentally altered overall mortality patterns across Russia over the course of the war.",
+        "verified_figures": [
+          "nearly 500,000 people lost"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Afghanistan — Deepening Poverty Driven by Mass Returns, Drought, and Aid Cuts",
+        "score": 8.0,
+        "body": "A report by the United Nations Development Programme indicates that Afghanistan's economic and humanitarian situation worsened in 2025, leaving an estimated 28 million people in poverty. The crisis has been intensified by prolonged drought, declining international assistance, and the return of approximately 2.9 million Afghans during the year. This influx of returnees pushed an additional 1.4 million people into economic hardship, even as the country recorded a second consecutive year of slight real GDP growth.",
+        "verified_figures": [
+          "28 million people living in poverty",
+          "2.9 million Afghan returnees in 2025",
+          "1.4 million additional people pushed into hardship"
+        ],
+        "sources": [
+          {
+            "name": "thekabultribune.com",
+            "url": "https://thekabultribune.com/en/0008660"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — World's Highest Landmine Casualties Recorded for Third Consecutive Year",
+        "score": 7.5,
+        "body": "Myanmar recorded the world's highest number of casualties from landmines and explosive remnants of war in 2025 for the third consecutive year, according to the latest Landmine Monitor report. Widespread fighting between the military junta and armed opposition groups resulted in 1,891 people killed or injured during the year. Since the military seized power in 2021, over 5,700 people have been killed or injured by landmines and unexploded ordnance, with nearly two-thirds of the nation now estimated to be contaminated.",
+        "verified_figures": [
+          "1,891 people killed or injured by landmines in 2025",
+          "More than 5,700 people killed or injured since 2021",
+          "Nearly two-thirds of the country contaminated by explosive remnants"
+        ],
+        "sources": [
+          {
+            "name": "The Vibes",
+            "url": "https://www.thevibes.com/articles/world/129958/myanmar-records-worlds-highest-landmine-casualties-for-third-consecutive-year"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal — India Pledges $1.6 Billion for Post-Flood Recovery Effort",
+        "score": 6.0,
+        "body": "India has announced a $1.62 billion economic aid package to assist Nepal with reconstruction efforts following severe flooding in August. Nepali authorities estimated that the late-August floods destroyed critical infrastructure—including roads, bridges, power plants, agricultural land, and housing—causing approximately $4.7 billion in overall economic losses. Additionally, the United Nations Fund for Responding to Loss and Damage has committed around $20 million to support recovery across affected communities.",
+        "verified_figures": [
+          "$1.62 billion aid package from India",
+          "$4.7 billion in estimated flood losses",
+          "About $20 million pledged by UN Fund for Responding to Loss and Damage"
+        ],
+        "sources": [
+          {
+            "name": "WRAL",
+            "url": "https://www.wral.com/news/ap/6a1b8-india-announces-a-1-6-billion-aid-package-for-nepal-s-flood-recovery/"
+          }
+        ]
+      },
+      {
+        "headline": "Indonesia — Nine Dead and 17 Trapped in Flooded Gold Mine",
+        "score": 5.0,
+        "body": "Flash flooding at an unauthorized gold mining site in Indonesia has confirmed nine fatalities, with 17 other individuals believed to be trapped. Emergency services and authorities are attempting operations to locate and retrieve the missing workers. Illegal mining operations in the country frequently lack safety oversight and remain highly vulnerable to sudden environmental hazards and severe weather events.",
+        "verified_figures": [
+          "9 dead",
+          "17 believed trapped"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/indonesia-bogor-miners-trapped-f2dd241835ed9a3c2832a5b56fe00c89"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "DRC — Accelerating Ebola Outbreak and Escalating Gender-Based Violence",
+        "score": 9.0,
+        "body": "The World Health Organization warned that an accelerating Ebola outbreak in the Democratic Republic of the Congo has reached over 11,600 confirmed cases. In parallel, a UNICEF survey of 1,062 women and girls aged 15 and older in Ituri province revealed that approximately six out of 10 reported experiencing or witnessing an escalation of violence and abuse since the epidemic began. The findings represent the first real-time monitoring of violence against women and girls conducted during an active infectious disease outbreak.",
+        "verified_figures": [
+          "Over 11,600 confirmed Ebola cases in DRC",
+          "About 6 out of 10 women and adolescent girls surveyed reported experiencing or witnessing violence since the outbreak",
+          "1,062 women and adolescent girls surveyed in Ituri"
+        ],
+        "sources": [
+          {
+            "name": "News of Bahrain",
+            "url": "https://www.newsofbahrain.com/en/article/ebola-outbreak-accelerates-at-alarming-rate-who-warns"
+          }
+        ]
+      },
+      {
+        "headline": "Nepal & Tibet — Flash Floods Cause Mass Casualties and Displacement",
+        "score": 9.0,
+        "body": "Flash floods swept through remote valleys in Nepal and Tibet, killing dozens of people and leaving hundreds missing. Nepali police reported the recovery of 157 bodies as emergency personnel worked to move families from high-risk flood areas to safer locations. Government officials stated that the state is deploying resources for rescue, medical treatment, food, and emergency shelter for impacted populations across the affected mountain valleys.",
+        "verified_figures": [
+          "157 bodies recovered in Nepal",
+          "Hundreds missing"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/nepal-tibet-china-flood-river-mudslide/a-78505576"
+          }
+        ]
+      },
+      {
+        "headline": "Cameroon — Regional Cholera Outbreak Hits Overcrowded Refugee Camp",
+        "score": 6.5,
+        "body": "Cameroon’s Far North Region recorded 3,038 cholera cases and 86 deaths across 18 health districts as of 9 November. The outbreak affected the Minawao Refugee Camp, which hosts over 81,000 refugees—more than triple its designed capacity—resulting in 462 suspected cases and four deaths between July and October. While active transmission inside Minawao stopped with zero new cases for 29 consecutive days as of 15 November, health authorities report the wider regional outbreak remains active.",
+        "verified_figures": [
+          "3,038 cases and 86 deaths in Far North Region",
+          "462 suspected cases and 4 deaths in Minawao Refugee Camp",
+          "Over 81,000 refugees hosted in Minawao Refugee Camp"
+        ],
+        "sources": [
+          {
+            "name": "ReliefWeb",
+            "url": "https://reliefweb.int/report/cameroon/cameroon-cholera-outbreak-situation-report-8-november-25-2026"
+          }
+        ]
+      },
+      {
+        "headline": "Tibet — 7.0 Magnitude Earthquake Strikes Remote Region",
+        "score": 6.0,
+        "body": "A magnitude 7.0 earthquake struck Tibet at a depth of 173 kilometers below the surface, according to India’s National Centre for Seismology. The epicenter was located approximately 400 kilometers from the capital, Lhasa. The deep seismic event affected a region already recovering from major flash floods last month and follows a magnitude 5.0 earthquake recorded in early September. No immediate casualty or structural damage figures were reported in initial assessments.",
+        "verified_figures": [
+          "7.0 magnitude earthquake",
+          "173 kilometres depth",
+          "Epicentre 400 kilometres from Lhasa"
+        ],
+        "sources": [
+          {
+            "name": "DD News",
+            "url": "https://ddnews.gov.in/en/7-0-magnitude-earthquake-strikes-tibet-weeks-after-devastating-flash-floods/"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Eastern Democratic Republic of the Congo",
+      "score": 9.0,
+      "trigger": "Continued fighting between armed groups could completely halt Ebola surveillance and medical intervention across affected health zones.",
+      "potential_impact": "An uncontained epidemic spread could rapidly elevate community fatalities beyond the current 75 percent rate and cause wider regional disease transmission.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/ebola-congo-who-fighting-rebels-evacuation-ff1890d63ca7f3c3a8beeb127727e5cd"
+        }
+      ]
+    },
+    {
+      "location": "Haiti",
+      "score": 7.5,
+      "trigger": "The withdrawal of Salvadoran military forces following troop fatalities could cause security operations to collapse.",
+      "potential_impact": "Armed gangs could swiftly reoccupy key urban areas, driving up civilian casualties and further curtailing access to basic supplies.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.com/audio/play/w3ct8mlt"
+        }
+      ]
+    },
+    {
+      "location": "Poland-Ukraine Border",
+      "score": 6.5,
+      "trigger": "Unilateral steps to establish a border no-fly zone or engage Russian missiles over Ukrainian territory could spark direct NATO-Russia engagements.",
+      "potential_impact": "Military escalation near the border could jeopardize humanitarian transit corridors and cause additional civilian displacement along frontier zones.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "AFP",
+      "Associated Press",
+      "BBC",
+      "Al Jazeera English",
+      "The Guardian"
+    ],
+    "all_sources": [
+      {
+        "name": "BBC",
+        "count": 5
+      },
+      {
+        "name": "Associated Press",
+        "count": 3
+      },
+      {
+        "name": "DW.com",
+        "count": 2
+      },
+      {
+        "name": "Reuters",
+        "count": 2
+      },
+      {
+        "name": "The Guardian",
+        "count": 2
+      },
+      {
+        "name": "AFP",
+        "count": 1
+      },
+      {
+        "name": "Agence de Presse Africaine",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera English",
+        "count": 1
+      },
+      {
+        "name": "DD News",
+        "count": 1
+      },
+      {
+        "name": "Gulf News",
+        "count": 1
+      },
+      {
+        "name": "Muslim Network TV",
+        "count": 1
+      },
+      {
+        "name": "News of Bahrain",
+        "count": 1
+      },
+      {
+        "name": "ReliefWeb",
+        "count": 1
+      },
+      {
+        "name": "Social News XYZ",
+        "count": 1
+      },
+      {
+        "name": "The Vibes",
+        "count": 1
+      },
+      {
+        "name": "WRAL",
+        "count": 1
+      },
+      {
+        "name": "Yemen Online",
+        "count": 1
+      },
+      {
+        "name": "thekabultribune.com",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "3 item(s) had no extractable figures in available reporting.",
+      "1 item(s) fell back to rule-based generation with little real summary text available from source feeds — body text for these is limited to the headline.",
+      "Corroboration check added 2 additional priority-source citation(s) to already-selected items, found by re-scanning material already fetched this run (no new network calls) — restricted to outlets in the source hierarchy.",
+      "Published-source links: 5/5 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 5/6 region(s) with candidate material generated via Gemini (LLM), 1 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1145,
+      "sources_cited": 19
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
