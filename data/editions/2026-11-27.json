@@ -1,0 +1,456 @@
+{
+  "date": "2026-11-27",
+  "printed_time": "6:17 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "A severe Ebola outbreak in the Democratic Republic of the Congo has caused over 5,900 deaths across eight provinces while active conflict halts emergency response efforts.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "Armed gang violence in Kenscoff, Haiti, left at least 57 people dead and more than 50 kidnapped, with perpetrators threatening to execute hostages.",
+      "region": "Americas"
+    },
+    {
+      "rank": 3,
+      "text": "Israeli airstrikes in Gaza destroyed five multistory apartment buildings and killed at least eight Palestinians, adding to civilian casualties and displacement.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 4,
+      "text": "Israeli Defense Minister Israel Katz threatened a renewed military offensive in Gaza that could forcibly displace one million Palestinians.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 5,
+      "text": "Repeated attacks on Ukraine's energy infrastructure threaten severe grid instability, prompting international negotiations for localized ceasefires near key power links.",
+      "region": "Europe"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "An escalating Ebola outbreak in the Democratic Republic of the Congo has infected over 12,000 people and killed nearly 6,000, while active fighting between government forces and rebel groups has forced the evacuation of health personnel and disrupted containment efforts.",
+    "label": "AFRICA — Escalating Ebola Outbreak and Active Conflict"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "OPT/Gaza Strip — Civilian casualties and residential destruction in ongoing strikes",
+        "score": 8.0,
+        "body": "Recent Israeli airstrikes across the Gaza Strip killed at least eight Palestinians, including a Hamas political official and his wife, according to BBC reporting. Separate reporting from The Guardian cites Gaza's education ministry stating that 16 schoolchildren have been killed by Israeli strikes since the start of November. In Gaza City's Al-Tuffah and Al-Shuja’iyya neighborhoods, seven airstrikes destroyed five multistory residential buildings housing dozens of apartments, displacing numerous families facing freezing temperatures and a severe shortage of shelters.",
+        "verified_figures": [
+          "8 Palestinians killed",
+          "16 schoolchildren killed since start of November",
+          "5 residential buildings destroyed"
+        ],
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza Strip — Threat of new military offensive involving mass displacement",
+        "score": 7.5,
+        "body": "Israeli Defense Minister Israel Katz threatened to launch a new military operation in the Gaza Strip involving the displacement of 1 million Palestinians. In social media posts, Katz renewed calls for Palestinians to leave the territory, claiming the Israeli military has destroyed 70 percent of Gaza and now controls those areas. The defense minister also threatened to target Hamas political bureau chief Khalil al-Hayya.",
+        "verified_figures": [
+          "1 million Palestinians threatened with displacement",
+          "70% of Gaza territory destroyed according to Israeli claims"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/israel-threatens-new-gaza-offensive-involving-displacement-of-1-million-palestinians-/4138568"
+          }
+        ]
+      },
+      {
+        "headline": "Kuwait — Two defense technicians killed in strike",
+        "score": 5.5,
+        "body": "Two Italian technicians working for the German defense company Rheinmetall were killed in a strike on a site in Kuwait. Iran denied responsibility for the attack, which comes after Kuwait and Bahrain have experienced repeated strikes in recent weeks amid broader regional tensions, according to reports by Reuters and the BBC.",
+        "verified_figures": [
+          "2 Italian workers killed"
+        ],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "OPT/Gaza Strip — Severe food insecurity affects 67% of population",
+        "score": 6.5,
+        "body": "While no area of the Gaza Strip is currently classified as experiencing famine under Integrated Food Security Phase Classification assessments, extreme hunger persists. An IPC assessment projects that over 1.4 million people, representing 67 percent of Gaza's analyzed population, will face Crisis-level acute food insecurity or worse through December 2026. This includes approximately 212,000 people projected to remain in Emergency conditions.",
+        "verified_figures": [
+          "1.4 million people facing Crisis-level acute food insecurity or worse",
+          "212,000 people facing Emergency food insecurity conditions"
+        ],
+        "sources": [
+          {
+            "name": "Sherafy.com",
+            "url": "https://sherafy.com/gaza-famine-food-insecurity/"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Haiti — Mass Gang Violence and Mass Kidnappings in Kenscoff",
+        "score": 9.0,
+        "body": "The United Nations confirmed that an armed gang attack in Kenscoff, near Port-au-Prince, killed at least 47 people, including five children, and resulted in the kidnapping of more than 50 others. A gang leader publicly threatened to murder all hostages if security forces attempt a rescue operation. In a related early-morning raid on a market in Bongard, Kenscoff, armed individuals killed at least 10 people and injured seven others, mostly targeting local farmers. Separately, Haitian National Police reported killing several armed suspects and destroying a gang leader's home during a security intervention in Martissant 2B.",
+        "verified_figures": [
+          "at least 47 people killed",
+          "at least 5 children killed",
+          "more than 50 people kidnapped",
+          "at least 10 people killed in market attack",
+          "7 people injured in market attack"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+          }
+        ]
+      },
+      {
+        "headline": "Venezuela — Protests Over Low Wages and Pensions Amid Economic Distress",
+        "score": 4.0,
+        "body": "Workers, teachers, caregivers, and retirees demonstrated in Caracas to demand living wages and higher pensions. Venezuela continues to experience triple-digit inflation and a national debt crisis, leaving vulnerable residents, particularly older citizens, unable to meet basic living costs. Separately, Russian officials publicly warned the United States against imposing a blockade or tightening sanctions on Venezuela, advocating instead for political dialogue between the government and opposition.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/venezuelans-protest-starvation-wages-low-pensions/g-80051817"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "DRC — Escalating Ebola outbreak and armed conflict",
+        "score": 9.0,
+        "body": "According to the Democratic Republic of the Congo's Ministry of Health, an Ebola outbreak caused by the Bundibugyo strain has infected 12,021 people and killed 5,904 since May. The outbreak has spread across eight provinces, with cases also reported in Uganda and Kenya. Outbreak response and containment efforts have been severely disrupted in eastern DRC after renewed fighting between Congolese armed forces and the Convention for the Popular Revolution rebel group forced thousands of civilians to flee and prompted the evacuation of Ebola response personnel. No approved vaccine or treatment exists for the Bundibugyo variant.",
+        "verified_figures": [
+          "12,021 confirmed cases",
+          "5,904 deaths",
+          "Thousands of civilians displaced",
+          "Outbreak spread across 8 DRC provinces"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/congo-ebola-outbreak-violence-0a0bc05d76d3278319472178a16be14b"
+          },
+          {
+            "name": "Xinhua",
+            "url": "https://english.news.cn/africa/20261127/b85b3d28e9cd4cf0a5c5cf951fa73175/c.html"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Escalating attacks on energy infrastructure threaten grid stability and civilian power supply",
+        "score": 7.0,
+        "body": "Ongoing attacks targeting Ukraine’s energy infrastructure have heightened electricity insecurity, causing uneven power outage schedules across multiple regions due to transmission network damage. National grid operator Ukrenergo reported persistent operational disruptions, while a Russian drone attack on 17 November targeted energy repair personnel in Zaporizhzhia. Ukrainian President Volodymyr Zelenskyy warned of an imminent major strike against the national power grid. In response to critical infrastructure vulnerabilities, the International Atomic Energy Agency is coordinating with both Ukraine and Russia to negotiate a localized ceasefire to repair an essential power link at the Zaporizhzhia Nuclear Power Plant.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Reuters",
+            "url": "https://www.reuters.com/business/energy/iaea-working-with-russia-ukraine-ceasefire-repair-power-link-zaporizhzhia-2026-11-27/"
+          },
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Indonesia — Illegal gold mine flooding leaves at least 16 dead",
+        "score": 7.0,
+        "body": "At least 16 people have died and 10 others remain missing after an illegal gold mine flooded on Monday in Indonesia. Rescuers are searching for survivors under hazardous, wet, and dark conditions. Initial reports indicated 13 deaths and 13 missing individuals, but updated figures confirmed 16 fatalities. The disaster highlights severe safety risks and lack of regulation surrounding illegal mining activities, which frequently endanger vulnerable workers across the region.",
+        "verified_figures": [
+          "16 killed",
+          "10 missing"
+        ],
+        "sources": [
+          {
+            "name": "Associated Press",
+            "url": "https://apnews.com/article/indonesia-illegal-gold-miners-flood-beb990b9d2e82b0732ec97bf27434d6d"
+          },
+          {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Afghanistan — OCHA allocates $32 million amid declining aid",
+        "score": 5.5,
+        "body": "The United Nations Office for the Coordination of Humanitarian Affairs announced that the Afghanistan Humanitarian Fund has allocated approximately $32 million to support vulnerable communities. The funding will support 45 new projects across key humanitarian sectors. OCHA warned that overall humanitarian funding for Afghanistan continues to decline even as countrywide needs remain extensive, exacerbating severe restrictions on public access to healthcare, education, and food security.",
+        "verified_figures": [
+          "$32 million allocated",
+          "45 new projects"
+        ],
+        "sources": [
+          {
+            "name": "ABNA English",
+            "url": "https://en.abna24.com/news/1895101/Afghanistan-Allocates-32-Million-in-Humanitarian-Aid-for-Vulnerable"
+          },
+          {
+            "name": "France 24",
+            "url": "https://www.france24.com/en/aid-cuts-to-taliban-ruled-afghanistan-further-curb-women-s-access-to-healthcare-education-and-food"
+          }
+        ]
+      },
+      {
+        "headline": "Thailand/Myanmar — IOM urges residency permits for 330,000 migrants",
+        "score": 5.0,
+        "body": "An official from the International Organization for Migration has urged Thai authorities to grant legal residency permits to migrants fleeing conflict in Myanmar. According to the IOM, an estimated 330,000 Myanmar nationals entered Thailand by land last year intending to stay long-term, but most are unlikely to obtain formal residency status. Formal integration could alleviate local labor shortages while ensuring vulnerable displaced populations receive legal protection and fair treatment.",
+        "verified_figures": [
+          "330,000 Myanmar nationals entered Thailand by land last year"
+        ],
+        "sources": [
+          {
+            "name": "Japan Wire by Kyodo News",
+            "url": "https://english.kyodonews.net/articles/-/92770"
+          }
+        ]
+      },
+      {
+        "headline": "Myanmar — Landmine contamination poses persistent threat in conflict zones",
+        "score": 5.0,
+        "body": "Widespread landmine usage in conflict-affected regions of Myanmar continues to inflict severe casualties on both combatants and civilians. Reports from central regions such as Bago detail blast injuries resulting in permanent amputations and long-term trauma. Explosive contamination across combat zones presents acute protection risks, restricts movement, and complicates humanitarian assistance for communities impacted by ongoing hostilities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Sight Magazine",
+            "url": "https://sightmagazine.com.au/features/landmine-toll-in-war-ravaged-myanmar-a-rebel-with-an-artificial-leg-vows-to-fight-on/"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Democratic Republic of the Congo / Kenya — Ebola Outbreak Surpasses 12,000 Cases as Fighting Impedes Containment",
+        "score": 9.0,
+        "body": "Government figures indicate that an Ebola outbreak in eastern Democratic Republic of the Congo has reached 12,021 confirmed cases, with nearly half of affected individuals dying. The epidemic, caused by the rare Bundibugyo virus for which no approved vaccine or treatment exists, is deteriorating as armed conflict between military forces and rebels forces health responders to evacuate. In neighboring Kenya, a court ordered the suspension of a U.S.-backed $13.5 million, 50-bed Ebola quarantine facility at Laikipia Air Base, ruling that the government breached the constitution by failing to consult the public or disclose terms of the bilateral deal with Washington.",
+        "verified_figures": [
+          "12,021 confirmed Ebola cases",
+          "Nearly half of 12,021 confirmed cases dead",
+          "$13.5 million committed to Ebola preparation efforts in Kenya",
+          "50-bed facility at Laikipia Air Base"
+        ],
+        "sources": [
+          {
+            "name": "Morning Star | The People’s Daily",
+            "url": "https://morningstaronline.co.uk/article/ebola-outbreak-reaches-12000-responders-forced-evacuate-face-conflict"
+          }
+        ]
+      },
+      {
+        "headline": "Nigeria — Emergency Operations Centre Activated Response to FCT Cholera Outbreak",
+        "score": 4.5,
+        "body": "The Federal Capital Territory Administration in Nigeria activated its Public Health Emergency Operations Centre to manage an ongoing cholera outbreak ahead of expected seasonal risks. Public health authorities noted that the activation aims to strengthen disease surveillance, improve emergency response capabilities, and prevent additional transmission and fatalities across affected local communities.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "The Guardian Nigeria News",
+            "url": "https://guardian.ng/features/health/fct-activates-emergency-health-centre-as-cholera-outbreak-raises-concern/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Hawaii Prepares for Flash Floods and High Winds from Hurricane Lowell",
+        "score": 4.0,
+        "body": "Authorities in Hawaii urged residents and visitors to prepare for flash floods and high winds as Hurricane Lowell tracked near the western main islands of Kauai and Niihau. The storm weakened to a Category 2 hurricane, with forecast models indicating severe weather impacts overnight into Tuesday morning across parts of the state.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Breaking News, Latest News and Videos",
+            "url": "https://abcnews.com/US/hawaii-braces-hurricane-lowell-amid-risk-dangerous-winds/story?id=136254131"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Flood Risks and Evacuations Persist on Vancouver Island Following Heavy Rain",
+        "score": 3.5,
+        "body": "Days of torrential rainfall across southern British Columbia prompted evacuations and flood warnings on Vancouver Island. Although river forecast officials reported that peak water levels had passed for much of the coastal region, central Vancouver Island remains under active flood warnings as elevated river levels continue to pose risks.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "Kelowna Courier",
+            "url": "https://www.kelownadailycourier.ca/news/national_news/article_f656336f-b0ab-57ee-9090-49588cc46845.html"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Eastern Democratic Republic of the Congo",
+      "score": 8.5,
+      "trigger": "Continued military clashes between Congolese armed forces and CPR rebels preventing the return of evacuated Ebola response personnel.",
+      "potential_impact": "Unchecked transmission of the unvaccinable Bundibugyo Ebola strain across eastern provinces and neighboring countries, significantly increasing mortality.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/congo-ebola-outbreak-violence-0a0bc05d76d3278319472178a16be14b"
+        },
+        {
+          "name": "France 24",
+          "url": "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response"
+        }
+      ]
+    },
+    {
+      "location": "Kenscoff, Haiti",
+      "score": 8.5,
+      "trigger": "A armed security force intervention targeting gang positions in response to ongoing violence and mass abductions.",
+      "potential_impact": "The execution of over 50 kidnapped hostages by gang members and severe collateral casualties among local residents.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "DW.com",
+          "url": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635"
+        }
+      ]
+    },
+    {
+      "location": "Gaza Strip",
+      "score": 8.0,
+      "trigger": "The execution of announced military threats to launch a wide-scale ground operation across remaining populated areas.",
+      "potential_impact": "Mass displacement of up to one million residents into severe overcrowding with inadequate access to shelter, clean water, and medical care.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-threatens-new-gaza-offensive-involving-displacement-of-1-million-palestinians-/4138568"
+        }
+      ]
+    },
+    {
+      "location": "Ukraine",
+      "score": 7.5,
+      "trigger": "An imminent wide-scale missile or drone strike against critical power transmission infrastructure and nuclear facility power links.",
+      "potential_impact": "Widespread grid failure causing prolonged blackouts and loss of heating for millions of civilians during winter conditions.",
+      "confidence": "High",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://www.reuters.com/business/energy/iaea-working-with-russia-ukraine-ceasefire-repair-power-link-zaporizhzhia-2026-11-27/"
+        },
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-power-122f7f187eea20d4d2b659692b4c4f1e"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Reuters",
+      "Associated Press",
+      "BBC",
+      "France 24 English",
+      "The Guardian",
+      "Xinhua English World"
+    ],
+    "all_sources": [
+      {
+        "name": "Associated Press",
+        "count": 5
+      },
+      {
+        "name": "BBC",
+        "count": 3
+      },
+      {
+        "name": "DW.com",
+        "count": 3
+      },
+      {
+        "name": "France 24",
+        "count": 3
+      },
+      {
+        "name": "Reuters",
+        "count": 3
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "ABNA English",
+        "count": 1
+      },
+      {
+        "name": "Breaking News, Latest News and Videos",
+        "count": 1
+      },
+      {
+        "name": "Japan Wire by Kyodo News",
+        "count": 1
+      },
+      {
+        "name": "Kelowna Courier",
+        "count": 1
+      },
+      {
+        "name": "Morning Star | The People’s Daily",
+        "count": 1
+      },
+      {
+        "name": "Sherafy.com",
+        "count": 1
+      },
+      {
+        "name": "Sight Magazine",
+        "count": 1
+      },
+      {
+        "name": "The Guardian",
+        "count": 1
+      },
+      {
+        "name": "The Guardian Nigeria News",
+        "count": 1
+      },
+      {
+        "name": "Xinhua",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "6 item(s) had no extractable figures in available reporting.",
+      "Published-source links: 2/2 Google News-derived link(s) resolved to a stable publisher URL.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1092,
+      "sources_cited": 16
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
