@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-28",
+  "printed_time": "6:14 AM UTC",
+  "top_five": [
+    {
+      "rank": 1,
+      "text": "The Democratic Republic of the Congo is facing a severe Ebola outbreak caused by the Bundibugyo virus strain, with 12,021 confirmed cases and 5,904 deaths recorded amid ongoing insecurity and responder evacuations.",
+      "region": "Africa"
+    },
+    {
+      "rank": 2,
+      "text": "An Israeli military strike on an MSF-operated clinic in Gaza killed two watchmen, highlighting severe protection risks facing humanitarian personnel and healthcare facilities.",
+      "region": "Middle East"
+    },
+    {
+      "rank": 3,
+      "text": "A joint UN early warning report warned of expanding acute hunger across 16 global hotspots, designating Afghanistan as a country of very high concern and citing worsening food insecurity in Myanmar.",
+      "region": "Asia-Pacific"
+    },
+    {
+      "rank": 4,
+      "text": "Ukraine submitted a Black Sea ceasefire proposal to safeguard critical maritime grain corridors following Russian strikes on two foreign grain carriers near Odesa.",
+      "region": "Europe"
+    },
+    {
+      "rank": 5,
+      "text": "A drone attack on a military facility in Kuwait killed two Italian nationals, elevating regional tensions after Italy stated the unmanned aircraft was produced in Iran.",
+      "region": "Middle East"
+    }
+  ],
+  "top_story": {
+    "score": 9.0,
+    "quote": "The Democratic Republic of the Congo is confronting an escalating Ebola outbreak marked by 12,021 confirmed cases and 5,904 deaths, while active conflict, displacement, and low contact tracing severely impede containment operations.",
+    "label": "AFRICA — Severe Ebola Outbreak and Response Impediments in DRC"
+  },
+  "sections": {
+    "Middle East": [
+      {
+        "headline": "Gaza/OPT — Israeli Strike on MSF Clinic Kills Two Staff Members",
+        "score": 7.5,
+        "body": "An Israeli military strike targeted a clinic operated by Doctors Without Borders (MSF) in Gaza, killing two watchmen. The facility was actively managed by the international medical humanitarian organization when the attack occurred. The incident highlights ongoing severe protection risks facing health workers and humanitarian infrastructure operating within Gaza.",
+        "verified_figures": [
+          "2 MSF staff killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Kuwait/Iran — Fatal Drone Attack on Military Facility Triggers Regional Tensions",
+        "score": 6.5,
+        "body": "A drone strike on a military facility in Kuwait killed two Italian nationals. Italian Foreign Minister Antonio Tajani stated that the drone involved was manufactured in Iran. Tehran has denied responsibility for the attack. In response, European Commission President Ursula von der Leyen called for increased international pressure on Tehran, citing Gulf security as essential to broader regional stability. The escalation coincides with threats to maritime shipping and a modest rise in global oil prices.",
+        "verified_figures": [
+          "2 Italian nationals killed"
+        ],
+        "sources": [
+          {
+            "name": "Al Jazeera English",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss"
+          }
+        ]
+      },
+      {
+        "headline": "Syria — Security Forces Targeted in Drone and Armed Attacks in South",
+        "score": 4.5,
+        "body": "Armed attacks in southern Syria have left security personnel dead and injured across two separate incidents. In Suwayda province, four members of Syria's internal security forces were injured in a bomb-laden drone attack carried out by armed groups along the Rima Hazem axis. State media reported this as the second drone strike in the area in less than a week. In a separate incident, gunmen killed two Syrian soldiers in the Daraa countryside.",
+        "verified_figures": [
+          "4 security personnel injured",
+          "2 soldiers killed"
+        ],
+        "sources": [
+          {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr/en/middle-east/4-syrian-security-personnel-injured-in-drone-attack-in-suwayda-2nd-incident-this-week/4140831"
+          }
+        ]
+      },
+      {
+        "headline": "Iran — Rights Group Warns of Severe Judicial Crackdown and Sentences",
+        "score": 5.0,
+        "body": "Human rights advocates from Amnesty International report a severe deterioration in Iran's judicial process following the January 2026 protests. Demonstrators face death sentences and extrajudicial killings after trials described as grossly unfair and marred by torture. Authorities have reportedly sought to equate peaceful dissent with treason and espionage. Rights researchers are calling for an international criminal justice mechanism, such as a special tribunal, to ensure accountability for alleged crimes against humanity.",
+        "verified_figures": [],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades"
+          }
+        ]
+      }
+    ],
+    "Americas": [
+      {
+        "headline": "Central America — UN warns of rising hunger as global hotspots expand",
+        "score": 6.5,
+        "body": "The Food and Agriculture Organization and the World Food Programme warned that severe hunger is set to worsen across 16 global hotspots over the next six months. Driven by conflict, displacement, economic distress, and extreme weather, the number of identified hotspots rose from 13 in June, with Central America, Chad, Uganda, and parts of southern Africa newly added to the watch list. Meanwhile, Sudan, South Sudan, Somalia, northern Nigeria, and Yemen face the highest risk of famine.",
+        "verified_figures": [
+          "16 global hotspots",
+          "13 hotspots in June report"
+        ],
+        "sources": [
+          {
+            "name": "WTVB",
+            "url": "https://wtvbam.com/2026/11/27/un-warns-famine-risks-rising-as-hunger-hotspots-increase/"
+          }
+        ]
+      },
+      {
+        "headline": "United States — Severe nor'easter causes coastal flooding and power outages",
+        "score": 4.5,
+        "body": "A powerful nor'easter coastal storm drenched the eastern United States, bringing heavy rain, high winds, and damaging coastal flooding from the Carolinas to New England. The storm rapidly intensified along the Atlantic seaboard, downing power lines and cutting electricity to hundreds of thousands of customers. The severe weather disrupted air, rail, and road transit during peak Thanksgiving holiday travel.",
+        "verified_figures": [
+          "hundreds of thousands of customers left without power"
+        ],
+        "sources": [
+          {
+            "name": "The Traveler",
+            "url": "https://www.thetraveler.org/thanksgiving-noreaster-floods-u-s-east-coast-snarls-holiday-travel/"
+          }
+        ]
+      },
+      {
+        "headline": "Canada — Immigration and travel restrictions extended over Ebola outbreak",
+        "score": 3.0,
+        "body": "The Government of Canada has extended temporary travel and border restrictions for an additional 90 days, maintaining the measures until 25 February 2027. Under the extended policy, immigration documents, visas, permits, and electronic travel authorizations remain suspended for foreign nationals residing in the Democratic Republic of the Congo, Uganda, and South Sudan. Canadian authorities cited precautionary measures to prevent Ebola transmission into the country as monitoring of regional outbreaks continues.",
+        "verified_figures": [
+          "90-day extension",
+          "restrictions in force until February 25, 2027"
+        ],
+        "sources": [
+          {
+            "name": "Canada.ca",
+            "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/government-canada-extends-temporary-border-measures-response-ebola-disease-outbreak.html"
+          }
+        ]
+      }
+    ],
+    "Africa": [
+      {
+        "headline": "Democratic Republic of the Congo — Escalating Ebola Outbreak and Insecurity",
+        "score": 9.0,
+        "body": "The Democratic Republic of the Congo is confronting a major Ebola outbreak, with official data recording 12,021 confirmed cases and 5,904 deaths, representing a 49.1 percent fatality rate. Driven by the Bundibugyo virus strain—for which no approved vaccine or specific treatment exists—containment efforts are severely hampered by conflict, mass displacement, and low contact tracing. Recent heavy fighting trapped World Health Organization and national health responders in Akwe before their evacuation to Bunia. Additionally, analysis of cemetery records in Mongbwalu indicates that unregistered deaths may mean the actual casualty count is substantially higher, while a UNICEF survey reveals nearly six in 10 women and girls in the epicenter report worsening abuse.",
+        "verified_figures": [
+          "12,021 confirmed Ebola cases",
+          "5,904 deaths",
+          "49.1% case fatality ratio",
+          "15% of new cases linked to known contacts",
+          "nearly 6 in 10 women and girls reporting new or worsening abuse"
+        ],
+        "sources": [
+          {
+            "name": "DW.com",
+            "url": "https://www.dw.com/en/dr-congos-ebola-death-toll-may-be-far-higher-than-reported/video-80074461"
+          }
+        ]
+      }
+    ],
+    "Europe": [
+      {
+        "headline": "Ukraine — Black Sea Ceasefire Offered Following Attacks on Foreign Grain Carriers",
+        "score": 6.5,
+        "body": "Ukraine has submitted a Black Sea ceasefire proposal to international partners to enable food exports, while awaiting a formal response from Moscow. The initiative follows Russian strikes targeting two foreign grain carriers near Ukraine's Black Sea port of Odesa. The proposal seeks to secure critical maritime corridors essential for global food security amid ongoing attacks on commercial shipping infrastructure.",
+        "verified_figures": [
+          "2 foreign grain carriers attacked"
+        ],
+        "sources": [
+          {
+            "name": "France 24 English",
+            "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Russian Drone Strike Injures Civilians and Damages Schools in Kremenchuk",
+        "score": 5.0,
+        "body": "A Russian unmanned aerial vehicle struck Kremenchuk in Ukraine's Poltava region on November 27, injuring four people, including three children. The strike inflicted extensive damage on two educational institutions in the city. Local authorities reported that all affected individuals are receiving necessary medical treatment.",
+        "verified_figures": [
+          "4 people injured",
+          "3 children injured",
+          "2 educational institutions damaged"
+        ],
+        "sources": [
+          {
+            "name": "112.ua",
+            "url": "https://112.ua/en/rosijskij-bpla-atakuvav-kremencuk-27-listopada-postrazdali-cetvero-sered-nih-troe-ditej-201091"
+          }
+        ]
+      },
+      {
+        "headline": "Ukraine — Over $18 Million Secured for International Humanitarian Food Program",
+        "score": 4.0,
+        "body": "Ukrainian President Volodymyr Zelenskyy announced that over $18 million has been raised to support the Grain from Ukraine humanitarian food program. Supported by financial contributions from Sweden, Norway, Finland, Japan, and Germany, the initiative facilitates the supply of Ukrainian food commodities to nations facing critical food insecurity.",
+        "verified_figures": [
+          "Over $18 million secured for humanitarian food program"
+        ],
+        "sources": [
+          {
+            "name": "The New Voice of Ukraine",
+            "url": "https://english.nv.ua/nation/grain-from-ukraine-has-over-18-million-for-food-aid-program-50663252.html"
+          }
+        ]
+      }
+    ],
+    "Asia-Pacific": [
+      {
+        "headline": "Asia-Pacific — UN Warns Worsening Hunger in Afghanistan and Myanmar",
+        "score": 6.5,
+        "body": "A joint early warning report by the Food and Agriculture Organization and the World Food Programme warns that acute food insecurity will worsen across 16 global hotspots over the next six months. Driven primarily by armed conflict, economic instability, and climate shocks including the El Niño phenomenon, hunger risks are escalating worldwide. Within the Asia-Pacific region, Afghanistan has been designated as a country of very high concern, while Myanmar is also listed among the severely impacted nations facing heightened hunger threats from December through May 2027.",
+        "verified_figures": [
+          "16 global hotspots"
+        ],
+        "sources": [
+          {
+            "name": "The Star",
+            "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/27/conflicts-el-nino-worsening-hunger-myanmar-among-badly-hit-say-un-food-agencies"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un"
+          }
+        ]
+      }
+    ],
+    "Global / Cross-Cutting": [
+      {
+        "headline": "Nigeria — Health authorities activate emergency center following FCT cholera fatalities",
+        "score": 5.0,
+        "body": "The Federal Capital Territory Administration in Nigeria activated its Multisectoral Cholera Emergency Operations Centre to contain an ongoing outbreak across the territory. The response follows recent cholera deaths, including at least five recorded fatalities in the Gwagwa community within the Abuja Municipal Area Council. Health officials had previously warned that transmission in the country peaks between late August and October, with seasonal rainfall and flooding amplifying risks by contaminating public water sources.",
+        "verified_figures": [
+          "at least 5 deaths"
+        ],
+        "sources": [
+          {
+            "name": "Daily Trust",
+            "url": "https://dailytrust.com/fcta-activates-emergency-operations-centre-to-contain-cholera-outbreak/"
+          }
+        ]
+      },
+      {
+        "headline": "Kenya — High Court orders suspension of US-backed Ebola quarantine facility",
+        "score": 4.0,
+        "body": "Kenya's High Court ordered the suspension of construction and operations at a 50-bed US-backed Ebola quarantine facility located at Laikipia Air Base near Nanyuki. The court gave Kenyan authorities 45 days to comply with constitutional disclosure requirements regarding the agreement with Washington. The project was initially approved by President William Ruto following a request from US President Donald Trump. Prior to the suspension order, the facility had accommodated seven American aid workers who had been deployed to Ebola response efforts in the Democratic Republic of the Congo.",
+        "verified_figures": [
+          "50-bed facility capacity",
+          "7 aid workers accommodated"
+        ],
+        "sources": [
+          {
+            "name": "Business Insider Africa",
+            "url": "https://africa.businessinsider.com/lifestyle/after-months-of-opposition-and-deadly-protests-east-african-nation-ordered-to-halt/8484brt"
+          }
+        ]
+      }
+    ]
+  },
+  "escalation_risks": [
+    {
+      "location": "Southern Syria (Suwayda and Daraa)",
+      "score": 5.0,
+      "trigger": "Continued drone attacks and ambushes targeting Syrian internal security forces could spark broader armed clashes in southern provinces.",
+      "potential_impact": "Escalating hostilities risk causing civilian casualties, localized displacement, and restricted movement across southern Syria.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/middle-east/4-syrian-security-personnel-injured-in-drone-attack-in-suwayda-2nd-incident-this-week/4140831"
+        }
+      ]
+    },
+    {
+      "location": "Federal Capital Territory, Nigeria",
+      "score": 5.0,
+      "trigger": "Ongoing seasonal rainfall and localized flooding contaminating public water systems could rapidly expand cholera transmission beyond initial clusters in Abuja.",
+      "potential_impact": "Accelerated waterborne disease transmission threatens vulnerable communities and risks overwhelming local medical response capacities.",
+      "confidence": "Medium",
+      "sources": [
+        {
+          "name": "Daily Trust",
+          "url": "https://dailytrust.com/fcta-activates-emergency-operations-centre-to-contain-cholera-outbreak/"
+        }
+      ]
+    }
+  ],
+  "source_notes": {
+    "strongest_sources": [
+      "Al Jazeera English",
+      "France 24 English"
+    ],
+    "all_sources": [
+      {
+        "name": "Al Jazeera English",
+        "count": 2
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "count": 2
+      },
+      {
+        "name": "Daily Trust",
+        "count": 2
+      },
+      {
+        "name": "France 24 English",
+        "count": 2
+      },
+      {
+        "name": "112.ua",
+        "count": 1
+      },
+      {
+        "name": "Al Jazeera",
+        "count": 1
+      },
+      {
+        "name": "Business Insider Africa",
+        "count": 1
+      },
+      {
+        "name": "Canada.ca",
+        "count": 1
+      },
+      {
+        "name": "DW.com",
+        "count": 1
+      },
+      {
+        "name": "The New Voice of Ukraine",
+        "count": 1
+      },
+      {
+        "name": "The Star",
+        "count": 1
+      },
+      {
+        "name": "The Traveler",
+        "count": 1
+      },
+      {
+        "name": "WTVB",
+        "count": 1
+      }
+    ],
+    "limitations": [
+      "1 item(s) had no extractable figures in available reporting.",
+      "Regional analysis and writing: 6/6 region(s) with candidate material generated via Gemini (LLM), 0 fell back to rule-based generation. Cross-region synthesis (top five / top story / escalation risks): llm."
+    ],
+    "coverage_snapshot": {
+      "outlets_reviewed": 19,
+      "themes_searched": 36,
+      "items_considered": 1061,
+      "sources_cited": 13
+    },
+    "internal_sources_confirmation": "Confirmed: no internal emails, internal files, or internal media monitoring products were used in this edition. All material was drawn from Google News RSS."
+  }
+}
